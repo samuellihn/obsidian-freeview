@@ -1,0 +1,8 @@
+- [[Magnetic Fields in Current-carrying Wires]]
+- [[Calculating Magnetic Field Due to Moving Point Charge]]
+- [[Law of Biot-Savart]]
+- [[Ampere's Law]]
+- [[Applications of Ampere's Law]]
+- [[Magnetic Field in Solenoid]]
+	- [[Force Between Current Carrying Wires]]
+- [[Magnetic Field on Axis of Circular Hoop]]

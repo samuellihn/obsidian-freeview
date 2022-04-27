@@ -1,0 +1,6 @@
+vaultPath: '/Users/samli/OneDrive/Notes/Samuel Lihn'
+exclude:
+  - weekly thoughts*
+  - Portfolio/*
+  - Daily Notes/*
+  - Homework/*

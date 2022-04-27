@@ -1,0 +1,22 @@
+{
+  "name": "remark-obsidian-link",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "unified",
+    "remark",
+    "remark-plugin",
+    "plugin",
+    "mdast",
+    "markdown"
+  ],
+  "sideEffects": false,
+  "type": "module",
+  "main": "",
+  "files": [
+    ""
+  ],
+  "dependencies": {
+    "unified": "^10.0.0"
+  }
+}

@@ -1,0 +1,2 @@
+Mass relates to [[Inertia]]
+
