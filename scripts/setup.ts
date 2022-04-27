@@ -74,6 +74,7 @@ for (md of markdownFiles) {
 }
 
 for (const s of fs.readdirSync(path.join(process.cwd(), "staticFiles"))) {
+    console.log(s)
     fs.copyFileSync(path.join(process.cwd(), "staticFiles", s), path.join(process.cwd(), "public", s))
 }
 
