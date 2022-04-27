@@ -73,8 +73,8 @@ for (md of markdownFiles) {
     fileMap.fileNames[slug] = md
 }
 
-for (const s of fs.readdirSync(path.join(process.cwd(), "static"))) {
-    fs.copyFileSync(path.join(process.cwd(), "static", s), path.join(process.cwd(), "public", s))
+for (const s of fs.readdirSync(path.join(process.cwd(), "staticFiles"))) {
+    fs.copyFileSync(path.join(process.cwd(), "staticFiles", s), path.join(process.cwd(), "public", s))
 }
 
 fs.writeFileSync(path.join(process.cwd(), "state", "slugs.json"), JSON.stringify(fileMap, null, 2), 'utf-8')
