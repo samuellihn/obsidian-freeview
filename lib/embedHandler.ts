@@ -18,7 +18,7 @@ export function getEmbeddedSyntaxTree(fileMap: FileMap, processor: Processor, em
             let hast = toHast(<MdastNode>mdTree, {
                 handlers: {
                     obsidianLink: obsidianLinkToHast(),
-                    obsidianEmbed: obsidianEmbedToHast(() => "")
+                    obsidianEmbed: obsidianEmbedToHast({getEmbeddedSyntaxTree: () => ""})
                 }
             })
             let newRoot = h("div", {class: embedClassName})

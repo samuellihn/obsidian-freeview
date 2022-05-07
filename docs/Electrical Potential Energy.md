@@ -18,3 +18,7 @@ Very similar to the [[Energy of Gravitational Fields]] equation: simply [[Coulom
 Opposite charges: potential energy will be negative (attraction)
 Same charges: potential energy will be positive (repulsion)
 
+To charge an object to charge $Q$ inside electrica potential $V$ from infinity, the amount of work required is:
+
+$$W = \int_0^Q{Vdq}$$
+

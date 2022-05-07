@@ -3,19 +3,25 @@ import glob from "glob"
 import path from "path";
 import {Config, getConfigSync} from "../lib/configManager";
 import createSlug from "../lib/slugger"
-import {any} from "prop-types";
-
-if (process.argv.includes("--clean")) {
-    fs.rmSync(path.join(process.cwd(), "public"), {recursive: true})
-
-}
 
 const destDir = path.join(process.cwd(), "public")
+
+console.log("Cleaning output directory...")
+// Clean output directory if specified
+if (process.argv.includes("--clean")) {
+    fs.rmSync(path.join(process.cwd(), "public"), {recursive: true})
+}
+console.log("Clean finished.")
+
+console.log("Resetting state...")
+// Clear state
 if (fs.existsSync(path.join(process.cwd(), "state", "slugs.json"))) {
     fs.rmSync(path.join(process.cwd(), "state", "slugs.json"))
 }
+console.log("State reset.")
 
-
+console.log("Getting configuration file...")
+// Get configuration
 const config: Config = getConfigSync() as Config
 const globOptions = {
     cwd: config.vaultPath
@@ -30,10 +36,14 @@ if (config.exclude) {
     }
     excludePattern = excludePattern.substring(0, excludePattern.length - 1)
 }
+console.log("Configuration built.")
+
+console.log("Getting vault files...")
 let globRes = glob.sync("**", globOptions)
+console.log("Done.")
 
+console.log("Creating destination directories...")
 // Create all directories
-
 let directories = globRes
     .filter((elem) => elem.split(".").length < 2)
     .map((elem) => elem + "/")
@@ -45,8 +55,9 @@ for (const d of directories) {
         fs.mkdirSync(p, {recursive: true})
     }
 }
+console.log("Done.")
 
-
+console.log("Copying files...")
 // Copy files
 let files = globRes
     .filter((elem) => elem.split(".").length > 1)
@@ -56,9 +67,10 @@ for (const f of files) {
     let p = path.join(destDir, f)
     fs.copyFileSync(path.join(config.vaultPath, f), p)
 }
+console.log("Done.")
 
-// Slug md files
-
+console.log("Creating state...")
+// Slug md files into slugs.json
 type FileMap = {
     slugs: any
     fileNames: any
@@ -73,9 +85,26 @@ for (md of markdownFiles) {
     fileMap.fileNames[slug] = md
 }
 
+fs.writeFileSync(path.join(process.cwd(), "state", "slugs.json"), JSON.stringify(fileMap, null, 2), 'utf-8')
+console.log("Done.")
+
+console.log("Copying _freeview directory...")
+let indexPath
+if (fs.existsSync(indexPath = path.join(config.vaultPath, "_freeview"))) {
+    let destIndexPath
+    if (!fs.existsSync(destIndexPath = path.join(process.cwd(), "state", "_freeview"))) {
+        fs.mkdirSync(destIndexPath)
+    }
+    for (const s of fs.readdirSync(indexPath)) {
+        fs.copyFileSync(path.join(indexPath, s), path.join(destIndexPath, s))
+    }
+}
+console.log("Done.")
+
+console.log("Copying staticFiles directory...")
+// Copy staticFiles directory
 for (const s of fs.readdirSync(path.join(process.cwd(), "staticFiles"))) {
-    console.log(s)
     fs.copyFileSync(path.join(process.cwd(), "staticFiles", s), path.join(process.cwd(), "public", s))
 }
-
-fs.writeFileSync(path.join(process.cwd(), "state", "slugs.json"), JSON.stringify(fileMap, null, 2), 'utf-8')
+console.log("Done.")
+console.log('All done.')

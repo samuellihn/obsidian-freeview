@@ -1,4 +1,4 @@
-[[TODO need something on Kepler's Law]]
+TODO need something on Kepler's Law
 
 - [[Kinematics of Uniform Circular Motion]]
 - [[Dynamics of Uniform Circular Motion]]

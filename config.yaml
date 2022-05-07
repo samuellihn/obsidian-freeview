@@ -1,5 +1,6 @@
 vaultPath: '/Users/samli/OneDrive/Notes/Samuel Lihn'
 exclude:
+  - _freeview/*
   - weekly thoughts*
   - Portfolio/*
   - Daily Notes/*

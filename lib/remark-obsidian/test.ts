@@ -1,13 +1,15 @@
+
+import {obsidianMathFlow} from "./micromark-extension-obsidian-math";
+import {obsidianLinks} from "./micromark-extension-obsidian-link";
 import fs from "fs"
 import {micromark} from "micromark"
-import {obsidianLinks, obsidianLinksHtml} from "./micromark-extension-obsidian-link.js";
-import {obsidianEmbed, obsidianEmbedHtml} from "./micromark-extension-obsidian-embed.js"
+// import {mathHtml} from "micromark-extension-math"
 
 
 const microMarkOptions = {
-    extensions: [obsidianLinks, obsidianEmbed],
+    extensions: [obsidianMathFlow, obsidianLinks],
     htmlExtensions: [
-        obsidianEmbedHtml(() => "<div>hello world</div>"),
+        // mathHtml()
     ]
 }
 const buf = fs.readFileSync("LC Circuit.md")

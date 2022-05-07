@@ -1,0 +1,6 @@
+![[Nixon Prsidency]]
+![[Watergate]]
+![[Ford Presidency]]
+![[Carter Presidency]]
+![[Carter Middle East]]
+![[Changes in 1960-70s]]

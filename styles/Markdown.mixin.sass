@@ -4,6 +4,7 @@
 @use "sass:color"
 
 @mixin markdown
+  color: variables.$space-cadet
   h1, h2, h3, h4, h5, h6
     font-family: variables.$serif
 
@@ -11,8 +12,8 @@
     h#{$i}
       font-size: #{2.7 - $i * 0.2}em
       margin: #{0.88 - $i * 0.08}em 0  #{0.44 - $i * 0.04}em 0
+
   p, ul, ol
-    color: variables.$space-cadet
     font-family: variables.$sans-serif
     font-weight: 400
     margin: 0.9em 0
@@ -34,6 +35,9 @@
     word-wrap: break-word
     text-align: justify
 
+  img
+    max-width: 100%
+    max-height: 40em
   blockquote
     background-color: color.scale(variables.$laurel-green, $lightness: 50%)
     margin: 1em 0
@@ -67,3 +71,5 @@
 
     &:visited
       color: variables.$independence
+
+

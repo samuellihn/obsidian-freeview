@@ -1,1 +1,2 @@
-The **LC Circuit** has a ![[Capacitors]] hello 
+The **LC Circuit** has a $$block math$$
+hello

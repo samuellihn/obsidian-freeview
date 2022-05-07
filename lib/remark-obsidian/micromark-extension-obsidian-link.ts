@@ -1,14 +1,15 @@
-import {slugPath, slug} from "./slugger.js";
-import {getHref, parseLinkBody} from "./lib/obsidian-link-util.js";
+import {slugPath, slug} from "./slugger";
+import {getHref, parseLinkBody} from "./lib/obsidian-link-util";
+import {Construct, State, Effects, Code} from "micromark-util-types"
 
-const obsidianLinkConstruct = {name: "obsidianLink", tokenize: obsidianLinkTokenize}
+const obsidianLinkConstruct: Construct = {name: "obsidianLink", tokenize: obsidianLinkTokenize}
 export const obsidianLinks = {text: {91: obsidianLinkConstruct}}
 
-function obsidianLinkTokenize(effects, ok, nok) {
+function obsidianLinkTokenize(effects: Effects, ok: State, nok: State): State {
     return start
 
     // Detected the first square bracket
-    function start(code) {
+    function start(code: Code): State {
         effects.enter("obsidianLink")
         effects.enter("obsidianLinkOpen")
         effects.consume(code)
@@ -16,7 +17,7 @@ function obsidianLinkTokenize(effects, ok, nok) {
     }
 
     // Look for the second square bracket
-    function nextStart(code) {
+    function nextStart(code: Code): void | State {
         if (code === 91) {
             effects.consume(code)
             effects.exit("obsidianLinkOpen")
@@ -28,7 +29,7 @@ function obsidianLinkTokenize(effects, ok, nok) {
 
 
     // Is the link empty?
-    function begin(code) {
+    function begin(code: Code) {
         if (code === 93) {
             return exitEmpty
         } else {
@@ -39,7 +40,7 @@ function obsidianLinkTokenize(effects, ok, nok) {
     }
 
     // Link body
-    function inside(code) {
+    function inside(code: Code): State {
         if (code === 93) {
             effects.exit("chunkString")
             effects.exit("obsidianLinkInside")
@@ -47,11 +48,10 @@ function obsidianLinkTokenize(effects, ok, nok) {
         }
         effects.consume(code)
         return inside
-
     }
 
     // First square bracket
-    function exitFull(code) {
+    function exitFull(code: Code): State {
         // effects.enter("obsidianLinkMarker")
         effects.enter("obsidianLinkClose")
         effects.consume(code)
@@ -60,7 +60,7 @@ function obsidianLinkTokenize(effects, ok, nok) {
 
 
     // Check for second square bracket for a valid link
-    function confirmExit(code) {
+    function confirmExit(code: Code): void | State {
         if (code === 93) {
             effects.consume(code)
             effects.exit("obsidianLinkClose")
@@ -75,7 +75,7 @@ function obsidianLinkTokenize(effects, ok, nok) {
     }
 
     // Exit if the link has no body
-    function exitEmpty(code) {
+    function exitEmpty(code: Code): void | State {
         effects.consume(code)
         // effects.exit("obsidianLink")
         return nok(code)
@@ -87,17 +87,22 @@ export function obsidianLinksHtml(getFileSlug = slugPath, getHeadingSlug = slug)
     return {
         enter: {
             obsidianLink() {
+                // @ts-ignore
                 this.buffer()
             }
         },
         exit: {
             obsidianLink() {
+                // @ts-ignore
                 let linkBody = this.resume()
                 let link = parseLinkBody(linkBody)
                 let href = getHref(link, getFileSlug, getHeadingSlug)
 
+                // @ts-ignore
                 this.tag(`<a href="${href}">`)
+                // @ts-ignore
                 this.raw(this.encode(link.displayText))
+                // @ts-ignore
                 this.tag("</a>")
             }
         }

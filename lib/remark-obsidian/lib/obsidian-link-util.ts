@@ -1,4 +1,6 @@
-export function parseLinkBody(body) {
+import {Slugger} from "../slugger";
+
+export function parseLinkBody(body: string) {
     // If this link doesn't have display text, it will be undefined
     let [link, displayText] = body.split("|")
     // If this link doesn't have a heading link, it will be undefined
@@ -18,6 +20,11 @@ export function parseLinkBody(body) {
     }
 }
 
-export function getHref(link, getFileSlug, getHeadingSlug) {
+export type ObsidianLinkData = {
+    heading: string,
+    file: string,
+}
+
+export function getHref(link: ObsidianLinkData, getFileSlug: Slugger, getHeadingSlug: Slugger) {
     return link.heading ? `${getFileSlug(link.file)}#${getHeadingSlug(link.heading)}` : getFileSlug(link.file)
 }

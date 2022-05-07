@@ -1,4 +1,6 @@
-export function determineEmbedType(linkBody) {
+export type EmbedType = "image" | "fileEmbed" | undefined
+
+export function determineEmbedType(linkBody: string): EmbedType {
 
     // Images
     if (/.(jpg|jpeg|png|gif)(\|(\d+)x(\d+))?$/.test(linkBody)) {

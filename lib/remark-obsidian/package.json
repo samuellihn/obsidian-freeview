@@ -10,12 +10,8 @@
     "mdast",
     "markdown"
   ],
-  "sideEffects": false,
   "type": "module",
-  "main": "",
-  "files": [
-    ""
-  ],
+  "private": true,
   "dependencies": {
     "unified": "^10.0.0"
   }

@@ -1,0 +1,28 @@
+@use "variables"
+@use "sass:color"
+@use "Markdown.mixin"
+@use "ObsidianMarkdown.mixin"
+
+.content
+  background-color: lighten(variables.$laurel-green, 20%)
+  display: flex
+  justify-content: center
+  min-height: 100vh
+  color: variables.$space-cadet
+  h1
+    font-family: variables.$serif
+    font-size: 4em
+  h2
+    font-family: variables.$serif
+    font-size: 3em
+
+  &-inner
+    width: min(60em, 90%)
+    max-width: 60em
+    margin: 0 auto
+
+.markdown
+  @include Markdown.markdown
+  @include ObsidianMarkdown.obsidian-markdown
+
+

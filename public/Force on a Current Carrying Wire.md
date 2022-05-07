@@ -1,4 +1,6 @@
-Th![[Pasted image 20220414000745.png]]ere will be force on a wire carrying current though a magnetic field
+![[Pasted image 20220414000745.png]]
+
+There will be force on a wire carrying current though a magnetic field
 
 ![[Pasted image 20220405210846.png]]
 

@@ -5,7 +5,7 @@ import util from "util"
 import {promises as fs} from "fs"
 import path from "path";
 
-import {unified} from 'unified'
+import {Processor, unified} from 'unified'
 
 import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
@@ -17,13 +17,13 @@ import rehypeStringify from 'rehype-stringify'
 
 import styles from "../styles/Note.module.sass"
 
-import remarkObsidianLink from "../lib/remark-obsidian/remark-obsidian-link.js"
+import remarkObsidianLink from "../lib/remark-obsidian/remark-obsidian-link"
 import {obsidianLinkToHast} from "../lib/remark-obsidian/mdast-util-obsidian-link";
-import remarkObsidanEmbed from "../lib/remark-obsidian/remark-obsidian-embed.js"
+import remarkObsidianEmbed from "../lib/remark-obsidian/remark-obsidian-embed"
 import {obsidianEmbedToHast} from "../lib/remark-obsidian/mdast-util-obsidian-embed";
 import {getEmbeddedSyntaxTree} from "../lib/embedHandler";
-import {Component} from "react";
 
+import {Component} from "react";
 
 async function getFileMap() {
     let fileMapText = (await fs.readFile(path.join(process.cwd(), "state", "slugs.json"))).toString()
@@ -52,23 +52,25 @@ export async function getStaticProps({params}: { params: { note: string[] } }) {
 
     let mdFile = await fs.readFile(mdFilePath)
 
-    let embedProcessor = unified()
+    let embedProcessor: Processor = unified()
         .use(remarkParse)
         .use(remarkMath)
         .use(remarkBreaks)
         .use(remarkObsidianLink)
-        .use(remarkObsidanEmbed)
+        .use(remarkObsidianEmbed)
 
-    let mdProcessor = unified()
+    let mdProcessor: Processor = unified()
         .use(remarkParse)
         .use(remarkMath)
         .use(remarkBreaks)
         .use(remarkObsidianLink)
-        .use(remarkObsidanEmbed)
+        .use(remarkObsidianEmbed)
         .use(remarkRehype, {
             handlers: {
                 obsidianLink: obsidianLinkToHast(),
-                obsidianEmbed: obsidianEmbedToHast(getEmbeddedSyntaxTree(fileMap, embedProcessor, styles["obsidian-embed"]))
+                obsidianEmbed: obsidianEmbedToHast({
+                    getEmbeddedSyntaxTree: (getEmbeddedSyntaxTree(fileMap, embedProcessor, styles["obsidian-embed"]))
+                })
             }
         })
         .use(rehypeMathjax)
@@ -97,7 +99,7 @@ class Note extends Component<{ mdContent: any, pageTitle: any }> {
         let {mdContent, pageTitle} = this.props;
         return (
             <div className={styles["content"]}>
-                <div>
+                <div className={styles["content-inner"]}>
                     <h1>{pageTitle}</h1>
                     <div dangerouslySetInnerHTML={{__html: mdContent}} className={styles["markdown"]}>
                     </div>

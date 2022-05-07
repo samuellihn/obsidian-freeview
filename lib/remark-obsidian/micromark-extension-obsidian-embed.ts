@@ -1,15 +1,15 @@
-import {slugPath, slug} from "./slugger.js";
-import {getHref, parseLinkBody} from "./lib/obsidian-link-util.js";
-import {determineEmbedType} from "./lib/obsidian-embed-util.js";
+import {determineEmbedType} from "./lib/obsidian-embed-util"
 
-const obsidianEmbedConstruct = {name: "obsidianEmbed", tokenize: obsidianEmbedTokenize}
+import {Construct, State, Effects, Code} from "micromark-util-types"
+
+const obsidianEmbedConstruct: Construct = {name: "obsidianEmbed", tokenize: obsidianEmbedTokenize}
 export const obsidianEmbed = {text: {33: obsidianEmbedConstruct}}
 
-function obsidianEmbedTokenize(effects, ok, nok) {
+function obsidianEmbedTokenize(effects: Effects, ok: State, nok: State): State {
     return start
 
     // Detected the first exclamation mark
-    function start(code) {
+    function start(code: Code): State {
         effects.enter("obsidianEmbed")
         effects.enter("obsidianEmbedOpen")
         effects.consume(code)
@@ -17,8 +17,8 @@ function obsidianEmbedTokenize(effects, ok, nok) {
     }
 
     // Look for two square brackets
-    function nextStart(brackets = 0) {
-        return function (code) {
+    function nextStart(brackets: number = 0) {
+        return function (code: Code): void | State {
             if (code === 91) {
                 if (brackets === 1) {
                     effects.consume(code)
@@ -36,7 +36,7 @@ function obsidianEmbedTokenize(effects, ok, nok) {
 
 
     // Is the link empty?
-    function begin(code) {
+    function begin(code: Code): State {
         if (code === 93) {
             return exitEmpty
         } else {
@@ -47,7 +47,7 @@ function obsidianEmbedTokenize(effects, ok, nok) {
     }
 
     // Link body
-    function inside(code) {
+    function inside(code: Code): State {
         if (code === 93) {
             effects.exit("chunkString")
             effects.exit("obsidianEmbedInside")
@@ -59,7 +59,7 @@ function obsidianEmbedTokenize(effects, ok, nok) {
     }
 
     // First square bracket
-    function exitFull(code) {
+    function exitFull(code: Code): State {
         effects.enter("obsidianEmbedClose")
         effects.consume(code)
         return confirmExit
@@ -67,7 +67,7 @@ function obsidianEmbedTokenize(effects, ok, nok) {
 
 
     // Check for second square bracket for a valid link
-    function confirmExit(code) {
+    function confirmExit(code: Code): void | State {
         if (code === 93) {
             effects.consume(code)
             effects.exit("obsidianEmbedClose")
@@ -82,31 +82,48 @@ function obsidianEmbedTokenize(effects, ok, nok) {
     }
 
     // Exit if the link has no body
-    function exitEmpty(code) {
+    function exitEmpty(code: Code): void | State {
         effects.consume(code)
         return nok(code)
     }
 }
 
+export type ToHtmlOptions = {
+    getEmbeddedHtml: (filename: string) => string,
+    getImageUri: (href: string) => string,
+    handlers: EmbedHandlers
+}
 
-export function obsidianEmbedHtml(getEmbeddedHtml, getImageUri = encodeURI, handlers = defaultEmbedHandlers(getEmbeddedHtml, getImageUri()),) {
+export type EmbedHandlers = {
+    image: (ref: any, href: string) => void
+    fileEmbed: (ref: any, filename: string) => void
+}
+
+export function obsidianEmbedHtml({
+                                      getEmbeddedHtml,
+                                      getImageUri = encodeURI,
+                                      handlers = defaultEmbedHandlers(getEmbeddedHtml, getImageUri)
+                                  }: ToHtmlOptions) {
     return {
         enter: {
             obsidianEmbed() {
+                // @ts-ignore
                 this.buffer()
             }
         },
         exit: {
             obsidianEmbed: function () {
+                // @ts-ignore
                 let linkBody = this.resume()
                 let type = determineEmbedType(linkBody)
+                // @ts-ignore
                 handlers[type](this)
             }
         }
     }
 }
 
-function defaultEmbedHandlers(getEmbeddedHtml, getImageUri) {
+function defaultEmbedHandlers(getEmbeddedHtml: (filename: string) => string, getImageUri: (href: string) => string): EmbedHandlers {
     return {
         image(ref, body) {
             let [imageHref, dimensions] = body.split("|")
@@ -118,8 +135,7 @@ function defaultEmbedHandlers(getEmbeddedHtml, getImageUri) {
                 ref.tag(`<img src="${imageUri}" alt="${imageHref}">`)
             }
             ref.tag(`</img>`)
-        }
-        ,
+        },
         fileEmbed(ref, body) {
             ref.tag(`<div class="obsidianEmbed">`)
             ref.raw(getEmbeddedHtml(body))
