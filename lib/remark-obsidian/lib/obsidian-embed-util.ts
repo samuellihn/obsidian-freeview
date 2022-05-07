@@ -8,5 +8,6 @@ export function determineEmbedType(linkBody) {
     else if (!(/\.(.+)/.test(linkBody))) {
         return "fileEmbed"
     }
+
 }
 

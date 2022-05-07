@@ -2,6 +2,14 @@ import {getHref, parseLinkBody} from "./lib/obsidian-link-util.js"
 import {slug, slugPath} from "./slugger.js";
 import {all} from "remark-rehype";
 
+type ObsidianLinkMdastNode = {
+    type: string,
+    embedType: string,
+    value: string,
+    children: any[]
+}
+
+
 export function obsidianLinkFromMarkdown() {
     return {
         enter: {
@@ -31,7 +39,7 @@ export function obsidianLinkFromMarkdown() {
     }
 }
 
-export function obsidianLinkToMarkdown(getFileSlug = slugPath, getHeadingSlug = slug) {
+export function obsidianLinkToMarkdown({getFileSlug = slugPath, getHeadingSlug = slug}) {
     return {
         handlers: {
             obsidianLink(node, _, context, safeOptions) {

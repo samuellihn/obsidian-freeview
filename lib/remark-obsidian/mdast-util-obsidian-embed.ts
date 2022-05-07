@@ -7,8 +7,7 @@ function defaultMarkdownEmbedHandlers(getEmbeddedMarkdown, getImageUri) {
             let [imageHref, _] = body.split("|")
             let imageUri = getImageUri(imageHref)
             return `[${imageHref}](${imageUri})`
-        }
-        ,
+        },
         fileEmbed(body) {
             return `# ${body}\n` + getEmbeddedMarkdown(body)
         }
@@ -42,7 +41,7 @@ export function obsidianEmbedFromMarkdown() {
     }
 }
 
-export function obsidianEmbedToMarkdown(getEmbeddedMarkdown, getImageUri = encodeURI, handlers = defaultMarkdownEmbedHandlers(getEmbeddedMarkdown, getImageUri)) {
+export function obsidianEmbedToMarkdown({getEmbeddedMarkdown, getImageUri = encodeURI, handlers = defaultMarkdownEmbedHandlers(getEmbeddedMarkdown, getImageUri)}) {
     return {
         handlers: {
             obsidianEmbed(node, _, context, safeOptions) {
