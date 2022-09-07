@@ -11,6 +11,7 @@ import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import remarkMath from "remark-math"
 import remarkBreaks from "remark-breaks"
+import remarkGfm from "remark-gfm"
 
 import rehypeMathjax from "rehype-mathjax"
 import rehypeStringify from 'rehype-stringify'
@@ -58,13 +59,9 @@ export async function getStaticProps({params}: { params: { note: string[] } }) {
         .use(remarkBreaks)
         .use(remarkObsidianLink)
         .use(remarkObsidianEmbed)
+        .use(remarkGfm);
 
-    let mdProcessor: Processor = unified()
-        .use(remarkParse)
-        .use(remarkMath)
-        .use(remarkBreaks)
-        .use(remarkObsidianLink)
-        .use(remarkObsidianEmbed)
+    let mdProcessor: Processor = {...embedProcessor}
         .use(remarkRehype, {
             handlers: {
                 obsidianLink: obsidianLinkToHast(),
