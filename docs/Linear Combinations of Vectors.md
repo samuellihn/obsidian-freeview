@@ -73,7 +73,7 @@ Where the $\vec{a_1}$, etc. are all column vectors
 
 With one vector in 3D, the span is a line
 With two **non-colinear** vectors in 3D, the span is a plane 
-With three **non-coplanar** vectors in 3D, the span is a volume (the entire space)
+With three **non-coplanar** (or non-colinear) vectors in 3D, the span is a volume (the entire space)
 
 > Colinear vectors are just scalar multiples of each other
 > And coplanar vectors are just linear combinations of each other
