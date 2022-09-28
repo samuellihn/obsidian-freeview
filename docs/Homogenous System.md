@@ -18,7 +18,7 @@ $$
 Has the general solution:
 $$x_1 = \frac{4}{3}x_3, \  x_2 = 0, \  x_3 \ is \ free$$
 
-Everything can be expressed as $cx_3$, so we can condense it into **parametrix vector form:**
+Everything can be expressed as $cx_3$, so we can condense it into **parametric vector form:**
 
 
 $$\vec{x} =  x_3
@@ -58,7 +58,7 @@ x_3
 \right]
 $$
 
-Simply expressing the system as combinations of th efree variables
+Simply expressing the system as combinations of the free variables
 
 Parametric vector form can also express offsets in the vector, using a constant term: 
 
