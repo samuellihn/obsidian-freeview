@@ -24,4 +24,4 @@ $$\tan{\theta} = \frac{y}{x}$$
 
 To calculate $\phi$, calculate the hypotnuse and adjacent of the triangle that has $\phi$ as the included angle
 
-$$\phi = \frac{z}{\sqrt{x^2 + y^2 + z^2}}$$
+$$\cos{\phi} = \frac{z}{\sqrt{x^2 + y^2 + z^2}}$$
