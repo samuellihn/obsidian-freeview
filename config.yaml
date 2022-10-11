@@ -1,4 +1,5 @@
 vaultPath: '/Users/samli/OneDrive/Notes/Samuel Lihn'
+chromeExecutablePath: 'C:\Program Files\Google\Chrome\Application\chrome.exe'
 exclude:
   - _freeview/*
   - weekly thoughts*

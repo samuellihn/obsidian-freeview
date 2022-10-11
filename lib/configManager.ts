@@ -4,6 +4,7 @@ import fsSync from "fs"
 
 export type Config  = {
     vaultPath: string
+    chromeExecutablePath: string
     exclude: string[]
 }
 

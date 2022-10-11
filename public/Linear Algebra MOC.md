@@ -8,3 +8,5 @@
 	- [[Linear Combinations of Vectors]]
 - [[Matrix Ax=B]]
 - [[Homogenous System]]
+- [[Linear Transformations]]
+- [[Linear Dependence]]

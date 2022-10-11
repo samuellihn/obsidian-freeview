@@ -12,6 +12,7 @@ import remarkRehype from 'remark-rehype'
 import remarkMath from "remark-math"
 import remarkBreaks from "remark-breaks"
 import remarkGfm from "remark-gfm"
+import remarkMermaid from "remark-mermaidjs";
 
 import rehypeMathjax from "rehype-mathjax"
 import rehypeStringify from 'rehype-stringify'
@@ -24,7 +25,11 @@ import remarkObsidianEmbed from "../lib/remark-obsidian/remark-obsidian-embed"
 import {obsidianEmbedToHast} from "../lib/remark-obsidian/mdast-util-obsidian-embed";
 import {getEmbeddedSyntaxTree} from "../lib/embedHandler";
 
+import {Config, getConfigSync} from "../lib/configManager";
+
 import {Component} from "react";
+
+let freeviewConfig: Config
 
 async function getFileMap() {
     let fileMapText = (await fs.readFile(path.join(process.cwd(), "state", "slugs.json"))).toString()
@@ -33,6 +38,8 @@ async function getFileMap() {
 }
 
 export async function getStaticPaths() {
+
+    freeviewConfig = getConfigSync() as Config
     let fileMap = await getFileMap()
     const paths = []
 
@@ -44,6 +51,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({params}: { params: { note: string[] } }) {
+    freeviewConfig ??= getConfigSync() as Config
     // console.log(params.note)
     let fileMap: FileMap = await getFileMap()
     let filename = fileMap.fileNames[params.note.join("/")]
@@ -59,7 +67,12 @@ export async function getStaticProps({params}: { params: { note: string[] } }) {
         .use(remarkBreaks)
         .use(remarkObsidianLink)
         .use(remarkObsidianEmbed)
-        .use(remarkGfm);
+        .use(remarkGfm)
+        .use(remarkMermaid, {
+            launchOptions: {
+                executablePath: freeviewConfig.chromeExecutablePath
+            }
+        });
 
     let mdProcessor: Processor = {...embedProcessor}
         .use(remarkRehype, {
