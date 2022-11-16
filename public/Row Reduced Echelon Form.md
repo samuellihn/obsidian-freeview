@@ -1,3 +1,4 @@
+Each linear system represented as a matrix has only **one** row reduced echelon form.
 1. Obtain a pivot (make first element of first row 1)
 2. Use elementary row operations to eliminate successive row
 3. Repeat for all rows

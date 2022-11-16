@@ -9,7 +9,7 @@ $N_2$ needs to be fixed by plants, because nitrogen is not very reactive - tripl
 
 ```mermaid
 graph TD
-	A[Atmospheric Nitrogen N2]--Nitrogen fixation: bacteria & lightning-->B[Ammonia in soil NH3]--Nitrification: nitrifying bacteria-->D[Nitrate NO3]--Assimilation-->E[Plants]--Denitrification: bacteria-->A
+	A[Atmospheric Nitrogen N2]--Nitrogen fixation: bacteria & lightning-->B[Ammonia in soil NH3, HNO3 for lightning]--Nitrification: nitrifying bacteria-->D[Nitrate NO3]--Assimilation-->E[Plants]--Denitrification: bacteria-->A
 	AA[Animal waste]-->AB[Ammonificaton: bacteria]-->AC[Ammonium NH4]--Fixation-->AD[Nitrite NO2]-->B
 ```
 
