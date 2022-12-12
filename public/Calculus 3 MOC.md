@@ -20,3 +20,7 @@
 - [[Vector Equation of Planes]]
 - [[Angles Between Planes]]
 - [[Distance from Point to Plane]]
+# Chapter 3: Derivatives and Limits in 3D
+
+- [[Limits in 3 Dimensions]]
+- [[Partial Derivatives]]

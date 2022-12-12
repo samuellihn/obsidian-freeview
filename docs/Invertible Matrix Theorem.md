@@ -65,5 +65,10 @@ r. $dim \ Nul \ A = 0$
 
 > See [[Rank of a Matrix]] and entry (p)
 
+s. The number 0 is **not** an [[Eigenvectors and Eigenvalues|eigenvalue]] of $A$
 
-see pg 235
+> As is the case for a triangular matrix, or a matrix with $n$ pivots
+
+t . The [[Determinant|determinant]] of $A$ is **not** zero
+
+> See [[Characteristic Equation]]
