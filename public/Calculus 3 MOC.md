@@ -22,5 +22,16 @@
 - [[Distance from Point to Plane]]
 # Chapter 3: Derivatives and Limits in 3D
 
-- [[Limits in 3 Dimensions]]
+- [[Limit Test in 3 Dimensions]]
 - [[Partial Derivatives]]
+- [[Higher Order Partial Derivatives]]
+- [[Chain Rule in 3 Dimensions]]
+- [[Tangent Planes]]
+- [[Implicit Function Theorem]]
+
+# Chapter 4: Applications of Multivariate Derivatives
+- [[Directional Derivatives]]
+- [[Critical Points in 3D]]
+- [[Absolute Extrema in 3D]]
+
+# Chapter 5:

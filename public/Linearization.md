@@ -1,4 +1,3 @@
-# Linearization
 We can use tangent lines to reasonably estimate values of a function
 
 If a line is below the curve, it is an **underestimate**

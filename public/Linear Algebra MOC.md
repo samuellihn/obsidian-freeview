@@ -53,17 +53,6 @@
 	- Refer to [[Invertible Matrix Theorem]]
 - [[Similar Matrices]]
 - [[Diagonalization]]
-
-Quiz 12/12: 3.1 3.2 4.9 5.1 5.2
-Quiz on Monday 12/12 - Determinants and Eigenvalues/Eigenvectors 
-- Includes sections 3.1, 3.2, 4.9, 5.1, 5.2, 5.3
-- No calculator
-
-You should be able to do the following:
-1. Find the determinant of a matrix using
-a) cofactor expansion
-b) row operations
-2. Find the steady-state vector for a discrete dynamical system.
-3. Find eigenvalues and eigenvectors for a given matrix.
-4. Find eigenvalues of a matrix using its characteristic equation.
-5. Find the diagonalization PDP^-1 of a matrix A and use it to compute powers of A.
+- [[Complex Eigenvalues]]
+	- [[Rotations of Complex Eigenvalues]]
+- [[Eigenvalues in Dynamical Systems]]

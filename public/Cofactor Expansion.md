@@ -30,8 +30,7 @@ Multiply this determinant by the value of the current element, and add it to a s
 
 Repeat this for all other elements of the row/column chosen, but **negating** all "even" elements (2nd, 4th, etc.)
 
-> $$\det{A} = a\left|\begin{matrix} e & f \\ h & i \end{matrix}\right| 
- - b\left|\begin{matrix} d & f \\ g & i\end{matrix}\right| + c\left|\begin{matrix} d & e \\ g & h\end{matrix}\right|$$
+> $$\det{A} = a\left|\begin{matrix} e & f \\ h & i \end{matrix}\right|  - b\left|\begin{matrix} d & f \\ g & i\end{matrix}\right| + c\left|\begin{matrix} d & e \\ g & h\end{matrix}\right|$$
 
 **Notice the alternating plus and minus signs**
 
