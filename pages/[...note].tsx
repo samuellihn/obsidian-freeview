@@ -28,7 +28,6 @@ import {getEmbeddedSyntaxTree} from "../lib/embedHandler";
 import {Config, getConfigSync} from "../lib/configManager";
 
 import {Component} from "react";
-import remarkObsidianMath from "../lib/remark-obsidian/remark-obsidian-math";
 
 let freeviewConfig: Config
 
@@ -64,7 +63,7 @@ export async function getStaticProps({params}: { params: { note: string[] } }) {
 
     let embedProcessor: Processor = unified()
         .use(remarkParse)
-        .use(remarkObsidianMath)
+        .use(remarkMath)
         .use(remarkBreaks)
         .use(remarkObsidianLink)
         .use(remarkObsidianEmbed)
