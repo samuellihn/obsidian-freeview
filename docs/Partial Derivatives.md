@@ -2,7 +2,10 @@ To take a partial derivative of a 3-dimensional function $f(x, y)$, constrain on
 
 For example, keeping $y$ fixed at $y_0$, and taking the **partial derivative of $z$ with respect to $x$**:
 
-$$\frac{\partial z}{\partial x}$$
+$$
+\frac{\partial z}{\partial x}
+$$
+
 Which represents the partial derivative of $f(x, y)=z$ with respect to $x$
 
 This can be used to easily take partial derivatives at a point:

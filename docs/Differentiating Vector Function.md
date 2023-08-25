@@ -4,7 +4,10 @@ The derivative of a [[Vector Function]] is simply the derivative of each compone
 
 If $r(t) = \langle x(t), y(t) \rangle$, and $x(t)$ and $y(t)$ are both differentiable, then
 
-$$r'(t) = \frac{dr}{dt} = \langle x'(t), y'(t) \rangle = \Big\langle \frac{dx}{dt}, \frac{dy}{dt} \Big\rangle$$
+$$
+r'(t) = \frac{dr}{dt} = \langle x'(t), y'(t) \rangle = \Big\langle \frac{dx}{dt}, \frac{dy}{dt} \Big\rangle
+$$
+
 > This is very similar to [[Differentiating Parametric Equation]]s, except that the answer is expressed as a vector, not a quotient
 
 [[Derivative Rules]] apply, but if we multiply a vector function by a scalar function we need to use the [[Product Rule]]

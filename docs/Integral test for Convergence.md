@@ -1,6 +1,8 @@
 If function $f$ is positive, continuous, and decreasing for $x \geq m$ where $m$ is a positive integer $\geq 1$, and $a_n = f(x)$, then:
 
-$$\sum_{n=1}^{\infty} {a_n} \ and \ \int_1^\infty{f(x)}dx$$ Will **both** either converge or diverge
+$$
+\sum_{n=1}^{\infty} {a_n} \ and \ \int_1^\infty{f(x)}dx
+$$ Will **both** either converge or diverge
 
 Function $f(x)$ needs to be:
 - Positive

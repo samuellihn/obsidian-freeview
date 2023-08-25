@@ -11,8 +11,9 @@ Important sets of numbers:
 
 They can be related as:
 
-$$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$$
-
+$$
+\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}
+$$
 
 A **proper subset $\subset$ has less than what its ancestor has, while a regular subset $\subseteq$ can be equal to its ancestor
 

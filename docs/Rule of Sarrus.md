@@ -28,13 +28,17 @@ d & e \\
 g & h 
 \end{matrix}
 $$
+
 Then, add the three "main" diagonals ($aei,\  bfg,\  cdh$) and subtract the three other diagonals ($ceg,\ afh,\ bdi$)
 
 Much easier to visualize:
 ![[Pasted image 20221210203754.png]]
 Mathematically:
 
-$$\det{A} = aei + bfg + cdh - ceg - afh - bdi$$
+$$
+\det{A} = aei + bfg + cdh - ceg - afh - bdi
+$$
+
 or, if using index notation:
 
 $$
@@ -46,6 +50,3 @@ a_{31}a_{22}a_{13} -
 a_{32}a_{23}a_{11} - 
 a_{33}a_{21}a_{12}
 $$
-
-
-

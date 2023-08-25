@@ -3,7 +3,9 @@
 
 If $f(x)$ is continuous **and** differentiable on the **closed** interval, , then:
 
-$$\frac{f(b)-f(a)}{b-a} = f'(c) \ at \ some \ a \leq c\leq b$$
+$$
+\frac{f(b)-f(a)}{b-a} = f'(c) \ at \ some \ a \leq c\leq b
+$$
 
 At **at least ** one point, the derivative will be equal to the slope of the secant line if the function is "well behaved"
 
@@ -13,7 +15,9 @@ This means multiple points can equal the slope of the tangent line!
 
 We can solve for x-value where the derivative equals the slope
 
-$$AROC = f'(x)$$
+$$
+AROC = f'(x)
+$$
 
 Basically just the [[Intermediate Value Theorem]] but with the first derivative
 

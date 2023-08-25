@@ -15,7 +15,9 @@ Counteracts the force the object is exerting on the surface
 
 Normal force differs when force is applied in the y direction
 
-$$F_{N}=mg-F_{app_y}$$
+$$
+F_{N}=mg-F_{app_y}
+$$
 
 If we apply force upward, the normal force will decrease
 

@@ -5,9 +5,16 @@ In angular motion, $Impulse = L = \tau * \Delta{t}$
 
 Moment of inertia of an object inside angular motion depends on its radius
 For a point mass,
-$$I = MR^2$$,Which is constant for a specific shape
 
-$$\tau = I\alpha$$
+$$
+I = MR^2
+$$,Which is constant for a specific shape
+
+$$
+
+\tau = I\alpha
+
+$$
 Therefore, the total moment of inertia is the sum of all components in the rotating object
 
 The greater the moment of inertia, the lesser the angular acceleration

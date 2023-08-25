@@ -19,7 +19,9 @@ $$
 
 From there, find the algebraic solution set of $\lambda$ for which $\det{A} = 0$:
 
-$$\det{A} = ad - bc = (a - \lambda)(d - \lambda) - bc = 0$$
+$$
+\det{A} = ad - bc = (a - \lambda)(d - \lambda) - bc = 0
+$$
 
 > This (in this case, quadratic) polynomial is called the **characteristic polynomial**
 

@@ -4,7 +4,9 @@ You can use a matrix multiplication to transform a vector into another vector
 
 A matrix is an object that "acts on" a vector - **transforms it**
 
-$$A\vec{x} = \vec{b}$$
+$$
+A\vec{x} = \vec{b}
+$$
 
 $\vec{x}$ is transformed into $\vec{b}$  via multiplication via matrix $A$
 
@@ -32,7 +34,9 @@ $$
 
 If transferring a 3-element vector to a 2-element vector, we can describe this as
 
-$$T: R^3 \rightarrow R^2$$
+$$
+T: R^3 \rightarrow R^2
+$$
 
 A $m \times n$ matrix $A$ performs a transformation $T: R^n \rightarrow R^m$ with $T(x) = A\vec{x}$
 
@@ -55,10 +59,16 @@ $\vec{x}$ is called the **pre-image**, whereas $\vec{b}$ (post-transformation) i
 
 Or
 
-$$T(\vec{0}) = \vec{0}$$ 
+$$
+T(\vec{0}) = \vec{0}
+$$ 
+
 - **Must produce the origin when given the origin - must stay in place**
 
- $$T(c\vec{u}  + d\vec{v}) = cT(\vec{u}) + dT(\vec{v})$$
+ $$
+ T(c\vec{u}  + d\vec{v}) = cT(\vec{u}) + dT(\vec{v})
+ $$
+
 - **Must obey vector addition and scalar multiplication**
 
 Anything that can be represented as a matrix satisfies these two conditions. A matrix transformation is a linear transformation, and vice versa

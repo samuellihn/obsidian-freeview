@@ -5,7 +5,10 @@ Once the switch is closed, electrons will leave the positive plate and gather at
 > Larger the resistor, the slower the capacitor will charge
 > Larger the capacitor, the longer the capacitor will take to charge (more capacity)
 
-$$Q_{final} = CE$$
+$$
+Q_{final} = CE
+$$
+
 > Voltage times capacitance
 > Derived from [[Capacitance]] equation
 

@@ -2,7 +2,10 @@ An integral of a polar region can be defined as the infinite sum of infinitesima
 
 Therefore, the area of a polar region is:
 
-$$A = \frac{1}{2}\int_{\theta_1}^{\theta_2}{r^2d\theta}$$
+$$
+A = \frac{1}{2}\int_{\theta_1}^{\theta_2}{r^2d\theta}
+$$
+
 It may be easier to consider the radial symmetry of regions and manipulate the resultant values, rather than directly taking the integral of the regions
 
 Also, look for when the graph passes through the pole (when $r = 0$) which can help determine the correct bounds of integration

@@ -2,15 +2,20 @@ A column space is a [[Subspace of Rn]] comprised of the set of all [[Linear Comb
 
 If:
 
-$$A = \left[\begin{matrix}
+$$
+A = \left[\begin{matrix}
 \vec{a_1} & 
 \vec{a_2} & 
 \vec{a_3} & 
 ... & \vec{a_n}
 \end{matrix}
-\right]$$
+\right]
+$$
+
 Then
-$$Span\{ \vec{a_1}, \vec{a_2}, \vec{a_3}
+
+$$
+Span\{ \vec{a_1}, \vec{a_2}, \vec{a_3}
 ... \vec{a_n}\} = Col \ A$$
 
 To find if a certain vector $\vec{b}$ is in a column space, create the [[Matrix Ax=b]] $\left[\begin{array}{c|c} A & \vec{b}\end{array} \right]$ and solve to see if it is consistent

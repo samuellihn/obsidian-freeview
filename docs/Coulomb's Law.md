@@ -1,7 +1,10 @@
 #APPhysicsEM #Electrostatics
 
 The larger the distance, the smaller the force, related by a inverse square factor. Putting this with the [[Fundemental Law of Charges]], we get Coulomb's Law:
-$$|\vec{F}| = \frac{1}{4 \pi \epsilon_0} * |\frac{q_1q_2}{r^2}|$$
+
+$$
+|\vec{F}| = \frac{1}{4 \pi \epsilon_0} * |\frac{q_1q_2}{r^2}|
+$$
 
 > Force measured in newtons
 > $\frac{1}{4 \pi \epsilon_0}$ is a constant, with $\epsilon_0$ being the **permitivity of free space**. Can also be written as $K = 9e^9$

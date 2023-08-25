@@ -1,4 +1,7 @@
-A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form $$A\vec{x} = b$$With the columns of $A$ being the vectors being combined, and the entries in $x$ as weights:
+A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form $$
+A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form A\vec{x} = b
+A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form $$
+With the columns of $A$ being the vectors being combined, and the entries in $x$ as weights:
 
 ![[Pasted image 20220915205340.png]]
 
@@ -21,8 +24,11 @@ Because of this, $A\vec{x} = \vec{b}$ has a solution only if $\vec{b}$ is a line
 You can take the matrix [[Dot Product]] to obtain the matrix form of the system of equations
 
 >The equation $A\vec{x}=\vec{b}$ also exhibits other properties:
-> $$A(\vec{u} + \vec{v}) = Au + Av$$
-> $$A(c\vec{u}) = c(A\vec{u})$$
-
-
-
+>
+> $$
+> A(\vec{u} + \vec{v}) = Au + Av
+> $$
+>
+> $$
+> A(c\vec{u}) = c(A\vec{u})
+> $$

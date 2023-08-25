@@ -4,8 +4,10 @@ Weight (force) takes gravity in account, whereas mass does not
 Mass is measured in $kg$, and weight is measured in $N$ which is equal to $\frac{kg*m}{s^2}$
 
 Calculate weight given a mass with:
-$$F_g = mg$$
 
+$$
+F_g = mg
+$$
 
 **Net force is** the sum of all force vectors acting on the object
 

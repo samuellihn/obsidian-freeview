@@ -2,7 +2,10 @@
 
 However, there is a faster way:
 
-$${f^{-1}}'(x) = \frac{1}{f'(f^{-1}(x))}$$
+$$
+{f^{-1}}'(x) = \frac{1}{f'(f^{-1}(x))}
+$$
+
 The $f^{-1}(x)$ swaps the $y$ value into its corresponding $x$ value, then we take the reciprocal of the derivative
 
 Note that this is **not** the [[Chain Rule]]

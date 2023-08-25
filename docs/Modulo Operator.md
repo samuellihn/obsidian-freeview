@@ -6,6 +6,6 @@ This relates to the other use of modulo (modular arithmetic) can be related with
 
 Given $n$ and $d > 1$
 
-$$(n \ \text{mod}  \ d ) = n \mod d$$
-
-
+$$
+(n \ \text{mod}  \ d ) = n \mod d
+$$

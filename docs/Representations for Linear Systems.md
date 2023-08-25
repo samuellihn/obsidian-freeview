@@ -28,7 +28,8 @@ $$
 x \Big[\begin{smallmatrix} 1 \\ 5 \\ 9 \end{smallmatrix}\Big] 
 + y \Big[\begin{smallmatrix} 2 \\ 6 \\ 10 \end{smallmatrix}\Big]
 + z \Big[\begin{smallmatrix} 3 \\ 7 \\ 11 \end{smallmatrix}\Big]
-= \Big[\begin{smallmatrix} 4 \\ 8 \\ 12 \end{smallmatrix}\Big] $$
+= \Big[\begin{smallmatrix} 4 \\ 8 \\ 12 \end{smallmatrix}\Big]
+$$
 
 # Only three cases, regardless of dimensionality:
 

@@ -11,4 +11,6 @@ Each subsequent derivative may require different rules
 
 The second derivative of a function in Liebniz notation is originally written as:
 
-$$\frac{d^2y}{dx^2} = \frac{d\Big[\frac{dy}{dx}\Big]}{dx}$$
+$$
+\frac{d^2y}{dx^2} = \frac{d\Big[\frac{dy}{dx}\Big]}{dx}
+$$

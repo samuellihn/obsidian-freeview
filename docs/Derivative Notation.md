@@ -1,12 +1,21 @@
 A function whose value is equal to for all $x$
-$$\lim_{h \to 0} {\frac{f(x+h) - f(x)}{h}}$$
+
+$$
+\lim_{h \to 0} {\frac{f(x+h) - f(x)}{h}}
+$$
+
 is called the **derivative** of $f(x)$, also known as $f'(x)$
 
-$$f'(x) = \lim_{h \to 0} {\frac{f(x+h) - f(x)}{h}}$$
+$$
+f'(x) = \lim_{h \to 0} {\frac{f(x+h) - f(x)}{h}}
+$$
 
 Or, alternatively, for a derivative at a point
 
-$$\lim_{x \to a}{\frac{f(x) - f(a)}{x - a}}$$
+$$
+\lim_{x \to a}{\frac{f(x) - f(a)}{x - a}}
+$$
+
 If $y = f'(x)$, the notation for $f(x)$ can be:
 - $f'(x)$
 - $y'$

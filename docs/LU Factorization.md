@@ -14,6 +14,7 @@ $$
 \end{matrix}
 \right]
 $$
+
 $U$, an $m \times n$  matrix, is an echelon form of A (for example:)
 
 $$
@@ -26,13 +27,23 @@ P & * & *& * & *\\
 \end{matrix}
 \right]
 $$
+
 To solve an [[Matrix Ax=b]] equation with an LU factorization:
 
-$$Ax = b \rightarrow LUx=b$$
+$$
+Ax = b \rightarrow LUx=b
+$$
+
 Therefore:
 
-$$Ux = y$$
-$$Ly= b$$
+$$
+Ux = y
+$$
+
+$$
+Ly= b
+$$
+
 Solve $Ly = b$ for $y$, and then $Ux = y$ for $x$
 
 These take less operations because the matrices are both triangular

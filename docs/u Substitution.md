@@ -6,7 +6,9 @@ Then, find the derivative of u ($du$) in terms of $dx$. Solve for $dx$, then rep
 
 From there, we can change the variable of integration:
 
-$$\int{f(u)(k)du}$$
+$$
+\int{f(u)(k)du}
+$$
 
 We're replacing the variables of integration and the function just like variables!
 

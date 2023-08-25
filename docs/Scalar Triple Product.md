@@ -1,6 +1,9 @@
 The scalar triple product of three vectors $a, b, c$ is defined as:
 
-$$a \cdot (b \times c)$$
+$$
+a \cdot (b \times c)
+$$
+
 Which can be evaluated with a [[Determinant]] of a 3x3 matrix with rows as vectors $a, b, c$:
 
 $$
@@ -10,6 +13,7 @@ b_1 & b_2 & b_3\\
 c_1 & c_2 & c_3
 \end{vmatrix}
 $$
+
 Which corresponds to the calculation:
 
 $$
@@ -28,6 +32,7 @@ a_3
 b_1 & b_2 \\ c_1 & c_2
 \end{vmatrix}
 $$
+
 > See [[Cross Product]] for more details
 
 You can also calculate the [[Cross Product]] and [[Dot Product]] seperately (easier imo)

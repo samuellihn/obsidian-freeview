@@ -10,6 +10,7 @@ $$
 \end{matrix}
 \right]
 $$
+
 ![[Pasted image 20221016230345.png]]
 
 ![[Pasted image 20221016230318.png]]

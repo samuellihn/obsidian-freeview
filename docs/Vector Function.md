@@ -16,7 +16,10 @@ To find the domain of a vector function, find the intersection $\cap$ of the two
 
 The limit of a vector function $r(t) = \langle x(t), y(t) \rangle$ is simply:
 
-$$\lim_{t\to a}{r(t)} = \langle \lim_{t\to a}{x(t)}, \lim_{t\to a}{y(t)} \rangle$$
+$$
+\lim_{t\to a}{r(t)} = \langle \lim_{t\to a}{x(t)}, \lim_{t\to a}{y(t)} \rangle
+$$
+
 > Both limits of the components must exist
 
 Don't forget to write the final answer as a vector (either in component form or unit vector form)

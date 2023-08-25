@@ -21,14 +21,22 @@ In the same principle, the current will follow the similarly shaped curve becaus
 Once the loop is closed, the voltage across the capacitor needs to equal the voltage across the resistor ([[Kirchoff's Loop Rule]])
 
 Initial voltage is:
-$$C = \frac{Q_0}{V_0} \rightarrow V_0 = \frac{Q_0}{C}$$
+
+$$
+C = \frac{Q_0}{V_0} \rightarrow V_0 = \frac{Q_0}{C}
+$$
+
 Initial current will be:
 
-$$I_0 = \frac{Q_0}{RC}$$
+$$
+I_0 = \frac{Q_0}{RC}
+$$
 
 All values will decay when a capacitor discharges
 
-$$i = I_0 e^{-kt}$$
+$$
+i = I_0 e^{-kt}
+$$
 
 ```desmos-graph
 left=0; bottom=0;

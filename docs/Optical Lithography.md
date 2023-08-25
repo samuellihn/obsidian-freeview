@@ -42,7 +42,10 @@ Minimum resolution of proximity printing is based upon diffraction of light pass
 
 For projection lithography:
 
-$$W = k_1 \frac{\lambda}{NA}$$
+$$
+W = k_1 \frac{\lambda}{NA}
+$$
+
 > $K_1$ is an emperical value that depends of the ability to distinguish between small changes of intensity - typically 0.75
 
 As feature sizes decrease, numerical aperture $NA$ gets larger (better lenses) and $\lambda$ gets smaller (shorter wavelength light)

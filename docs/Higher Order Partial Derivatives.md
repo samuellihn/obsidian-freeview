@@ -15,6 +15,7 @@ These determine the rate of change of the derivative when going along the same "
 > Can determine the "concavity" of the traces that we take the first-order derivatives along
 
 The two "mixed" partial derivatives
+
 $$
 f_{xy}= \frac{\partial}{\partial y }\left(\frac{\partial f}{\partial x }\right)
 $$
@@ -27,7 +28,9 @@ These determine how the partial derivative changes as we slide the "trace" along
 
 Most of the time, the two mixed partial derivatives will be equal, such that the order of differentiation doesn't matter
 
-$$f_{xy} = f_{yx}$$
+$$
+f_{xy} = f_{yx}
+$$
 
 According to **Clairaut's Theorem**, this happens when the mixed partial derivatives are both continuous. 
 
@@ -35,7 +38,10 @@ Extending this into even higher order derivatives, we can save a lot of time as 
 
 For example, if taking a third order partial derivative:
 
-$$f_{xxy}$$
+$$
+f_{xxy}
+$$
+
 And we need to find derivatives $f_{xyx}$ and $f_{yxx}$, then if $f_{xxy}$ is continuous, then we can conclude that:
 
 $$

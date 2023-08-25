@@ -37,10 +37,16 @@ the smaller the interval, the more accurate the approximation is
 The width of each rectangle on the interval $(a, b)$ is y, or $\Delta x$, the change in $x$ between each rectangle
 And the height is $f(x')$, depending on where we choose to measure the height
 Therefore, the Reimman sum would be:
-$$\Delta x * f(x_1) + \Delta x * f(x_2) + \Delta x * f(x_3)...$$
+
+$$
+\Delta x * f(x_1) + \Delta x * f(x_2) + \Delta x * f(x_3)...
+$$
+
 Which we can express in summation notation like this:
 
-$$\frac{b-a}{n} * \sum_{i=1}^{n}f(a + i*(\frac{b-a}{n}))$$
+$$
+\frac{b-a}{n} * \sum_{i=1}^{n}f(a + i*(\frac{b-a}{n}))
+$$
 
 Ideally, $n \to \infty$ so $\Delta x \to 0$
 The limit that expresses this is called an [[Integrals]]

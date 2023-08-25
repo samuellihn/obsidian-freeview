@@ -15,21 +15,25 @@ $$
 \end{array}
 \right]
 $$
+
 Has the general solution:
-$$x_1 = \frac{4}{3}x_3, \  x_2 = 0, \  x_3 \ is \ free$$
+
+$$
+x_1 = \frac{4}{3}x_3, \  x_2 = 0, \  x_3 \ is \ free
+$$
 
 Everything can be expressed as $cx_3$, so we can condense it into **parametric vector form:**
 
-
-$$\vec{x} =  x_3
+$$
+\vec{x} =  x_3
 \left[
 \begin{array}{ccc|c}
 \frac{4}{3}\\0\\1
 \end{array}
-\right]$$
+\right]
+$$
 
 Even a system like:
-
 
 $$
 \left[
@@ -43,7 +47,8 @@ Has the solution $x_1 = 0.3x_2 + 0.2x_2$
 
 Which can be expressed in parametric vector form as:
 
-$$\vec{x} = 
+$$
+\vec{x} = 
 x_2 
 \left[
 \begin{array}{ccc|c}
@@ -66,8 +71,8 @@ Therefore, any linear system that is **not** a homogenous system is a has a solu
 
 Parametric vector form can also express offsets in the vector, using a constant term: 
 
-
-$$\vec{x} =  x_3
+$$
+\vec{x} =  x_3
 \left[
 \begin{array}{ccc|c}
 \frac{4}{3}\\0\\1

@@ -6,7 +6,10 @@ Position vector will be $\hat{r} = \langle x(t), y(t) \rangle$
 
 Speed will be the magnitude of $\hat{v}$
 
-$$s(t) = |\hat{v}(t)| = \sqrt{(x'(t))^2 + (y'(t))^2}$$
+$$
+s(t) = |\hat{v}(t)| = \sqrt{(x'(t))^2 + (y'(t))^2}
+$$
+
 > Distance function
 
 Think about the two functions, both functions of $t$, acting in tandem
@@ -19,7 +22,9 @@ We can also go the other way, by integrating velocity, speed, and acceleration t
 
 **Total Distance Travelled** is a special case,0 because we cannot simply plug values into $x(t)$:
 
-$$\int{s(t)} = \int{|\hat{v}(t)|} = \int{\Bigg[\sqrt{(x'(t))^2 + (y'(t))^2}\Bigg]} = total \ distance \ travelled$$
+$$
+\int{s(t)} = \int{|\hat{v}(t)|} = \int{\Bigg[\sqrt{(x'(t))^2 + (y'(t))^2}\Bigg]} = total \ distance \ travelled
+$$
 
 > Usually, this will not need to be integrated by hand
 

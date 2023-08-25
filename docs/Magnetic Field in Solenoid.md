@@ -13,7 +13,9 @@ $cd$ also cancels because it is out at infinity, and the magnetic field induced 
 
 Therefore, we get (for two coils):
 
-$$\mu_0 2i = \int_b^a{Bdl}$$
+$$
+\mu_0 2i = \int_b^a{Bdl}
+$$
 
 > We take out dot product because $\vec{B}$ and $\vec{dl}$ are parallel
 
@@ -21,17 +23,27 @@ Since at the center of the solenoid, with so many coils, the magnetic field indu
 
 Therefore, we can take $B$ out of the integral:
 
-$$\mu_0 2i = B\int_b^a{dl}$$
+$$
+\mu_0 2i = B\int_b^a{dl}
+$$
+
 Then, adding up all the $dl$ we get $h$, the height of the Amperian loop
 
-$$\mu_0 2i = Bh$$
+$$
+\mu_0 2i = Bh
+$$
 
-$$B = \frac{\mu_0 2i}{h}$$
+$$
+B = \frac{\mu_0 2i}{h}
+$$
+
 This is only for **two loops** inside of the Amperian loop
 
 So more generically, our equation is:
 
-$$B = \frac{\mu_0 Ni}{h}$$
+$$
+B = \frac{\mu_0 Ni}{h}
+$$
 
 > If we have more coils (more $N$) then the magnetic field is greater
 > If we have more current going through the coils (more $i$) the magnetic field is also greater
@@ -40,5 +52,7 @@ $$B = \frac{\mu_0 Ni}{h}$$
 **Turn density** of coils/loops is $n$ where $n = \frac{N}{h}$
 
 Therefore,
-$$B_{solenoid} = \mu_0 ni$$
 
+$$
+B_{solenoid} = \mu_0 ni
+$$

@@ -7,7 +7,9 @@ Magnitude of spring force depends on the amount of compression/expansion and the
 > The direction of the force is **always** opposite the direction of the displacement
 > If a spring is pulled to the right, the spring will exert force to the left
 
-$$F_s = -kx$$
+$$
+F_s = -kx
+$$
 
 Spring forces are [[Static Equilibrium#Types of Forces|contact forces]] 
 

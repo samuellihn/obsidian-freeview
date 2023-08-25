@@ -25,6 +25,7 @@ $$
 \end{array}
 \right]
 $$
+
 We can then generate (infinitely many) solutions with arbitrary inputs (parameters) of $x_2$ and $x_4$
 
 Once the solution set is defined in terms of constants and free variables, the system is solved

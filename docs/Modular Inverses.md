@@ -1,6 +1,8 @@
 To find a modular inverse, find a number for which:
 
-$$a^-1 \times a \mod{m} \equiv 1$$
+$$
+a^-1 \times a \mod{m} \equiv 1
+$$
 
 For example, if we are in $\mod{27}$ if $a = 4$, then $a^{-1} = 7$ as $4 \times 7 = 28$, and $28 \mod{27} = 1$
 

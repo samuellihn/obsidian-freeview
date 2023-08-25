@@ -11,11 +11,15 @@ Make $\Delta{t}$ smaller and smaller and find the **limit**
 
 The formula for average rate of change is:
 
-$$\frac{rise}{run} = \frac{\Delta{f(t)}}{\Delta{t}} = \frac{\Delta{f(t + h) - f(t)}}{h}$$
+$$
+\frac{rise}{run} = \frac{\Delta{f(t)}}{\Delta{t}} = \frac{\Delta{f(t + h) - f(t)}}{h}
+$$
 
 The formula for instantaneous rate of change is therefore:
 
-$$\lim_{h \to 0}{\frac{\Delta{f(t + h) - f(t)}}{h}}$$
+$$
+\lim_{h \to 0}{\frac{\Delta{f(t + h) - f(t)}}{h}}
+$$
 
 > The instantaneous rate of change can only be approximated by finding the average rate of change over increasingly smaller intervals
 

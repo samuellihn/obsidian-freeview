@@ -34,7 +34,10 @@ Left/right and double-sided limits do not exist
 "bounces" between two values, usually indefinitely
 
 Most common example:
-$$y = \sin{\frac{1}{x}}$$
+
+$$
+y = \sin{\frac{1}{x}}
+$$
 
 ![. ■لا4.wm توولإولإ ■ ■ و -سممم ىش■ ](Unit-1-1.10-Types-of-Discontinuities-image6.png)
 

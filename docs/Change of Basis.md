@@ -6,13 +6,22 @@ Then $x = 3b_1 + 1b_2$ and $x = 6c_1 + 4c_2$
 
 To convert between them given equations relating vectors $b$ and $c$:
 
-$$b_1 = 4c_1 + c_2$$
-$$b_2 = -6c_1+ c_2$$
+$$
+b_1 = 4c_1 + c_2
+$$
+
+$$
+b_2 = -6c_1+ c_2
+$$
+
 Substitute in:
 
-$$x = 3(4c_1+c_2) + 1(-6c_1 + c_2) \rightarrow  6c_1 + 4c_2 = \left[\begin{matrix}
+$$
+x = 3(4c_1+c_2) + 1(-6c_1 + c_2) \rightarrow  6c_1 + 4c_2 = \left[\begin{matrix}
 6\\4
-\end{matrix}\right]$$
+\end{matrix}\right]
+$$
+
 This can be generalized into a matrix equation:
 
 $$
@@ -28,6 +37,7 @@ $$
 \end{matrix}
 \right]
 $$
+
 Or, in our example:
 
 $$
@@ -67,11 +77,13 @@ To find a change-of-coordinates matrix given four basis vectors:
 Augment, like you're finding an [[Inverses of Matrices|inverted matrix]]
 
 $$
+
 \left[
 \begin{array}{cc|cc}
 c_1 & c_2 & b_1 & b_2
 \end{array}
 \right]
+
 $$
 
 
@@ -79,10 +91,12 @@ Then row reduce, until:
 
 
 $$
+
 \left[
 \begin{array}{c|c}
 I & P_{C\leftarrow B}
 \end{array}
 \right]
+
 $$
 

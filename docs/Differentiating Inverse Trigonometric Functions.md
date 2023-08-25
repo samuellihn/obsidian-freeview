@@ -4,14 +4,23 @@ To find the derivative of $y = \sin^{-1}{x}$
 
 Swap $x$ and $y$:
 
-$$y = \sin^{-1}{x} \rightarrow x = \sin{y}$$
+$$
+y = \sin^{-1}{x} \rightarrow x = \sin{y}
+$$
+
 Then, implicitly differentiate:
 
-$$\frac{d}{dx} [x] = \frac{d}{dx}[\sin{y}]$$
-$$1 =  \cos(y)\frac{dy}{dx}$$
+$$
+\frac{d}{dx} [x] = \frac{d}{dx}[\sin{y}]
+$$
 
+$$
+1 =  \cos(y)\frac{dy}{dx}
+$$
 
-$$\frac{1}{\cos{y}} = \frac{dy}{dx} = \frac{1}{\sqrt{1 - x^2}}$$
+$$
+\frac{1}{\cos{y}} = \frac{dy}{dx} = \frac{1}{\sqrt{1 - x^2}}
+$$
 
 > Since we want our derivative in terms of $x$, we need to use trigonometric rules to make this possible
 > 

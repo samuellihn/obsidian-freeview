@@ -11,5 +11,7 @@ An **automorphism** is a graph that is isomorphic to itself
 > There are $n!$ automorphisms for complete graph $K_n$
 
 Any vertex can be mapped to any other vertex and still come up with the same graph is **vertex transitive** 
-$$\forall (u, v) \in V, f(u) = v$$
 
+$$
+\forall (u, v) \in V, f(u) = v
+$$

@@ -24,4 +24,6 @@ This is easy to determine for undirected graphs, but connectivity of [[Digraphs]
 
 In general (see [[Graph Invariants]]):
 
-$$\kappa(G) \leq \lambda(G) \leq \delta(G)$$
+$$
+\kappa(G) \leq \lambda(G) \leq \delta(G)
+$$

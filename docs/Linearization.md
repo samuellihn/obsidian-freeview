@@ -10,10 +10,15 @@ Do this by plugging in an x-value into an equation for a tangent line
 
 When we know $x_1$ and $f(x_1)$:
 
-$$f(x)\approx f'(x)(x-x_1)+f(x_1)$$
+$$
+f(x)\approx f'(x)(x-x_1)+f(x_1)
+$$
 
 Or, on the $xy$ plane, 
-$$y \approx y'(x-x_1)+y_1$$
+
+$$
+y \approx y'(x-x_1)+y_1
+$$
 
 > This is simply a rearrangement of the point-slope form of a given tangent line
 

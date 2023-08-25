@@ -9,11 +9,15 @@ And $A(s) = s^2$
 
 The volume of a solid with square cross sections is given as:
 
-$$\int_a^b{(y_1 - y_2)^2}dx$$
+$$
+\int_a^b{(y_1 - y_2)^2}dx
+$$
 
 In general, the volume of a solid whose cross-sectional areas can be found by function $A(s)$ is, where $s=y_1 - y_2$:
 
-$$\int_a^b{A(y_1 - y_2)}dx$$
+$$
+\int_a^b{A(y_1 - y_2)}dx
+$$
 
 For triangles, pay attention to which side is side $s$, and calculate the other dimensions from there
 

@@ -12,6 +12,7 @@ $$
 \frac{\partial F}{\partial z}
 }
 $$
+
 > Notice how the same variables are arranged "diagonally" from each other
 
 Similarly,

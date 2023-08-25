@@ -1,3 +1,5 @@
+Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolfram.com/books/profile.cgi?id=7938)
+
 # Chapter 1:
 - [[Solving Linear Systems]]
 - [[Representations for Linear Systems]]

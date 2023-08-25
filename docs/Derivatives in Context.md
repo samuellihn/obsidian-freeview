@@ -1,11 +1,15 @@
 A derivative of a function with units will also have units
 A helpful way to find out units is to write units in the difference quotient
 
-$$\frac{4 - 2 \ feet}{2 - 1 \ hour} \rightarrow 2 \frac{feet}{hour}$$
+$$
+\frac{4 - 2 \ feet}{2 - 1 \ hour} \rightarrow 2 \frac{feet}{hour}
+$$
 
 This can also be applied to units that are rates
 
-$$\frac{4 - 2 \ \frac{feet^2}{hour}}{2 - 1 \ hour} \rightarrow 2 \ \frac{feet^2}{hour^2}$$
+$$
+\frac{4 - 2 \ \frac{feet^2}{hour}}{2 - 1 \ hour} \rightarrow 2 \ \frac{feet^2}{hour^2}
+$$
 
 **Units will always be in $\frac{dependent\ variable}{independent\ variable}$**
 

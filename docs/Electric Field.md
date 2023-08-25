@@ -14,7 +14,9 @@ Uses arrows radially pointed inward or outward from the force
 
 Electric field strength, measured in force per unit charge ($\frac{N}{C})$ at a point
 
-$$\vec{E} = \frac{kq_{source}}{r^2} \hat{r}$$
+$$
+\vec{E} = \frac{kq_{source}}{r^2} \hat{r}
+$$
 
 > $\hat{r}$ is a unit vector that points from the source to the point being investigated
 > $k$ is coulomb's constant, $9*10^9$
@@ -34,8 +36,13 @@ Electric field diagrams feature arrows pointing in the direction of electric fie
 **Forces and fields are different, but related!**
 Electric forces, measured in Newtons, are calculated as such: 
 
-$$\vec{F_E} = q \vec{E}$$
-$$\vec{N} = C\vec{\frac{N}{C}}$$
+$$
+\vec{F_E} = q \vec{E}
+$$
+
+$$
+\vec{N} = C\vec{\frac{N}{C}}
+$$
 
 Usually, these problems will involve [[Static Equilibrium#Equilibrium|static equilibrium]] states, which will involve zeroeing/cancelling vectors.
 

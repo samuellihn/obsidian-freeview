@@ -8,7 +8,10 @@ The radius of each respective disk will be equal to the y-value of the function 
 
 The equation should look like this:
 
-$$\int_a^b{\pi R(x)^2}dx $$
+$$
+\int_a^b{\pi R(x)^2}dx 
+$$
+
 Where the integral of $R(x)$ describes the bounded area of revolution, assuming the axis of revolution is directly below the revolved area.
 
 If there's a gap between the axis of revolution and the inner edge, use the [[Washer Method]]

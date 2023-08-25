@@ -1,6 +1,9 @@
 A linear combination of vectors $y$ is the sum of vectors $v_1 ... v_n$ with respective weights $c_1 ... c_n$
 
-$$y = c_1 v_1 + c_2 v_2 + c_3 v_3 + ...$$
+$$
+y = c_1 v_1 + c_2 v_2 + c_3 v_3 + ...
+$$
+
 ![[Pasted image 20220912112702.png]]
 
 You can create any vector in $R^2$ with these two vectors and respective weights, **unless they are colinear** (where you can only create different lengths of one line) or if one of these is the zero vector
@@ -35,7 +38,6 @@ If we get a consistent linear system, then $y$ is a linear combination of $x_1$ 
 
 And we can solve for the weights, as seen in this matrix's RREF.
 
-
 $$
 \left[
 \begin{array}{cc|c}
@@ -45,9 +47,12 @@ $$
 \end{array}
 \right]
 $$
+
 $$
 x_1 = 3, 
-x_2=2$$
+x_2=2
+$$
+
 A vector equation:
 
 $$
@@ -56,6 +61,7 @@ x_2 \vec{a_2} +
 x_3 \vec{a_3} + ...
 x_n \vec{a_n} = \vec{b}
 $$
+
 Has the same solution as:
 
 $$
@@ -65,7 +71,6 @@ $$
 \end{array}
 \right]
 $$
-
 
 Where the $\vec{a_1}$, etc. are all column vectors
 

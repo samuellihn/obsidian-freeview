@@ -1,6 +1,8 @@
 To take the derivative of two multiplied functions?
 
-$$\frac{d}{dx} [f(x) \ g(x)] = f'(x)g(x) + f(x)g'(x)$$
+$$
+\frac{d}{dx} [f(x) \ g(x)] = f'(x)g(x) + f(x)g'(x)
+$$
 
 **Do not simply take the derivatives of the two functions and multiply them together**
 

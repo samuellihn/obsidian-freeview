@@ -32,7 +32,9 @@ Constant | Do nothing (induce zero EMF)
 
 The amount of voltage induced is:
 
-$$V_{inductor} = -L \frac{di}{dt}$$
+$$
+V_{inductor} = -L \frac{di}{dt}
+$$
 
 > $L$ is the inductance of the inductor
 > $-\frac{di}{dt}$ - will always negate the change (derivative) of a current

@@ -6,19 +6,32 @@ It is very similar to the parametric equation(s) for a line, but with $x, y, z$,
 
 Given parametric equations:
 
-$$x = x_0 + \vec{a}_xt$$
-$$y = y_0 + \vec{a}_yt$$
-$$ z= z_0 + \vec{a}_zt$$
+$$
+x = x_0 + \vec{a}_xt
+$$
+
+$$
+y = y_0 + \vec{a}_yt
+$$
+
+$$
+ z= z_0 + \vec{a}_zt
+$$
 
 The vector equation for that line is:
 
-$$\vec{r} = \vec{r_0} + t\vec{a}$$
+$$
+\vec{r} = \vec{r_0} + t\vec{a}
+$$
+
 Which breaks down to:
 
-$$\vec{r} = 
+$$
+\vec{r} = 
 \langle x_0, y_0, z_0 \rangle
 +
-t\langle a_x, a_y, a_z \rangle$$
+t\langle a_x, a_y, a_z \rangle
+$$
 
 To convert the vector form into symmetric equations, it helps to break it into parametric equations and convert the vector form that way
 
@@ -38,7 +51,12 @@ Then constrain $t$ to a value which corresponds with the first point $P$  when p
 
 If $\vec{r}$ denotes the vector form of the line, and $a$ and $b$ are upper and lower bounds:
 
-$$\vec{r}(a) = P$$
-$$\vec{r}(b) = Q$$
+$$\vec{r}(a) = P
+$$\$$
+$$
+
+\vec{r}(b) = Q$$
 Then,
-$$\bar{PQ}= \vec{r}(t) \ when  \  \{ a < t < b\}$$ 
+
+$$\bar{PQ}= \vec{r}(t) \ when  \  \{ a < t < b\}
+$$ 

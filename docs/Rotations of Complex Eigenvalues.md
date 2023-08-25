@@ -8,6 +8,7 @@ a & -b \\ b & a
 \end{matrix}
 \right]
 $$
+
 Then the eigenvalues of $C$ are $a \pm bi$
 
 Then, $r = |\lambda| = \sqrt{a^2 + b^2}$ (the magnitude of the complex eigenvalues)
@@ -49,6 +50,7 @@ P =
 \end{matrix}
 \right]
 $$
+
 So if $A$ is the composition of a rotation and a scaling, then $A = PCP^{-1}$ and $C$ is the rotation "inside" $A$
 
 This can generalize to higher dimensions - if $A$ is a $3 \times 3$ matrix with complex eigenvalues, then there is a plane on $\Re^3$ where $A$ acts as a rotation

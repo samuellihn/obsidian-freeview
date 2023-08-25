@@ -1,6 +1,8 @@
 Error between the [[Taylor Polynomials]] approximation $T_n(x)$ and the actual $f(x)$ will be less than or equal to:
 
-$$\frac{|x-c|^{n+1}}{(n+1)!} \times max|f^{n+1}(z)|$$
+$$
+\frac{|x-c|^{n+1}}{(n+1)!} \times max|f^{n+1}(z)|
+$$
 
 > Error is an absolute value
 > $c$ is the point the series is centered aroun

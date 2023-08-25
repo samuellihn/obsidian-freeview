@@ -12,12 +12,14 @@ $y$: ciphertext
 
 The encryption algorithm for each character is:
 
-
-$$y = (x + b) \mod{27}$$
+$$
+y = (x + b) \mod{27}
+$$
 
 > Where $b$ is the amount being shifted
 
 To decrypt:
 
-
-$$y = (x - b) \mod 27$$
+$$
+y = (x - b) \mod 27
+$$

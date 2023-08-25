@@ -4,9 +4,9 @@ Therefore, the Junction Rule states that:
 
 > The sum of all the currents going into the junction **must equal** the sum of all the currents going out of the junction
 
-
-$$\sum{I_{in}} = \sum{I_{out}}$$
-
+$$
+\sum{I_{in}} = \sum{I_{out}}
+$$
 
 ![[Pasted image 20220322181044.png]]
 
