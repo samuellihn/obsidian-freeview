@@ -1,7 +1,8 @@
 
 In the definition of a matrix multiplication $AB$, each column of a matrix $B$ can be viewed as a vector $[\vec{b_1} \ \vec{b_2} \ \vec{b_3} \ ... \ \vec{b_n}]$,  and the result is:
 
-$$AB = A
+$$
+AB = A
 \left[
 \begin{matrix}
 \vec{b_1} &\vec{b_2}&\vec{b_3} & ... & \vec{b_n}
@@ -24,7 +25,11 @@ Can also multiply matrices with the [[Dot Product]]
 > Called the **row-column rule**
 
 Matrix multiplication is **not commutative**:
-$$AB \neq BA$$
+
+$$
+AB \neq BA
+$$
+
 > In the product $AB$, we can say that $A$ is right-multiplied **by** $B$, or that $B$ is **left-multiplied** by $A$
 
 Cancellation is not generally true for matrix multiplication. It **cannot  be concluded** that $AB = AC$ means that $B=C$

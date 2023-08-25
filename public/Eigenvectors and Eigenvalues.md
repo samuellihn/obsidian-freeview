@@ -41,26 +41,39 @@ $$
 \end{matrix}
 \right]
 $$
+
 **We call a nonzero vector $\vec{x}$ and a scalar $\lambda$ an eigenvector-eigenvalue pair for matrix $A$ when $Ax = \lambda{x}$ **
 
 It is easy to find an eigenvalue given an eigenvector - transform the vector with the matrix and determine the ratio between the two vectors (see above)
 
 However, if given a eigenvalue to find an eigenvector, it is a little harder
 
-$$A\vec{x} = 7\vec{x}\rightarrow A\vec{x} - 7\vec{x} = 0$$
+$$
+A\vec{x} = 7\vec{x}\rightarrow A\vec{x} - 7\vec{x} = 0
+$$
+
 However, you cannot factor out $\vec{x}$ in this state, as $A$ is a matrix and $7$ is a scalar
 
-$$ (A- 7)\vec{x} = 0 \rightarrow invalid!$$
+$$
+ (A- 7)\vec{x} = 0 \rightarrow invalid!
+$$
 
 Insert an identity matrix, so we can transform that scalar into a matrix:
-$$A\vec{x} = 7I\vec{x}\rightarrow (A - 7I)\vec{x} = 0$$
+
+$$
+A\vec{x} = 7I\vec{x}\rightarrow (A - 7I)\vec{x} = 0
+$$
 
 Then, given the equation
 
-$$(A - 7I)\vec{x} = 0$$
+$$
+(A - 7I)\vec{x} = 0
+$$
+
 All vectors in the [[Null Space]] of $A - 7I$ are eigenvectors that correspond to the eigenvalue $7$
 
 If the null space exists and is larger than $\{0\}$, then:
+
 $$
 \lambda \ is \ an \ eigenvalue \ of A
 $$

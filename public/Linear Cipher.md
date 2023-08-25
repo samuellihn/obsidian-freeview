@@ -4,7 +4,9 @@ The linear cipher is similar to a [[Shift Cipher]], but includes both a scaling 
 
 To encrypt:
 
-$$y = (ax + b) \mod{27}$$
+$$
+y = (ax + b) \mod{27}
+$$
 
 Slightly stronger than the Caesar/shift cipher, as an additional element
 
@@ -12,12 +14,17 @@ Still susceptible to lexical analysis (patterns of double letters, etc.)
 
 To decrypt, solve for x:
 
+$$
+y = (ax + b) \mod{27}
+$$
 
-$$y = (ax + b) \mod{27}$$
+$$
+y -b = ax \mod{27}
+$$
 
-$$y -b = ax \mod{27}$$
-
-$$a^{-1}(y -b) = x \mod{27}$$
+$$
+a^{-1}(y -b) = x \mod{27}
+$$
 
 > Note that this is the **modular inverse** of $a$
 

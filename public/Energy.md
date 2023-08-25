@@ -16,7 +16,10 @@ Three types of energy studied in AP Physics: [[Linear Kinetic Energy]], [[Gravit
 
 To solve conservation of energy problems:
 
-$$KE_0 + GPE _0 + EPE _0 = KE_1 + GPE _1 + EPE _1 $$
+$$
+KE_0 + GPE _0 + EPE _0 = KE_1 + GPE _1 + EPE _1 
+$$
+
 - Zero out the parts that aren't in the problem
 - Solve the equality using given figures
 

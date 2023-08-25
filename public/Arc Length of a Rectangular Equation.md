@@ -10,13 +10,20 @@ Meaning $ds$, according to the [[Pythagorean Theorem]] the length of the small l
 
 And then we solve for $\frac{dx}{dy}$ by factoring out $(dx)^2$ (which is the derivative of the function $y$):
 
-$$ds = \sqrt{1 + \Big(\frac{dy}{dx}\Big)^2}$$
+$$
+ds = \sqrt{1 + \Big(\frac{dy}{dx}\Big)^2}
+$$
+
 Therefore, to add up infinitely many $ds$:
 
-$$s = \int_a^b{ds} \rightarrow \int_a^b{\sqrt{1 + \Big(\frac{dy}{dx}\Big)^2}} \ dx$$
+$$
+s = \int_a^b{ds} \rightarrow \int_a^b{\sqrt{1 + \Big(\frac{dy}{dx}\Big)^2}} \ dx
+$$
 
 For a given function $f$, this means that the arc length from $a$ to $b$ is:
 
-$$\int_a^b{\sqrt{1 + f'(x)^2}\ dx}$$
+$$
+\int_a^b{\sqrt{1 + f'(x)^2}\ dx}
+$$
 
 Can be used to find the distance of a path modeled by a mathematical function, or the perimeter of a function whose side is modeled by a function

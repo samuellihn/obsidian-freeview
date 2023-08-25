@@ -1,5 +1,9 @@
 If $A = PBP^{-1}$ for some invertible matrix $P$, then $A$ and $B$ are [[Similar Matrices]]
-$$AP = PB$$
+
+$$
+AP = PB
+$$
+
 If we can find a diagonal matrix $D$ such that $A = PDP^{-1}$, then $A$ is similar to $D$, and we can use $PDP^{-1}$ to compute powers of $A$
 
 $$
@@ -7,13 +11,15 @@ A^3 = (PDP^{-1})(PDP^{-1})(PDP^{-1})  \rightarrow
 A^3 = PDP^{-1}PDP^{-1}PDP^{-1} 
 A^3 = PD^3P^{-1} 
 $$
+
 Why?
 
 Since $D$ is a diagonal matrix, it is much easier to compute powers of $D$:
 
 Given a diagonal matrix $D$:
 
-$$D = 
+$$
+D = 
 \left[
 \begin{matrix}
 a_{11} & ... & ... & ...\\
@@ -23,9 +29,11 @@ a_{11} & ... & ... & ...\\
 \end{matrix}
 \right]
 $$
+
 Then
 
-$$D^n = 
+$$
+D^n = 
 \left[
 \begin{matrix}
 a_{11}^n & ... & ... & ...\\
@@ -35,6 +43,7 @@ a_{11}^n & ... & ... & ...\\
 \end{matrix}
 \right]
 $$
+
 To diagonalize a matrix:
 
 Find the eigenvalues, using methods described in the [[Characteristic Equation]] or [[Eigenvalues for Large Matrices]]

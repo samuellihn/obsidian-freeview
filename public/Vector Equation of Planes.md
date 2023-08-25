@@ -10,18 +10,36 @@ Given any point $x, y, z$ which forms vector $\vec{r}$ and any point $x_0, y_0, 
 
 The vector $r - r_0$ is therefore on the plane, and is orthogonal with normal vector $\vec{n}$. Therefore:
 
-$$n \cdot (r-r_0) = 0$$
-$$n = \langle a, b, c \rangle$$
-$$r = \langle x, y, z \rangle$$
-$$r_0 = \langle x_0, y_0, z_0 \rangle$$
+$$
+n \cdot (r-r_0) = 0
+$$
+
+$$
+n = \langle a, b, c \rangle
+$$
+
+$$
+r = \langle x, y, z \rangle
+$$
+
+$$
+r_0 = \langle x_0, y_0, z_0 \rangle
+$$
+
 Decomposing the equation:
 
-$$\langle a, b, c \rangle \cdot \langle x - x_0, y - y_0, z - z_0 \rangle$$
+$$
+\langle a, b, c \rangle \cdot \langle x - x_0, y - y_0, z - z_0 \rangle
+$$
 
 Evaluating the dot product:
 
-$$a(x - x_0) + b(y - y_0) + c (z - z_0)$$
+$$
+a(x - x_0) + b(y - y_0) + c (z - z_0)
+$$
+
 Distributing and recombining:
 
-$$ax + by + cz + (-ax_0 -by_0 - cz_0) = 0 \rightarrow ax + by + cz + d = 0 \ where \ d = -ax_0 -by_0 - cz_0$$
-
+$$
+ax + by + cz + (-ax_0 -by_0 - cz_0) = 0 \rightarrow ax + by + cz + d = 0 \ where \ d = -ax_0 -by_0 - cz_0
+$$

@@ -9,13 +9,12 @@ Tension force on string has two components, the centripital force and the comple
 
 [[Static Equilibrium#Equilibrium|Equilibrium state]] in y-direction, motion in x-direction
 
-$$v = \sqrt{gr\tan{\theta}}$$
+$$
+v = \sqrt{gr\tan{\theta}}
+$$
 
 To find the tension in the string,
 
-$$T^2=(mg)^2+(\frac{mv^2}{r})^2$$
-
-
-
-
-
+$$
+T^2=(mg)^2+(\frac{mv^2}{r})^2
+$$

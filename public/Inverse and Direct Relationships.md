@@ -2,8 +2,12 @@
 
 Direct relationship:
 
-$$y = kx$$
+$$
+y = kx
+$$
 
 Inverse relationsihp:
 
-$$y = \frac{1}{x}$$
+$$
+y = \frac{1}{x}
+$$

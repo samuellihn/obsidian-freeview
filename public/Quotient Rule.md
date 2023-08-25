@@ -1,6 +1,9 @@
 To find the derivative of two functions in a fraction/divided:
 
-$$\frac{d}{dx}\Bigg[\frac{f(x)}{g(x)}\Bigg]  =  \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2}$$
+$$
+\frac{d}{dx}\Bigg[\frac{f(x)}{g(x)}\Bigg]  =  \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2}
+$$
+
 Numerator is **not** commutative
 
 $g(x)$ must **not be zero**

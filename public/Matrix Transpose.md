@@ -14,8 +14,8 @@ a & c \\ b & d
 \right]
 $$
 
-
 Also works with non-square matrices:
+
 $$
 \left[
 \begin{matrix}
@@ -33,13 +33,25 @@ d & h\\
 \end{matrix}
 \right]
 $$
+
 Properties of transpose matrices:
 
-$$(A^T)^T = A$$
-$$(A+B)^T = A^T+ B^T$$
+$$
+(A^T)^T = A
+$$
+
+$$
+(A+B)^T = A^T+ B^T
+$$
+
 If $r$ is any scalar:
 
-$$(rA)^T = rA^T$$
+$$
+(rA)^T = rA^T
+$$
+
 > Note that this does **not** hold true for [[Inverses of Matrices]]
 
-$$(AB)^T = B^TA^T$$
+$$
+(AB)^T = B^TA^T
+$$

@@ -1,6 +1,8 @@
 Division theorem - given two integers that are divided, the result will have a quotient and a remainder
 
-$$n = dq + r, \  0 \leq r < d$$
+$$
+n = dq + r, \  0 \leq r < d
+$$
 
 > $n$: dividend
 > $q$: quotient

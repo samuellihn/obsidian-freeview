@@ -2,7 +2,10 @@ Each field, [[Gravitational Field]], [[Electric Field]], and Magnetic field has 
 
 For magnetic fields, the flux can be expressed as:
 
-$$\phi_B = \int{\vec{B} \cdot \vec{dA}}$$
+$$
+\phi_B = \int{\vec{B} \cdot \vec{dA}}
+$$
+
 Flux is the amount of field lines that go through a particular flat surface
 
 In this case, $A$ is the area within a Faradian loop
@@ -16,7 +19,11 @@ Again, try to model uniformity when doing these problems. The magnetic field wil
 
 ![[Pasted image 20220408092746.png]]
 We can also express this as 
-$$\phi_B = \int{\vec{B}\vec{dA}} \cos\theta$$
+
+$$
+\phi_B = \int{\vec{B}\vec{dA}} \cos\theta
+$$
+
 Magnetic flux is expressed as $\phi$, which has the units Tesla-sq. meters ($T \cdot m^2$), or **Webers**
 
 The total magnetic flux enclosed by a Gaussian surface will always be zero, which is useful for solving certain problems.
@@ -35,6 +42,12 @@ if we break a magnetic in half it forms two smaller bipolar magnets
 
 Because of this bipolar nature of magnetic field lines, the integral
 
-$$\oint{\vec{B} \cdot \vec{dA}}$$
+$$
+\oint{\vec{B} \cdot \vec{dA}}
+$$
+
 Always equals zero a given closed Gaussian surface.
-$$\oint{\vec{B} \cdot \vec{dA}} = 0$$
+
+$$
+\oint{\vec{B} \cdot \vec{dA}} = 0
+$$

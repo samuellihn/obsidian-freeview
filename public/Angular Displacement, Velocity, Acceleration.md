@@ -6,17 +6,23 @@ Works same way as linear displacement:
 
 Velocity $\omega$ is the derivative of displacement:
 
-$$\omega = \frac{\Delta{\theta}}{\Delta{t}}$$
+$$
+\omega = \frac{\Delta{\theta}}{\Delta{t}}
+$$
 
 Acceleration $\alpha$ is the derivative of velocity
 
-$$\alpha = \frac{\Delta{\omega}}{\Delta{t}}$$
+$$
+\alpha = \frac{\Delta{\omega}}{\Delta{t}}
+$$
 
 The arc length covered by a given angular displacent depends on radius
 
 To convert from angular quantities to linear quantities, 
 
-$$d = r\theta \ or \ v = r\omega \ or \ a = r \alpha$$
+$$
+d = r\theta \ or \ v = r\omega \ or \ a = r \alpha
+$$
 
 > Angular component **must be in radians**
 
@@ -31,10 +37,18 @@ Three types of accelerations in rotational motion:
 
 From there, we calculate total linear acceleration with the Pythagorean theorem:
 
-$$a_{total} = \sqrt{a_t + a_c}$$
+$$
+a_{total} = \sqrt{a_t + a_c}
+$$
 
-$$a_c = \frac{\omega^2}{r}$$
+$$
+a_c = \frac{\omega^2}{r}
+$$
 
 Angular velocity and frequency can be related with 
-$$\omega = 2\pi f$$
+
+$$
+\omega = 2\pi f
+$$
+
 > Notice that there is no radius in the problem

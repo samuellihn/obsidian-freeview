@@ -6,7 +6,9 @@ The average value of a function can be seen as the height of a rectangle with th
 
 To find the average y-value of a function, 
 
-$$f* = \frac{1}{b-a} \int_a^b{f(x)dx}$$
+$$
+f* = \frac{1}{b-a} \int_a^b{f(x)dx}
+$$
 
 Definite integral of the entire interval divided by the size of the interval
 

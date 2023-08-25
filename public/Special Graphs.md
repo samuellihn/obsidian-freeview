@@ -1,6 +1,8 @@
 For a simple graph with $n$ nodes, the maximum number of vertices is:
 
-$$\frac{n(n-1)}{2} = \binom{n}{2}$$
+$$
+\frac{n(n-1)}{2} = \binom{n}{2}
+$$
 
 # Paths ($P$)
 

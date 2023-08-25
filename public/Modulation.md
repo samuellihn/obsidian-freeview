@@ -6,7 +6,10 @@
 it is impractical to transmit low-frequency signals over the airwaves (low frequency signals do not radiate over the airwaves)
 
 - Can use smaller antennae to radiate higher frequencies 
-$$ Antanne \ length = \frac{\lambda}{4}$$
+
+$$
+ Antanne \ length = \frac{\lambda}{4}
+$$
 
 Of course the signal has to be **demodulated** (decoded) at the other end
 

@@ -11,7 +11,9 @@ This can be used in conjunction with [[Gauss's Law]] to find unknown charges, as
 
 $\vec{E}$ just outside the metal is equal to $\frac{\sigma_{local}}{\epsilon_0}$ ($\sigma$ is local charge density per area)
 
-$$E = \frac{\sigma_{local}}{\epsilon_0}$$
+$$
+E = \frac{\sigma_{local}}{\epsilon_0}
+$$
 
 > Think of the Gauss's law equality $\frac{\sigma_local * A}{epsilon_0} = \oint{E \cdot dA}$ for a Gaussian just above the surface
 
@@ -25,7 +27,11 @@ All points on and inside the metal will be at the same [[Electrical Potential]]
 > 
 
  The surface charge density $\sigma$ will be greater at the sharper areas at the metal. The electric field strength will thus be greatest just outside the sharpest points on the metal.
- $$E = \frac{\sigma_{local}}{\epsilon_0}$$
+
+ $$
+ E = \frac{\sigma_{local}}{\epsilon_0}
+ $$
+
 > Even though there is more charge for a larger (smoother) piece of metal, the surface charge density will still be higher if the potentials are the same, **since area is squared and charge isn't** 
 
 

@@ -19,7 +19,9 @@ State machine to represent this interaction:
 
 Bellman equation (Q-learning):
 
-$$q^{new}(s, a) = (1 - \alpha)q(s, a) + \alpha(R_{t+1} + \gamma max(s', a') )$$
+$$
+q^{new}(s, a) = (1 - \alpha)q(s, a) + \alpha(R_{t+1} + \gamma max(s', a') )
+$$
 
 Difficulty in defining the states for the problem (good state, bad state, etc.)
 

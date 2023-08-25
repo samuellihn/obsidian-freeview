@@ -1,6 +1,9 @@
 The [[Higher Order Derivatives]] for parametric equations are written as:
 
-$$ \frac{d^2y}{dx^2}  = \frac{\frac{d}{dt}\Big[\frac{dy}{dx}\Big]}{\frac{dx}{dt}}$$
+$$
+ \frac{d^2y}{dx^2}  = \frac{\frac{d}{dt}\Big[\frac{dy}{dx}\Big]}{\frac{dx}{dt}}
+$$
+
 > The derivative is being taken with respect to $t$, so we need to "divide by" $dt$ in our higher-order derivative
 > Then, we have $\frac{dx}{dt}$ in the denominator
 

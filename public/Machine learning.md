@@ -12,7 +12,10 @@ Types of problems
 # Regression models
 "Line of best fit" given data points
 
-$$h(x) = b + wx$$
+$$
+h(x) = b + wx
+$$
+
 > $b$ is the bias
 > $x$ is the weight
 
@@ -31,7 +34,10 @@ Find decision binary based on points
 
 BInary classification uses **sigmoid function**
 
-$$Y = \sigma(Wx + b)$$
+$$
+Y = \sigma(Wx + b)
+$$
+
 ## Activatio nfunctions
 
 Used to map continuous outputs to discrete outputs

@@ -24,5 +24,8 @@ This is easier because once the known values are substituted in, we only have to
 
 The notation for $\frac{dy}{dx}$ at a point is:
 
-$$\frac{dy}{dx} \Bigg|_{(x, y)}$$
+$$
+\frac{dy}{dx} \Bigg|_{(x, y)}
+$$
+
 The vertical bar means "evaluated at"

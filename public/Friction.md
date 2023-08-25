@@ -13,7 +13,10 @@ An object that has start moving has its applied force overcome its static fricti
 Then static friction becomes zero, but kinetic friction still remains
 
 **For an object to move, applied force needs to be higher than the friction force**
-$$F_f \leq u_sF_N$$
+
+$$
+F_f \leq u_sF_N
+$$
 
 > Static friction is a variable force that depends on the applied force
 -   **Contact area does not affect friction force**
@@ -22,7 +25,11 @@ $$F_f \leq u_sF_N$$
 ## Kinetic Friction
 Lower than static friction (the object has already started moving)
 **Sliding friction between two objects**
-$$F_f= \mu_kF_n$$
+
+$$
+F_f= \mu_kF_n
+$$
+
 > Kinetic friction is constant
 - When an object is moving at a constant speed, there is no acceleration
 

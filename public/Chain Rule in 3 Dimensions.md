@@ -1,15 +1,22 @@
 Sometimes we need to apply the [[Chain Rule]] for functions of three dimensions, given:
 
-$$f(x, y)$$
+$$
+f(x, y)
+$$
+
 Where:
 
-$$x(s, t) \ and \ y(s, t)$$
+$$
+x(s, t) \ and \ y(s, t)
+$$
+
 We may need to find derivatives spanning two "levels," like for example:
 
 $$
 \frac{\partial F}{\partial s} \ or \ 
 \frac{\partial F}{\partial t}
 $$
+
 A dependency graph can be used to detail which variables are functions of which others:
 
 ```mermaid
@@ -64,6 +71,7 @@ Not everything needs to be a partial derivative - for example, given the functio
 $$
 f(x, y), \ x(t), \  y(t)
 $$
+
 Then our dependency graph looks like:
 
 ```mermaid
@@ -89,6 +97,7 @@ graph TD
 	y ==> t2
 ```
 So
+
 $$
 \frac{\partial f}{\partial s} = 
 \frac{\partial f}{\partial x} 

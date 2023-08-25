@@ -1,17 +1,20 @@
 The cross product between two vectors in $R^3$ (3-dimensional space) is defined as:
 
-$$a \times b = 
+$$
+a \times b = 
 \langle 
 a_2b_3 - a_3b_2,
 a_3b_1 - a_1b_3,
 a_1b_2 - a_2b_1
 \rangle
 $$
+
 # Determinant Definition
 
 The cross product can also be defined in terms of [[Determinant|determinants]]:
 
-$$\begin{vmatrix}
+$$
+\begin{vmatrix}
 a & b \\c & d
 \end{vmatrix} = ad -bc
 $$
@@ -50,6 +53,7 @@ b_1 & b_2 & b_3\\
 c_1 & c_2 & c_3
 \end{vmatrix}
 $$
+
 The cross product can be defined as:
 
 $$
@@ -71,6 +75,7 @@ b_1 & b_2 \\ c_1 & c_2
 $$
 
 Which equals:
+
 $$
 a \times b = \Bigg\langle
 \begin{vmatrix}
@@ -92,7 +97,9 @@ The cross product $a \times b$ produces a vector that is orthogonal (perpendicul
 
 The magnitude of the result of $a \times b$ is equivalent to:
 
-$$|a \times b| = |a||b|\sin{\theta}$$
+$$
+|a \times b| = |a||b|\sin{\theta}
+$$
 
 The magnitude of a cross product of vectors $a$ and $b$ ($|a \times b|$) is also equal to the area of a parallelogram formed by the two vectors
 

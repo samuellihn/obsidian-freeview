@@ -16,7 +16,10 @@ Only valid in an **inertial reference frame**, and the reference frame must **no
 > Example: Inside a moving car, everything appears still
 
 ## Second Law of Motion
-$$\sum{F} = ma$$
+
+$$
+\sum{F} = ma
+$$
 
 Force equals mass times acceleration
 
@@ -35,8 +38,9 @@ When one object exerts a force on a second object, the second object exerts an e
 
 If object 1 exerts a force on object 2, then object 2 will exert the same force on object 1
 
-$$F_{1 \ on \ 2} = -F_{2 \ on \ 1}$$
-
+$$
+F_{1 \ on \ 2} = -F_{2 \ on \ 1}
+$$
 
 Action-reaction forces need to be **contact forces**
 

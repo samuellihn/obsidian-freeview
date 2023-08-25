@@ -11,7 +11,9 @@ An arrangement of charges will have a non-zero potential energy (unless infinite
 
 We need a system with multiple objects in order to have electrical potential energy
 
-$$U_E = k\frac{q_1 q_2}{r}$$
+$$
+U_E = k\frac{q_1 q_2}{r}
+$$
 
 Very similar to the [[Energy of Gravitational Fields]] equation: simply [[Coulomb's Law]] multiplied by distance $r$
 
@@ -20,5 +22,6 @@ Same charges: potential energy will be positive (repulsion)
 
 To charge an object to charge $Q$ inside electrica potential $V$ from infinity, the amount of work required is:
 
-$$W = \int_0^Q{Vdq}$$
-
+$$
+W = \int_0^Q{Vdq}
+$$

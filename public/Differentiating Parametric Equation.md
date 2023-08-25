@@ -1,6 +1,8 @@
 For a [[Smooth Curve]] $C$ represented by a pair of [[Parametric Equation]], the slope of the tangent line to $C$ (the [[Derivatives MOC|derivative]]) is:
 
-$$\frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}$$
+$$
+\frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}
+$$
 
 > Note that $\frac{dx}{dt}$ must not be zero!
 > In order for our derivative to be in terms of $x$ we are dividing the two derivatives so the $dt$ will cancel

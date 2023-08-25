@@ -6,6 +6,8 @@ This also gives a useful insight to the dimensionality of the null space, $Nul \
 
 Therefore, given a matrix $A$ with $n$ columns:
 
-$$rank \ A + dim \ Nul \  A = n$$
+$$
+rank \ A + dim \ Nul \  A = n
+$$
 
 Also relates to entries of the [[Invertible Matrix Theorem]]

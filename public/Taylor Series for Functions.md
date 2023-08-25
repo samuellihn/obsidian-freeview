@@ -4,12 +4,20 @@
 
 Important Taylor-MacLaurin series:
 
-$$e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} +  \frac{x^2}{2!}... \frac{x^n}{n!}...$$
+$$
+e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} +  \frac{x^2}{2!}... \frac{x^n}{n!}...
+$$
 
-$$\sin{(x)} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} ... \frac{(-1)^n x^{2n+1}}{(2n+1)!}...$$
+$$
+\sin{(x)} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} ... \frac{(-1)^n x^{2n+1}}{(2n+1)!}...
+$$
+
 > Note, only odd terms
 
-$$\cos{(x)} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} ... \frac{(-1)^n x^{2n}}{(2n)!}...$$
+$$
+\cos{(x)} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} ... \frac{(-1)^n x^{2n}}{(2n)!}...
+$$
+
 > Note, only even terms
 
 Both sine and cosine start positive with the first (or zeroeth) term

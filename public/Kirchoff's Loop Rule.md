@@ -1,8 +1,8 @@
 When going around a “loop” in a closed circuit, all voltages ([[Electrical Potential]]) will always add to zero
 
-$$\sum{V_{loop}} = 0$$
-
-
+$$
+\sum{V_{loop}} = 0
+$$
 
 **Remember that we are taking the vector sum!**
 > Voltage **sources** (batteries) are positive, while voltage sinks (resistors, etc.) are negative

@@ -8,13 +8,16 @@ From there, the $dV$ can be turned into $H * 2\pi r dr$ (imagine unrolling one o
 
 Therefore, our integral can be:
 
-$$q_{en} = \int_a^b{\rho(r) H2\pi r dr}$$
-
-
+$$
+q_{en} = \int_a^b{\rho(r) H2\pi r dr}
+$$
 
 Setting up [[Gauss's Law]]:
 
-$$\frac{\int_a^b{\rho(r) H2\pi r dr}}{\epsilon_0} = E 2\pi r_g H$$
+$$
+\frac{\int_a^b{\rho(r) H2\pi r dr}}{\epsilon_0} = E 2\pi r_g H
+$$
+
  > Where $r_g$ is the radius of the Gaussian cylinder
 
   

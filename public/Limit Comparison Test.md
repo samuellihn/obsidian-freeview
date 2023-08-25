@@ -4,7 +4,9 @@ With the [[Direct Comparison Test]], it is sometimes difficult to verify the rel
 
 If $a_n > 0$ and $b_n > 0$ (series only consist of positive numbers), and 
 
-$$\lim_{n\to \infty}{\frac{a_n}{b_n}} = L$$
+$$
+\lim_{n\to \infty}{\frac{a_n}{b_n}} = L
+$$
 
 where L is finite and positive, the two series will either **both** converge or diverge
 

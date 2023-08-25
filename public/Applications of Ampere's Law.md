@@ -7,7 +7,10 @@ However, note that sometimes $\mu_0$ is not the permeability of free space $\mu$
 If our Amperian loop is inside material, then we should only consider the current **inside of the Amperian loop**
 
 Therefore, 
-$$\mu J \pi r^2 = \oint{\vec{B} \cdot \vec{dl}}$$
+
+$$
+\mu J \pi r^2 = \oint{\vec{B} \cdot \vec{dl}}
+$$
 
 > $J\pi r^2$ is the current density pre area times the area of the Amperian membrane
 

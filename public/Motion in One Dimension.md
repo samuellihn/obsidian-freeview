@@ -1,10 +1,14 @@
 Speed is distance over time
 
-$$s = \frac{d}{t}$$
+$$
+s = \frac{d}{t}
+$$
 
 Velocity is displacement over time 
 
-$$v = \frac{\Delta{x}}{\Delta{t}}$$
+$$
+v = \frac{\Delta{x}}{\Delta{t}}
+$$
 
 Displacement is directional: only the initial and final position is considered
 

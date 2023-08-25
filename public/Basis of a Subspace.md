@@ -66,6 +66,7 @@ A =
 \end{matrix}
 \right]
 $$
+
 First, find an echelon form of $A$
 
 $$
@@ -79,6 +80,7 @@ ref(A) =
 \end{matrix}
 \right]
 $$
+
 From the row echelon form of $A$, we can see that columns 1, 2 and 5 are the pivot columns of $A$
 
 Therefore, going back to the original matrix, extract columns 1, 2, and 5 to form the basis for $Col \ A$:

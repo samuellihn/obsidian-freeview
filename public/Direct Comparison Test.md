@@ -5,7 +5,10 @@ Series are related as follows:
 
 If we have two series, 
 
-$$\sum{a_n}, \sum{b_n}$$
+$$
+\sum{a_n}, \sum{b_n}
+$$
+
 And $a_n \geq 0$ and $b_n \geq 0$ and $a_n \leq b_n$ for all $n$,
 
 If $\sum{b_n}$ is convergent, then so is $\sum{a_n}$

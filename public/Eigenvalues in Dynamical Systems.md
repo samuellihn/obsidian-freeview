@@ -6,10 +6,16 @@ Find the [[Eigenvectors and Eigenvalues]] of the stochastic matrix
 
 Then, write the initial state $x_0$ as a composition of the eigenvalues:
 
-$$x_0 = c_1v_1 + c_2v_2$$
+$$
+x_0 = c_1v_1 + c_2v_2
+$$
+
 Therefore, the state vector can be described as:
 
-$$x_k = c_1(\lambda_1)^kv_1 + c_2(\lambda_2)^kv_2$$
+$$
+x_k = c_1(\lambda_1)^kv_1 + c_2(\lambda_2)^kv_2
+$$
+
 Therefore, our statevector $x_k$ can be described as an addition of two [[Geometric Series]] (times a vector)
 
 And we can analyze the coefficients (in this case, the eigenvalues) to determine the long-term behavior of the system

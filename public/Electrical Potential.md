@@ -10,7 +10,9 @@ Scalar value: defines [[Electrical Potential Energy]] per unit of [[Electric Cha
 
 Measured in volts: $\frac{Joules}{Coulomb}$A
 
-$$V = k\frac{Q}{R}$$
+$$
+V = k\frac{Q}{R}
+$$
 
 Zero at infinity, just like [[Electric Field]] (always comparative)
 
@@ -20,7 +22,10 @@ Zero at infinity, just like [[Electric Field]] (always comparative)
 
 To find the amount of work an electric field does moving a charge from one pont to another,
 
-$$W_{field} = -q(V_f - V_0)$$
+$$
+W_{field} = -q(V_f - V_0)
+$$
+
 > $q$ is the charge of the particle being moved
 > $V_o$ and $V_f$ are the voltages at the initial and final points
 > **If the work is being done by an external force, remove the negative sign **

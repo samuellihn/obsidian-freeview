@@ -17,7 +17,6 @@ $$
 
 Given this information, for any vector $v$ in subspace $H$:
 
-
 $$
 \beta
 [x]_\beta = v
@@ -34,6 +33,7 @@ c \\ \vdots \\ c_p
 \end{matrix}
 \right] = v
 $$
+
 The coordinate vector has $p$ dimensions, where $p$ is the dimensionality of subspace $H$, even if $H$ lies in a larger dimension
 
 > For example, if $H$ is a plane, then $[x]_\beta$ is a 2-dimensional vector even though $H$ may be in $R^3$

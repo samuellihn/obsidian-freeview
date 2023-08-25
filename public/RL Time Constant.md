@@ -5,12 +5,21 @@ if there is no battery (was disconnected), the graph of current will be exponent
 
 The time constant for an [[RL Circuit]] is:
 
-$$\tau = \frac{L}{R}$$
+$$
+\tau = \frac{L}{R}
+$$
+
 If we put this into our growth equation, we get
-$$i(\tau) = \frac{E}{R}\Bigg(1 - \frac{1}{E}\Bigg)$$
+
+$$
+i(\tau) = \frac{E}{R}\Bigg(1 - \frac{1}{E}\Bigg)
+$$
+
 After 1 time constant of current growth, $i$ will be equal to about $0.63 \frac{E}{R}$
 
-$$i(1\tau) \approx 0.63 \frac{E}{R}$$
+$$
+i(1\tau) \approx 0.63 \frac{E}{R}
+$$
 
 ```desmos-graph
 top=1.5;right= 10; left=0; bottom=0;
@@ -23,11 +32,16 @@ L = 1
 ```
 For the decay graph, for one time constant:
 
-$$i(\tau) = \frac{I_0}{e}$$
+$$
+i(\tau) = \frac{I_0}{e}
+$$
+
 After 1 time constant of decay,
 
-$$i(1\tau) \approx 0.37 I_0$$
- 
+$$
+i(1\tau) \approx 0.37 I_0
+$$
+
 ```desmos-graph
 top=1.5;right= 10; left=0; bottom=0;
 ---

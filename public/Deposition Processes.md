@@ -22,12 +22,18 @@ No pinholes to mess up etching
 Silicon oxidizes two ways 
 
 Dry oxidation
-$$Si + O_2 \rightarrow SiO_2$$
+
+$$
+Si + O_2 \rightarrow SiO_2
+$$
+
 Higher quality
 
 Wet oxidation
 
-$$Si 2H_2 O \rightarrow SiO_2 + 2H_2$$
+$$
+Si 2H_2 O \rightarrow SiO_2 + 2H_2
+$$
 
 Lower quality
 
@@ -51,7 +57,9 @@ Constructive interference - enhances wavelength of reflected light
 
 Happens when wavelength of light path length is equal to the wavelength of the light
 
-$$2X_{ox} = \frac{k\lambda} {n}$$
+$$
+2X_{ox} = \frac{k\lambda} {n}
+$$
 
 > $k$ - integer (wave mode)
 > $n$ - refractive index
@@ -86,13 +94,13 @@ Used in IC and MEMS manufacturing to control properties of silicon - electrical,
 
 Fick's law of diffusion - flux is dependant on the diffucivity and gradient (slope) of dopant concentration
 
-$$J = D \frac{\sigma{N}}{\sigma{x}}$$
+$$
+J = D \frac{\sigma{N}}{\sigma{x}}
+$$
 
-
-
-
-$$J = D \frac{\sigma{N}}{\sigma{x}}$$
-
+$$
+J = D \frac{\sigma{N}}{\sigma{x}}
+$$
 
 When dopng, you want to avoid undesirable impurities - fast diffusers
 
@@ -117,7 +125,11 @@ After doping, conductivity of semiconductor crystal will be greater (lower resis
 Then, sheet resistance can be calculated
 
 ![[Pasted image 20220629114134.png]]
-$$R = \frac{\rho L}{A} = \frac{\rho}{t}\frac{L}{W} = R_s \frac{L}{W}$$
+
+$$
+R = \frac{\rho L}{A} = \frac{\rho}{t}\frac{L}{W} = R_s \frac{L}{W}
+$$
+
 Resistance is only dependent on length/width ratio of the resistor
 
 Sheet resistance can be calculated with [[Ohm's Law]]

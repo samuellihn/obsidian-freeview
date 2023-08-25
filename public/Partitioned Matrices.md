@@ -2,7 +2,8 @@ Partitioned matrices are arrays of matrices "augmented" next to each other
 
 For example, matrix $A$ is made of matrices $W, X, Y, Z$:
 
-$$ 
+$$
+ 
 A=
 \left[
 \begin{array}{c|c}
@@ -19,8 +20,8 @@ This can be used to solve for entire matrices in terms of other matrices - usefu
 
 Matrices can also be broken with following notation:
 
-
-$$ 
+$$
+ 
 A= 
 \left[
 \begin{array}{c|c}
@@ -30,10 +31,11 @@ A_{21} & A_{22} & A_{23}
 \end{array}
 \right]
 $$
+
 Multiplication of blocks of partitioned matrices also follows the row-column rule (see [[Matrix Multiplication]]). For example, assuming the blocks have sizes that can be multiplied:
 
-
-$$ 
+$$
+ 
 \left[
 \begin{array}{c|c}
 A_{11} & A_{12} & A_{13}\\

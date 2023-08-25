@@ -16,7 +16,6 @@ C\\O\\N
 \right]
 $$
 
-
 Use these as the columns of the matrix, negating the weights on the results side of the equation and augmenting with the zero vector
 
 Solve for the weights, which correspond to the coefficients of the molecules in the chemical equation

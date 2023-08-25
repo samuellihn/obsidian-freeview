@@ -8,10 +8,15 @@ To solve, treat the $dy$ and $dx$ as the variables of integration, so we can int
 
 You should get:
 
-$$\frac{dy}{dx} = g(y)h(x) \rightarrow \int{g(y)dy} = \int{h(x)dx}$$
+$$
+\frac{dy}{dx} = g(y)h(x) \rightarrow \int{g(y)dy} = \int{h(x)dx}
+$$
+
 Which will give you multiple constants of integration, which can be moved over to one side (usually x)
 
-$$G(y) + c_y = H(x) + c_x \rightarrow G(y) = H(x) + c $$
+$$
+G(y) + c_y = H(x) + c_x \rightarrow G(y) = H(x) + c 
+$$
 
 Then, isolate y if needed
 > If you are transforming algebraically, make sure c is the right place

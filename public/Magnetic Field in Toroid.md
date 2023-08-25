@@ -14,13 +14,19 @@ Even though this is all one single wire, we sum the current flowing through each
 
 > If there's 2 amps flowing through the toroid wire, the total current would still be $2 \times number \ of \ wires$, even though it's all one wire
 > Total current:
-> $$I_{total} = NI$$
+>
+> $$
+> I_{total} = NI
+> $$
 
 Dot product can be taken out, $B$ is uniform and can be taken out
 
 After applying Ampere's law, the magnetic field due to a toroid at a distance $r$ from the center is 
 
-$$B = \frac{\mu_0 NI}{2\pi r}$$
+$$
+B = \frac{\mu_0 NI}{2\pi r}
+$$
+
 > So long as we stay outside the inner ring of wires, and inside the outer ring of wires
 
 However, inside the inner ring of wires or outside the outer ring, there is **no magnetic field**

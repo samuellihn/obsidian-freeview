@@ -1,14 +1,18 @@
 When a charged particle moves through a magnetic field, it will feel a force
 > The charged particle creates its own magnetic field, so the two fields interact
 
-$$\vec{F} = q\vec{v} \times \vec{B}$$
+$$
+\vec{F} = q\vec{v} \times \vec{B}
+$$
 
 > $\vec{B}$ is the magnetic field, in Teslas: $\frac{N}{C \frac{m}{s}}$
 >  Note that this is the [[Cross Product]]
 
 Or, if we only want the magnitude, 
 
-$$|\vec{F}| = qV_{\perp_B} B \rightarrow |\vec{F}| = qVB \sin{\theta}$$
+$$
+|\vec{F}| = qV_{\perp_B} B \rightarrow |\vec{F}| = qVB \sin{\theta}
+$$
 
 ![[Pasted image 20220330234715.png]]
 
@@ -28,10 +32,15 @@ In this case, point the thumb in the direction of velocity and the palm in the d
 
 We can use the [[Kinematics of Uniform Circular Motion]] laws to figure out the radius of the circular path of a moving particle in a magnetic field
 
-$$\frac{v^2}{r} = \frac{qv \times B}{m}$$
+$$
+\frac{v^2}{r} = \frac{qv \times B}{m}
+$$
 
 > Since velocity and electric field are usually perpendicular already, we can simplify to:
-> $$\frac{v}{r} = \frac{qB}{m}$$
+>
+> $$
+> \frac{v}{r} = \frac{qB}{m}
+> $$
 
 If the particle has a velocity component not parallel to the magnetic field, the particle may go in a helical pattern (UCM in two dimensions and constant velocity in the third)
 

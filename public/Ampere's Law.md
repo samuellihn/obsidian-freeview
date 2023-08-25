@@ -2,7 +2,10 @@ Like [[Gauss's Law]], but for magnetic fields, not electric fields
 - Both for symmetric situations
 - Uses closed loops, not closed surfaces (Gaussians)
 
-$$ \mu_0 I = \oint{\vec{B} \cdot \vec{dl}}$$
+$$
+ \mu_0 I = \oint{\vec{B} \cdot \vec{dl}}
+$$
+
 > This time, $\oint$ is the **closed path integral**
 
 $I$ is the current that goes through the Amperian membrane

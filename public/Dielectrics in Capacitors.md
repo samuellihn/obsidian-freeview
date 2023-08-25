@@ -6,7 +6,11 @@ Three benefits
 3. Increase the [[Capacitance]] of a capacitor
 
 The factor a certain dielectric increases the [[Capacitance]] of a capacitor is called the **dielectric constant** (the ratio of capacitance with a capacitor with the dielectric vs. a capacitor with a vacuum)
- $$\kappa = \frac{C}{C_o}$$
+
+ $$
+ \kappa = \frac{C}{C_o}
+ $$
+
 Capacitance with dielectric over capacitance without dielectric
 
 > A material (mylar) with a dielectric constant of 3.1 will have 3.1 times the capacitance of a capacitor with no (vacuum) dielectric
@@ -24,5 +28,8 @@ Therefore, more electrons can fit → more capacitance
 
 We can modify our capacitance equation for [[Parallel Plate Capacitors]] accounting for our dielectric:
 
-$$C = \frac{\kappa \epsilon_0 A}{d} \rightarrow C = \frac{\epsilon A}{d}$$
+$$
+C = \frac{\kappa \epsilon_0 A}{d} \rightarrow C = \frac{\epsilon A}{d}
+$$
+
 > $\epsilon$ is simply the permittivity of the dielectric (not permittivity of free space) (\epsilon = \kappa \epsilon_0)

@@ -5,20 +5,26 @@ The function may never reach it (undefined)
 However, it appears as if the function is reaching that point for the particular x value
 
 > The limit of *f(x)* as *x* approaches *n* is *m*
-> $$\lim_{x \to n}{f(x)} = m$$
+>
+> $$
+> \lim_{x \to n}{f(x)} = m
+> $$
 
 **The limit of the function may not be equal to the point on the function**
 
 Estimating values from graphs:
 
 The limit of *f(x)* as *x* approaches *n* from the left (negative) side is *m*:
-$$\lim_{x \to n^-}{f(x)} = m$$
 
-
+$$
+\lim_{x \to n^-}{f(x)} = m
+$$
 
 The limit of *f(x)* as *x* approaches *j* from the right (positive) side is *k*:
-$$\lim_{x \to j^+}{f(x)} = k$$
 
+$$
+\lim_{x \to j^+}{f(x)} = k
+$$
 
 The right and left limits may **not** be the same!
 If the right and left side limits are the same, the limit exists

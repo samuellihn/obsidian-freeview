@@ -1,4 +1,6 @@
-$$V = IR$$
+$$
+V = IR
+$$
 
 Where,
 > $V$ is the voltage **across** the resistor
