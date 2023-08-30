@@ -65,12 +65,14 @@ P_{C\leftarrow B} =
 & \cdots & 
 [b_n]_C 
 \end{matrix}
-\right]$$
-
+\right]
+$$
 
 If we want to go the other direction, from $C$ to $B$:
 
-$$P_{B \leftarrow C} = (P_{C\leftarrow B})^{-1}$$
+$$
+P_{B \leftarrow C} = (P_{C\leftarrow B})^{-1}
+$$
 
 To find a change-of-coordinates matrix given four basis vectors:
 
@@ -86,9 +88,7 @@ c_1 & c_2 & b_1 & b_2
 
 $$
 
-
 Then row reduce, until:
-
 
 $$
 
@@ -99,4 +99,3 @@ I & P_{C\leftarrow B}
 \right]
 
 $$
-

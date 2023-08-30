@@ -14,6 +14,8 @@ $$
 
 And since $$
 And since  C = \frac{Q}{V} \rightarrow V = \frac{Q}{C}
+And since 
+And since 
 And since $$
 
 $$

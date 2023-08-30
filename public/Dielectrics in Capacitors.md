@@ -9,6 +9,8 @@ The factor a certain dielectric increases the [[Capacitance]] of a capacitor is 
 
  $$
  \kappa = \frac{C}{C_o}
+ 
+ 
  $$
 
 Capacitance with dielectric over capacitance without dielectric

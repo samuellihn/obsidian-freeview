@@ -70,6 +70,8 @@ Very similar to [[Electrical Potential as Path Integral]] - voltage is equal to 
 
 However, if we use $$
 However, if we use V_{ab} = \int_a^b{\vec{E} \cdot \vec{dl}}
+However, if we use 
+However, if we use 
 However, if we use $$
 
 around a circle, we will get zero

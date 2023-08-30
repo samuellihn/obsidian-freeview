@@ -51,12 +51,14 @@ Then constrain $t$ to a value which corresponds with the first point $P$  when p
 
 If $\vec{r}$ denotes the vector form of the line, and $a$ and $b$ are upper and lower bounds:
 
-$$\vec{r}(a) = P
+$$
+\vec{r}(a) = P
 $$\$$
 $$
 
 \vec{r}(b) = Q$$
 Then,
 
-$$\bar{PQ}= \vec{r}(t) \ when  \  \{ a < t < b\}
+$$
+\bar{PQ}= \vec{r}(t) \ when  \  \{ a < t < b\}
 $$ 

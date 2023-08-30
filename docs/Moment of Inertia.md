@@ -8,13 +8,14 @@ For a point mass,
 
 $$
 I = MR^2
-$$,Which is constant for a specific shape
-
 $$
 
+,Which is constant for a specific shape
+
+$$
 \tau = I\alpha
-
 $$
+
 Therefore, the total moment of inertia is the sum of all components in the rotating object
 
 The greater the moment of inertia, the lesser the angular acceleration

@@ -1,5 +1,7 @@
  $$
  V_{ab} = \int_a^b{\vec{E} \cdot \vec{dr}}
+ 
+ 
  $$
 
 > $\vec{E}$ is different at every single $dr$, as we move closer to/farther from charges

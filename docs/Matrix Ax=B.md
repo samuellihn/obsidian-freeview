@@ -1,6 +1,4 @@
-A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form $$
-A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form A\vec{x} = b
-A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form $$
+A [[Linear Combinations of Vectors]] of $b$ can be expressed as a matrix times a vector in the form $A\vec{x} = b$
 With the columns of $A$ being the vectors being combined, and the entries in $x$ as weights:
 
 ![[Pasted image 20220915205340.png]]

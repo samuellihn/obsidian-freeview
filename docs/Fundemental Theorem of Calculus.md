@@ -10,7 +10,10 @@ If $
 $f(x) = \int_{a}^{x}{g(t)\ dt}$$ then f'(x) = g(x)
 
 If $
-$f(x) = \int_{a}^{x}{g(t)\ dt}$$ then $$
+
+$f(x) = \int_{a}^{x}{g(t)\ dt}$$
+$f(x) = \int_{a}^{x}{g(t)\ dt} then 
+$f(x) = \int_{a}^{x}{g(t)\ dt}$$
 
 In summary,
 

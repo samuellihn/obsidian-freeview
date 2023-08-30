@@ -9,14 +9,21 @@ $$
 
 **Any row interchange** negates the determinant
 
-$$-\det A  = \left|\begin{matrix}
+$$
+-\det A  = \left|\begin{matrix}
 c & d \\ a & b
 \end{matrix}\right|
 $$-$$
+$$-
+
+$$
+
+-
 
 > Doesn't matter which rows are being interchanged
 
 Scalar multiplication multiplies a determinant by $k$
+
 $$\det B = k\det A  = \left|\begin{matrix}
 ka & kb \\
 c & d 
@@ -32,4 +39,6 @@ a + kc &  b + kd \\ c & d
 For multiplied matrices:
 
 $$\det{A}\det{B} =\det{(AB)}
+\end{matrix}\right|
+\end{matrix}\right|
 \end{matrix}\right|$$

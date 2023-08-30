@@ -50,6 +50,8 @@ The units for $L$ are **Henries**
 
  $$
  H = \frac{Volt}{\frac{Amps}{seconds}}
+ 
+ 
  $$
 
 An inudctor with an inductance of 3 henries will induce a voltage of 3 volts per each 1 amp per second of current change

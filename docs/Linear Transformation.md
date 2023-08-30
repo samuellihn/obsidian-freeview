@@ -67,6 +67,8 @@ $$
 
  $$
  T(c\vec{u}  + d\vec{v}) = cT(\vec{u}) + dT(\vec{v})
+ 
+ 
  $$
 
 - **Must obey vector addition and scalar multiplication**
