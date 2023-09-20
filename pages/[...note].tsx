@@ -28,6 +28,7 @@ import {getEmbeddedSyntaxTree} from "../lib/embedHandler";
 import {Config, getConfigSync} from "../lib/configManager";
 
 import {Component} from "react";
+import Head from "next/head";
 
 let freeviewConfig: Config
 
@@ -109,6 +110,9 @@ class Note extends Component<{ mdContent: any, pageTitle: any }> {
         let {mdContent, pageTitle} = this.props;
         return (
             <div className={styles["content"]}>
+                <Head>
+                    <title>{pageTitle}</title>
+                </Head>
                 <div className={styles["content-inner"]}>
                     <h1>{pageTitle}</h1>
                     <div dangerouslySetInnerHTML={{__html: mdContent}} className={styles["markdown"]}>
