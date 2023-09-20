@@ -1,6 +1,6 @@
 Elementary matrices are the identity matrix with **a single elementary row operation** 
 
->Columns are always [[Linear Dependence|Linearly Independent]]
+> Columns are always [[Linear Dependence|Linearly Independent]]
 
 Multiplying any elementary matrix (that has had an elementary row operation done to it) by an equivalently sized matrix $A$ is equivalent to doing that elementary row operation directly on $A$
 
@@ -41,5 +41,3 @@ A^{-1} = I(E_p ... E_3E_2E_1) = E_p ... E_3E_2E_1
 $$
 
 > This is very similar to the method used to find inverse matrices in [[Inverses of Matrices#General form to find $A {-1}$]] - relating $A$ and $I$ with elementary row operations, and playing them back in reverse
-
-

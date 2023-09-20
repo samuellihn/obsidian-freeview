@@ -72,4 +72,3 @@ P = \frac{B^2L^2v}{R} v
 $$
 
 And we get our original equation for power
-

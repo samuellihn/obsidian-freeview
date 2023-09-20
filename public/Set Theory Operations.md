@@ -4,7 +4,7 @@
  
  Intersection: $A \cap B$ - the set of all elements that are in both set $A$ and set $B$. 
  
- >For example, if $A = {1, 2, 3}$ and $B = {3, 4, 5}$, then $A \cap B = {3}$.
+ > For example, if $A = {1, 2, 3}$ and $B = {3, 4, 5}$, then $A \cap B = {3}$.
 
  Complement: $A^c$ or $\bar{A}$ - the set of all elements that are not in set $A$. 
  

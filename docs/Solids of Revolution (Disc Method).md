@@ -17,8 +17,6 @@ Where the integral of $R(x)$ describes the bounded area of revolution, assuming 
 If there's a gap between the axis of revolution and the inner edge, use the [[Washer Method]]
 
 
-Just like with [[Volumes with Cross Sections]], if the axis of revolution is the x-axis (or any other horizonatal line), integrate with respect to x, if it's the y-axis (or any vertical line), integrate wtih respect to y
+Just like with [[Volumes with Cross Sections]], if the axis of revolution is the x-axis (or any other horizonatal line), integrate with respect to x, if it's the y-axis (or any vertical line), integrate with respect to y
 
 When integrating about arbitrary horizontal/vertical lines, use the [[Area Between Curves]] method (top minus bottom or right minus left)
-
-

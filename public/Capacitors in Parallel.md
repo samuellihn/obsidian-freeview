@@ -21,6 +21,3 @@ $$
 Reverse of [[Resistors in Parallel]] and inverse of [[Capacitors In Series]]
 
 > As if all the parallel capcitors were [[Parallel Plate Capacitors]] and pushed together to form two large plates
-
-
-

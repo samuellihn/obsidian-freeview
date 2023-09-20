@@ -47,4 +47,3 @@ graph TD
 ```
 
 $\equiv$ is an equivalence test
-

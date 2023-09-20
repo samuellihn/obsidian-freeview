@@ -7,4 +7,3 @@ When an object is thrown:
 1.  Starts with an initial velocity upward
 2. Velocity is 0 at the top of the parabola
 3. Starts accelerating downward
-

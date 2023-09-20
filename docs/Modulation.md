@@ -21,5 +21,3 @@ The **carrier signal** is the high-frequency signal
 > The carrier signal usually does not change and is simply an oscillator
 
 Modulars are also known as **up converters**
-
-

@@ -1,4 +1,5 @@
 # New Direction for American Economy
+
 19.2.1
 
 Based economic policy on supply-side economics (**Reaganomics**) under the belief that if taxes are reduced, wealthy will invest more and create jobs, giving people money to spend so the economy grew, so the gov't would collect more taxes
@@ -28,6 +29,7 @@ Many Air Traffic Controllers went on strike in 1981, Reagan fired all of them fo
 Reagan thought volunteerism/private initiative would help citizens, some did. Clearinghouse on Corporate Social Responsibility improved American quality of life, example of private sector volunteerism worked.
 
 # Conservatives Continue
+
 19.2.2
 
 Economic recovery improved national mood, Reagan was now popular. Reagan's upbeat spirit helped, even jovial in midst of an assassination attempt. Won reelection in 1984, but the House was still controlled by Democrats
@@ -43,6 +45,7 @@ Wanted a "kinder, gentler nation", encouraged Americans to volunteer to curb fed
 Passed Americans with Disabilities Act, another step in protecting rights of all Americans
 
 # Culture in 1980s
+
 19.2.3
 
 Many cultural and economic divides in 1980s society, in race, ethnicity, gender. Many poor which led to violence.
@@ -64,5 +67,3 @@ Public schools were also in decline, conservatives wanted vouchers for private s
 AIDS came to attention in 1981, first spread among homosexual men and drug users, later spread to other groups. Killed 250k+ Americans by 1994. Reagan criticized for lack of response for AIDS crisis, he did increase funding but funding was not substantial until Bush. 
 
 Reagan's assassination attempt increase anti-gun sentiment, opposed by National Rifle Association, despite strong opposition plastic handguns and armor-piercing bullets were eventually banned by Congress
-
-

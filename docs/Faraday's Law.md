@@ -72,6 +72,7 @@ However, if we use $$
 However, if we use V_{ab} = \int_a^b{\vec{E} \cdot \vec{dl}}
 However, if we use 
 However, if we use 
+However, if we use 
 However, if we use $$
 
 around a circle, we will get zero
@@ -85,4 +86,3 @@ $$
 $$
 
 > Solve the field similarly to other dot product problems like [[Gauss's Law]] or [[Magnetic Flux]] - field is parallel to $\vec{dl}$ so we can get rid of the dot product, $\vec{E}$ wil probably be uniform because of radial symmetry, so we can end up with $E* l$
-

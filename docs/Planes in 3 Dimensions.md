@@ -21,4 +21,3 @@ Ax + By + Cz = -1
 $$
 
 To find the equation of the plane given 3 points, we need values of $A, B, C$ where the equation holds true at all three points ($Ax + By + Cz = -1$)
-

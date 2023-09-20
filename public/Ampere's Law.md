@@ -26,4 +26,3 @@ The **Amperian membrane** is the "area" enclosed inside the Amperian loop, so we
 
 The $dl$ and $B$ can cancel the dot product if the field and the lengths are parallel 
 > Pick $dl$ to be in the same direction (since the length has no direction, either "forward" or "backward", we can make one up)
-

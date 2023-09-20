@@ -5,6 +5,7 @@ Friction does not always act in the opposite direction of motion
 > Sometimes, static friction can make objects move (if the objects they are resting on are moving)
 
 ## Static Friction
+
 Seeks to maintain the original relative motion of the two objects
 Makes things stay still
 Rolling or non-moving friction
@@ -23,6 +24,7 @@ $$
 	-   Only on material and mass (normal force)
 
 ## Kinetic Friction
+
 Lower than static friction (the object has already started moving)
 **Sliding friction between two objects**
 

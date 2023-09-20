@@ -10,6 +10,3 @@ The most primitive form of error checking involves a parity bit, a single bit ap
 https://networkencyclopedia.com/cyclic-redundancy-check-crc/
 https://www.cs.jhu.edu/~scheideler/courses/600.344_S02/CRC.html
 "Hacker's Delight"
-
-
-

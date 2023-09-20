@@ -17,4 +17,3 @@ $$
 $$
 
 Pendulum bobs experience **centripetal force** when the pendulum bob is moving. This force is from the string, only applies when the pendulum bob is moving in a circle. 
-

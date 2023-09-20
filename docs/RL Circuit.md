@@ -24,6 +24,7 @@ This simplifies to $$
 This simplifies to \frac{-R}{L}t = \ln{\Bigg| \frac{E - iR}{E} \Bigg|}
 This simplifies to 
 This simplifies to 
+This simplifies to 
 This simplifies to $$
 
 Moving things around to isolate $i$:

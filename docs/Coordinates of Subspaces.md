@@ -37,4 +37,3 @@ $$
 The coordinate vector has $p$ dimensions, where $p$ is the dimensionality of subspace $H$, even if $H$ lies in a larger dimension
 
 > For example, if $H$ is a plane, then $[x]_\beta$ is a 2-dimensional vector even though $H$ may be in $R^3$
-

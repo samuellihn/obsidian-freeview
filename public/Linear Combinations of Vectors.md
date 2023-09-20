@@ -82,4 +82,3 @@ With three **non-coplanar** (or non-colinear) vectors in 3D, the vectors span $R
 
 > Colinear vectors are just scalar multiples of each other
 > And coplanar vectors are just linear combinations of each other
-

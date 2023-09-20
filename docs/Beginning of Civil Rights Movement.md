@@ -39,4 +39,3 @@
 - Martin Luther King Jr. Baptist Minster - called for nonvoilent protest, continued boycott for more than a year despite employer pressure and violence from KKK. Supreme Court ruled that segregated buses were unconstitutional
 - Showed that African Americans could band and make change, brought MLK to high regard, promoted nonviolence
 - MLK and Ralph Abernathy founded Southern Christian Leadership Conference to advocate nonviolent protest, Prayer Pilgrimage in Washington in 1957 help convince Congress to pass civil rights laws
-

@@ -1,7 +1,7 @@
 A set of vectors $\{\vec{v_1}, \vec{v_2},... \vec{v_n}\}$ is linearly independent if a matrix of a [[Homogenous System]] with those vectors as columns has only the trivial solution
 
 > Linear independence if 
->
+> 
 > $$
 
 x_1 \vec{a_1} + 

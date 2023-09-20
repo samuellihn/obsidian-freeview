@@ -23,4 +23,3 @@ $$
 $$
 
 > So long as $\lim_{x \to c}{g(x)}$ is not equal to zero
-

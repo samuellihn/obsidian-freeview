@@ -9,7 +9,7 @@ $$
 
 Where $e_1 ... e_n$ are the column of the $n$-dimensional identity matrix
 
-This can be used to come up with general transformation matrices for comon geometric transformations:
+This can be used to come up with general transformation matrices for common geometric transformations:
 
 Example: To rotate a vector about the origin for any angle $\theta$:
 

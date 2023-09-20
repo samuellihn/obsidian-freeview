@@ -12,4 +12,3 @@ Soil Layers are denoted by a diagram of the **soil horizons**
 | R     | Bedrock or weathered parent material |                                                                                         |
 
 **Leaching** involves solid particles (with nutrients) dissolved in liquid that are transported to another location - increased significantly by acid rain
-

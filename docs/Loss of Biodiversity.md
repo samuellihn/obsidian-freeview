@@ -5,7 +5,7 @@ Due to **HIPPPPO**:
 - Invasive Species
 - Pollution
 - Poaching
-- Pest Contorl
+- Pest Control
 - (Human) Population
 - Overexploitation (overconsumption) of resources
 
@@ -14,4 +14,3 @@ Caused in part by **invasive species**, species that outcompete the native popul
 > Eat them, take their food, native species eventually become distinct
 
 We may be in the midst of a sixth mass extinction because of human (**anthropogenic**) causes
-

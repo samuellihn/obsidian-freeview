@@ -68,6 +68,3 @@ NMOS transistor
 If there is a voltage applied to the gate, the gate will be forward biased - then current can flow from the source to the drain. 
 
 The current flow is linearly proportional to the gate bias, up to saturation
-
-
-

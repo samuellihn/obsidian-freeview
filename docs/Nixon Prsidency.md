@@ -1,4 +1,5 @@
 # Nixon Foreign Policy
+
 18.5.1
 
 Pre-Nixon, most American leaders shared a hard Cold War ideology
@@ -25,6 +26,7 @@ Nixon also questioned preexisting Cold War assumptions
 Nixon employed a flexible and practical foreign policy without any inflexible ideological absolutes like Johnson had
 
 # Relations with China
+
 18.5.2
 
 In contrast with Johnson, who focused mostly on domestic affairs like Great Society, Nixon tried to reorient American foreign policy
@@ -62,6 +64,7 @@ American tourists started to visit China the following year, American companies 
 Full diplomatic relations achieved in 1979
 
 # Detente
+
 18.5.3
 
 Nixon's visit to China made the Soviet Union fear that Russia would be isolated in the midst of U. S.-China relations
@@ -93,9 +96,11 @@ However, it showed the efforts that U. S. and Soviet Union were making to reduce
 Relaxed U. S. inflexible stance toward communism, created new relationships to help end Vietnam War and eventually the Cold War
 
 # Nixon Domestic Policy
+
 18.5.4
 
 ## Re-election
+
 Nixon was reelected in 1972, then forced to resign (almost impeached) two years later
 
 Although Nixon's 1972 election was a landslide victory, Nixon did not help the other Republican Congress candidates, leaving him with a powerful and ressentful Democrat Congress
@@ -148,6 +153,7 @@ Also placed 90 day freeze on wages and prices, which made the economy unpredicta
 > Price control doesn't work in a free economy
 
 # Southern Strategy
+
 18.5.5
 
 **Nixon barely won presidency in 1968 and sought to expand his support**

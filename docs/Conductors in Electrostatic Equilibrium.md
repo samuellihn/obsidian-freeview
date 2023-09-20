@@ -18,7 +18,7 @@ $$
 > Think of the Gauss's law equality $\frac{\sigma_local * A}{epsilon_0} = \oint{E \cdot dA}$ for a Gaussian just above the surface
 
 
-$\vec{E}$ direciton just outside of the surface will be [[Surface Normal|Normal]] to the surface
+$\vec{E}$ direction just outside of the surface will be [[Surface Normal|Normal]] to the surface
 
 All points on and inside the metal will be at the same [[Electrical Potential]]
 
@@ -30,6 +30,7 @@ All points on and inside the metal will be at the same [[Electrical Potential]]
 
  $$
  E = \frac{\sigma_{local}}{\epsilon_0}
+ 
  
  
  $$

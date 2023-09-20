@@ -21,4 +21,3 @@ Once the capacitor starts filling up, the capacitor will charge slower as electr
 ![[Pasted image 20220330221411.png]]
 
 Current through the resistor is similar to the [[Discharging Capacitors]] graph (high initial current, lessens as capacitor starts to "fill up")
-

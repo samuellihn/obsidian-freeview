@@ -2,6 +2,7 @@
  V_{ab} = \int_a^b{\vec{E} \cdot \vec{dr}}
  
  
+ 
  $$
 
 > $\vec{E}$ is different at every single $dr$, as we move closer to/farther from charges
@@ -13,5 +14,4 @@ Again, if electric field and path are parallel, take out the dot product
  
 > Usually simplified with either uniform field so we can pull $E$ out of the integral
 
-Sometimes it may be necesary to split the integral into parts where $E$ can be removed from the integral
-
+Sometimes it may be necessary to split the integral into parts where $E$ can be removed from the integral

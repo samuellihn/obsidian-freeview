@@ -1,6 +1,7 @@
 The center of mass of any [[Systems|system]] will obey Newton's laws
 
 ## First Law of Motion
+
 > Also called the **Law of Inertia**
 
 An object in motion continues to be in motion.  An object which is inert (not in motion) will continue to be inert unless acted upon by an external force
@@ -32,6 +33,7 @@ An object does not change its acceleration until a [[Weight]] acts on it
 > Don't forget to convert mass into $kg$ if given something else!
 
 ## Third Law of Motion
+
 When one object exerts a force on a second object, the second object exerts an equal force in the opposite direction of the object - In other words, **every action has an equal and opposite reaction**
 
 > The forces are acting on **different objects**. They should **not** be added as if they were acting on the same body

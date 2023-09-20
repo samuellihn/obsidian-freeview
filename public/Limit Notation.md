@@ -5,7 +5,7 @@ The function may never reach it (undefined)
 However, it appears as if the function is reaching that point for the particular x value
 
 > The limit of *f(x)* as *x* approaches *n* is *m*
->
+> 
 > $$
 > \lim_{x \to n}{f(x)} = m
 > $$
@@ -52,10 +52,3 @@ Why would a limit not exist?
 - **Sometimes, the resolution of a graphing calculator will not make this clear**
 
 ![](Unit-1-1.2-1.3-Limits-and-Limit-Notation-image7.png)
-
-
-
-
-
-
-

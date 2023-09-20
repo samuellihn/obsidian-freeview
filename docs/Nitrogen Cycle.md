@@ -8,7 +8,6 @@ $$
 
 $N_2$ needs to be fixed by plants, because nitrogen is not very reactive - triple covalent bond!
 
-
 ```mermaid
 graph TD
 	A[Atmospheric Nitrogen N2]--Nitrogen fixation: bacteria & lightning-->B[Ammonia in soil NH3, HNO3 for lightning]--Nitrification: nitrifying bacteria-->D[Nitrate NO3]--Assimilation-->E[Plants]--Denitrification: bacteria-->A

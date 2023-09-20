@@ -33,11 +33,11 @@ $$
 > This expands to the form we see above!
 
 > Interestingly, the [[Partial Derivatives]] we've taken along the $x$ and $y$ axes can be thought of as directional derivatives along the standard basis vectors ($i, j$)
->
+> 
 > $$
 > \langle f_x, f_y \rangle \cdot \langle 1, 0 \rangle \rightarrow f_x
 > $$
->
+> 
 > $$
 > \langle f_x, f_y \rangle \cdot \langle 0, 1 \rangle \rightarrow f_y
 > $$
@@ -70,4 +70,3 @@ $$$$
 
 $$
 So when $\nabla f$ and $\vec{u}$ align with each other, the maximum rate of change of $f(x, y)$ at that point is given by $|\nabla f(x, y)|$
-

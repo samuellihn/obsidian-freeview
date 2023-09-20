@@ -13,4 +13,3 @@ $$
 > Looks similar to the point-slope form used for tangent lines for functions in $R^2$, but with more terms
 
 Sometimes, $f_x$ and $f_y$ need to be estimated from tabular data, see [[Estimating Derivaties]]
-

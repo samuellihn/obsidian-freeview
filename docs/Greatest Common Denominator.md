@@ -17,5 +17,3 @@ mx + ny = gcd(m, n)
 $$
 
 You can speed up the process of finding these numbers by using information generated during the [[Euclidian Algorithm]], if you've found the GCD anyways
-
-

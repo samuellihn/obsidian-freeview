@@ -44,4 +44,3 @@ $$
 $F_{net} = m \frac{dv}{dt}$ models an object's **resistance to change in velocity** (through its mechanical inertia), or its **mechanical sluggishness**
 
 Similarly, $L$ is the electrical "inertia", or its **resistance to change in current** (electrical sluggishness)
-

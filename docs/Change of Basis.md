@@ -79,23 +79,19 @@ To find a change-of-coordinates matrix given four basis vectors:
 Augment, like you're finding an [[Inverses of Matrices|inverted matrix]]
 
 $$
-
 \left[
 \begin{array}{cc|cc}
 c_1 & c_2 & b_1 & b_2
 \end{array}
 \right]
-
 $$
 
 Then row reduce, until:
 
 $$
-
 \left[
 \begin{array}{c|c}
 I & P_{C\leftarrow B}
 \end{array}
 \right]
-
 $$

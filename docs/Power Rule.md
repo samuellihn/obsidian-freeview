@@ -7,6 +7,3 @@ $$
 Applies for all exponents: positive, negative, fractional, ...
 
 > Roots are fractional exponents, so the power rule applies here too
-
-
-

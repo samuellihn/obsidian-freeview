@@ -7,7 +7,7 @@ Completely undefined x-values on $f(x)$ are not considered critical values
 > Critical **points** need both $x$ and $y$ values: x values only will not be classified as critical points!
 > x-values alone are called **critical values**
 
-Sometimes, it is helpful to plot the critical points (zeroes/undefines of the derivative) on a number line (open for underfined, closed for zero)
+Sometimes, it is helpful to plot the critical points (zeroes/undefines of the derivative) on a number line (open for undefined, closed for zero)
 
 > Remember, $\frac{0}{0}$ is undefined, not zero
 

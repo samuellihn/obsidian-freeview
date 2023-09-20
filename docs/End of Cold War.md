@@ -1,4 +1,5 @@
 # Peace through Strength
+
 19.3.1
 
 Reagan thought detente was not useful and the U. S. should start whittling away at Soviet control of Eastern Europe. Believed that peace should come through military strength
@@ -15,7 +16,7 @@ Believed he could outspend Soveit Union and win
 
 Backed anticommunist counter-revolutionaries (**Contras**) in Nicaragua, supported right-wing gov't in El Salvador that was battling leftist rebels
 
-> Recieved criticism from human rights activists, so Congress made funding for El Salvador gov't dependent on nation's human rights progress
+> Received criticism from human rights activists, so Congress made funding for El Salvador gov't dependent on nation's human rights progress
 
 U. S. troops invaded Grenada in 1983 to prevent communist movement, despite questionable legal grounds. Most Americans approved.
 
@@ -26,20 +27,22 @@ Reagan responded by taking more moderate stance toward Soviet Union. Met four ti
 Soviet Union and U. S. sighed nuclear arms pact, begun negotiations on START 1 to reduce nuclear weapons
 
 # End of Cold War
+
 19.3.2
 
 Cold War came to end in 1991 as Soviet Union fell. Berlin wall tore down, Poland, Czechoslovakia and Hungary held democratic elections. Many communist governments fell in Eastern europe. 
 
 Germany was united as a single nation as Berlin wall was opened. 
 
-Communist rule was not maintained in Soviet Union, most Russians supported Gorbachev, then the communist party lost power and seperated into 15 republics. Many say that Gorbachev's openness allowed rebellion to rise out of control, communist rule could only be contained by rigid control, not openness
+Communist rule was not maintained in Soviet Union, most Russians supported Gorbachev, then the communist party lost power and separated into 15 republics. Many say that Gorbachev's openness allowed rebellion to rise out of control, communist rule could only be contained by rigid control, not openness
 
 Reagan did contribute to ending the cold war, American arms buildup made Soviet economy seem weaker and fall faster, prompting Gorbachev to promote reform which eventually led to the fall of the Soviet Union
 
 # Involvement in Middle East
+
 19.3.3
 
-U. S. clashed wtih Libya in 1980s, used to be good trading partners but relations fell apart as the leader (Qaddafi) supported terrorist groups, U. S. placed sanctions on Libya.
+U. S. clashed with Libya in 1980s, used to be good trading partners but relations fell apart as the leader (Qaddafi) supported terrorist groups, U. S. placed sanctions on Libya.
 
 April 1986, U. S. warplanes bombed Libya after a terrorist attack on a Berlin nightclub. Air raid killed Qaddafi's family member, his criticism of U. S. decreased. Tensions remained.
 

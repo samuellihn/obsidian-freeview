@@ -42,4 +42,3 @@ U_L = \frac{1}{2}Li^2
 $$ 
 
 If we have a 4-henry inductor with 2 amps flowing through it at a given time, the inductor has 4 joules stored in it
-

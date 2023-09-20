@@ -23,7 +23,7 @@ $$
 
 The integral is the anti-derivative (or accumulation of change), the function we are accumulating $g'(t)$ is the **rate of change** of our integral, $f'(x)$
 
-**The fundemental theorem of calculus states that the integral and derivative are inverses**
+**The fundamental theorem of calculus states that the integral and derivative are inverses**
 
 If our upper bound is also a function, we need to apply the **chain rule:**
 

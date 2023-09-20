@@ -22,7 +22,6 @@ Important concept: **Environmental Unity** - everything in the environment is co
 
 > Local changes can have global impacts
 
-Most sytems in the environment tend towards equilibrium - many environemtnal problems are caused by human activity which disturbs the balance
+Most systems in the environment tend towards equilibrium - many environemtnal problems are caused by human activity which disturbs the balance
 
 The importance of the environment is usually overlooked until catastrophe (natural disasters, etc.) occurs
-

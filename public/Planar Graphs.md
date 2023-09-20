@@ -11,15 +11,15 @@ This can be shown by providing a valid drawing of the graph
 **Crossing Number:** Minimum number of crossings in a graph $G$, denoted $cr(G)$
 
 > Examples:
->
+> 
 > $$
 > cr(K_4) = 0
 > $$
->
+> 
 > $$
 > cr(K_5) = 1
 > $$
->
+> 
 > $$
 > cr(K_6) = 3
 > $$
@@ -27,15 +27,15 @@ This can be shown by providing a valid drawing of the graph
 > $$
 > cr(K_{2, 2}) = 0
 > $$
->
+> 
 > $$
 > cr(K_{2, 3}) = 1
 > $$
->
+> 
 > $$
 > cr(K_{2, 4}) = 0
 > $$
->
+> 
 > $$
 > cr(K_{2, n}) = 0
 > $$

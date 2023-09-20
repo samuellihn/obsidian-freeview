@@ -7,4 +7,3 @@ KE = \frac{1}{2}mv^2
 $$
 
 At a given time $t$, the velocity at $t$ is used to calculate the object's kinetic energy at $t$.
-

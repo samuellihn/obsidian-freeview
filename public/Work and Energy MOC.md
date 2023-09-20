@@ -6,4 +6,3 @@
 	- [[Linear Kinetic Energy]]
 - [[Energy of Gravitational Fields]]
 - [[Power]]
-

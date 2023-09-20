@@ -30,4 +30,3 @@ Navigation skills
 - Beacon
 	- Similar to how GPS works
 - Compass
-

@@ -1,4 +1,4 @@
-A homogenous system is guaranteed to at least have one solution
+A homogeneous system is guaranteed to at least have one solution
 
 Usually created with $\left[\begin{array}{c}0\\0\\0\end{array}\right]$ as $b$ in [[Matrix Ax=b]]
 
@@ -65,7 +65,7 @@ $$
 
 Simply expressing the system as combinations of the free variables
 
-Therefore, any linear system that is **not** a homogenous system is a has a solution set which is a **translated** form of a homogenous system
+Therefore, any linear system that is **not** a homogeneous system is a has a solution set which is a **translated** form of a homogeneous system
 
 ![[Pasted image 20221016222432.png]]
 

@@ -6,4 +6,3 @@ The political left cares more about:
 The political right cares more about:
 - Authority
 - Sanctity
-

@@ -15,4 +15,3 @@ We're replacing the variables of integration and the function just like variable
 Then, apply the [[Integration Rules]] with respect to $u$
 
 And replace the $u$ and $du$ in the final answer
-

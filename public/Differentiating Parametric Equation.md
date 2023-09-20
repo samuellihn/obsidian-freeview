@@ -21,5 +21,4 @@ If $\frac{dy}{dt} = 0$ or $\frac{dy}{dx} = 0$, the tangent line will be horizont
 
 > If a problem asks for **points**, make sure to plug the values of $t$ back into $x(t)$ and $y(t)$
 
-If **both** $\frac{dx}{dt}$ and $\frac{dy}{dt}$ are **simulataneously** zero at a given $t$, then there will be **neither** a horizontal or vertical tangent line
-
+If **both** $\frac{dx}{dt}$ and $\frac{dy}{dt}$ are **simultaneously** zero at a given $t$, then there will be **neither** a horizontal or vertical tangent line

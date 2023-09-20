@@ -1,1 +1,1 @@
-For a given [[Parametric Equation]] for $a < t < b$, if both $x(t)$ and $y(t)$ are continuous on the closed interval $[a, b]$ and differentiable on the open interval $(a, b)$, then $C$ is called a **smooth curve** on the inverval $[a, b]$
+For a given [[Parametric Equation]] for $a < t < b$, if both $x(t)$ and $y(t)$ are continuous on the closed interval $[a, b]$ and differentiable on the open interval $(a, b)$, then $C$ is called a **smooth curve** on the interval $[a, b]$

@@ -7,7 +7,7 @@ Integer division - effectively **truncates** (removes decimal portion) of the re
 ![[Pasted image 20230826180351.png]]
 Putting `const` in the declaration of a variable will denote that the variable can and should not be modified
 
-> Compiler will catch any accidential modifications
+> Compiler will catch any accidental modifications
 
 > There are other uses of `const` in C/C++
 
@@ -27,7 +27,6 @@ int b = a++
 b == 1 // True
 ```
 
-
 ```c
 // Post-increment
 int a = 1
@@ -37,4 +36,3 @@ b == 2 // True
 ```
 
 The same thing applies with the unary decrement (`--`) operator
-

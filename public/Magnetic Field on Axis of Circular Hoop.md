@@ -34,4 +34,3 @@ B =\frac{\mu_0 I R^2}{2 r^3}
 $$
 
 Don't forget that $r = R^2 + x^2$ ([[Pythagorean Theorem]])
-

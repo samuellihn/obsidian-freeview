@@ -1,6 +1,6 @@
 **The study of social interaction...of its social foundations, its social effects, and its social structure, dynamics, and change over time.**
 
->Structure and dynamics - present 
+> Structure and dynamics - present 
 > Change over time - past, present, future
 
 Or, the study of **the social**: 
@@ -32,5 +32,3 @@ However, the line of "social" is a bit hazy
 It is important to videw disciplines not as studying x/y/z, but as a way of asking questions about the world. Therefore,
 
 **Sociology is considered  the application of the [[Sociological Imagination]]**
-
-

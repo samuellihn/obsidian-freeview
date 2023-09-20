@@ -1,7 +1,7 @@
 
 #APCalcBC #AnalyticalDifferentiation
 
-For systems with more than one independent variable, one variable needs to be solved in terms of the other. This is usually done wtih the given constraint
+For systems with more than one independent variable, one variable needs to be solved in terms of the other. This is usually done with the given constraint
 
 Then, [[Absolute Extrema]] can be found to find the ideal optimizationfor the modeled equation
 
@@ -14,4 +14,3 @@ Make sure to test both critical points **and end points** when the question has 
 Be sure to interpret the answer in context!
 
 Superlative keywords can signify that the problem is an optimization problem
-

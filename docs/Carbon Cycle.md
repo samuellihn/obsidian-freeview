@@ -16,6 +16,7 @@ graph TD
 	B-->C[Cellular Respiration]
 	C--CO2-->A
 ```
+
 Main components: [[Photosynthesis]] and [[Cellular Respiration]]
 
 Carbon enters biotic system through photosynthesis (absorbs carbon dioxide from atmosphere)

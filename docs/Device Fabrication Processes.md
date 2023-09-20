@@ -40,4 +40,4 @@ PDMS can be used for valves, peristaltic pump - manipulate fluids on a chip with
 Can create integrated fluidic chips, just liike integrated circuit chips - fluidic RAM
  ![[Pasted image 20220701115217.png]]
 
-Fluidigm - single cell qPCR, RNA - isolates single cells inot chambers with pneumatic pumps and valves
+Fluidigm - single cell qPCR, RNA - isolates single cells into chambers with pneumatic pumps and valves

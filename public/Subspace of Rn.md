@@ -24,6 +24,3 @@ In $R^3$, subspaces can be:
 - Plane that passes through origin (span of two vectors)
 - Entire $R^3$
 > A subset does not necessarily need to be smaller than what it lies in - a subset of $R^3$ can be $R^3$
-
-
-

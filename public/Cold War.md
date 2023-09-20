@@ -7,4 +7,3 @@ America had beocme a world superpower after [[World War II]]
 The Russians refuse to let go of their hold on Eastern Europe
 
 **Do we want to fight the Russians now or later?**
-

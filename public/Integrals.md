@@ -11,7 +11,7 @@ $$
 
 An integral expressed as an infinite reimman sumdoes not depend on which type of Reimann sum: If there are infinitely many rectangles, all the area is covered
 
-By definintion, a definite integral is defined as:
+By definition, a definite integral is defined as:
 
 $$
 \int_{a}^{b} * f(x) \ dx =
@@ -28,4 +28,3 @@ $$
 $$
 
 Neither are more or less accurate: When defined either way, they are **exact values**
-

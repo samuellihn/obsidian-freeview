@@ -4,5 +4,3 @@
 - Pollution
 - Climate Change
 - [[Human Overpopulation]]
-
-

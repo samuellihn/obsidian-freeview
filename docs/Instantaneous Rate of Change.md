@@ -22,10 +22,3 @@ $$
 $$
 
 > The instantaneous rate of change can only be approximated by finding the average rate of change over increasingly smaller intervals
-
-
-
-
-
-
-

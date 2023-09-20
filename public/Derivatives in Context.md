@@ -14,6 +14,7 @@ $$
 **Units will always be in $\frac{dependent\ variable}{independent\ variable}$**
 
 ### Common Misconceptions
+
 Derivatives are **rates**, not **totals, amounts or averages**
 Derivatives are **instantaneous**, not based on **intervals of time**
 > at, **not during**
@@ -21,9 +22,6 @@ Derivatives are **instantaneous**, not based on **intervals of time**
 Derivatives are contextual with units, not the units of the original function
 > Units of derivatives will almost always be fractions
 
-
 ### Derivative in context template
 
 The $f(t) \ in \ context$ is $increasing/decreasing$ at a **rate** of $f(t) \ with \ units$ at time $t= ?$
-
-

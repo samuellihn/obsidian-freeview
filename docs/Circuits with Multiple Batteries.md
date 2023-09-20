@@ -9,4 +9,3 @@ Use [[Ohm's Law]] so you can solve for resistance, voltage, etc
 Remember that batteries can either drop or increase voltage depending on their polarity
 
 For voltage, choose the path that has the least components as it will make it much easier to solve the problem
-

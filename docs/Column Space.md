@@ -21,4 +21,3 @@ Span\{ \vec{a_1}, \vec{a_2}, \vec{a_3}
 To find if a certain vector $\vec{b}$ is in a column space, create the [[Matrix Ax=b]] $\left[\begin{array}{c|c} A & \vec{b}\end{array} \right]$ and solve to see if it is consistent
 
 Therefore, $Col \ A$ is defined is the set of all $\vec{b}$ for which $A\vec{x} = \vec{b}$
-

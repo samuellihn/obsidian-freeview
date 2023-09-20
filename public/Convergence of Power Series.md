@@ -25,4 +25,3 @@ Then, apply the ratio test to "simplify" the series. It will then be simpler to 
 Once we find the interval of convergence, we need to take the **interval of convergence** (a compound inequality) and test the endpoints as well (by plugging the endpoints into $x$ of the original series)
 
 > Check if the endpoints are inclusive or exclusive
-

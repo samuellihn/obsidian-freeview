@@ -1,4 +1,4 @@
-When a matrix that represents a [[Rotation as Linear Transformation]] is inthe form:
+When a matrix that represents a [[Rotation as Linear Transformation]] is in the form:
 
 $$
 C = 
@@ -54,4 +54,3 @@ $$
 So if $A$ is the composition of a rotation and a scaling, then $A = PCP^{-1}$ and $C$ is the rotation "inside" $A$
 
 This can generalize to higher dimensions - if $A$ is a $3 \times 3$ matrix with complex eigenvalues, then there is a plane on $\Re^3$ where $A$ acts as a rotation
-

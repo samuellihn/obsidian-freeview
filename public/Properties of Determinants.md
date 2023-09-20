@@ -15,7 +15,6 @@ c & d \\ a & b
 \end{matrix}\right|
 $$-$$
 $$-
-
 $$
 
 -
@@ -24,10 +23,13 @@ $$
 
 Scalar multiplication multiplies a determinant by $k$
 
-$$\det B = k\det A  = \left|\begin{matrix}
+$$
+\det B = k\det A  = \left|\begin{matrix}
 ka & kb \\
 c & d 
-\end{matrix}\right|$$
+\end{matrix}\right|
+$$
+
 > Be careful here - the determinant of the **row** matrix is multiplied by $k$
 > Thought exercise - think of what happens when you do [[Cofactor Expansion]] across that newly multiplied row (for larger matrices) - all the terms in that equation are now multiplied by $k$
 
@@ -39,6 +41,7 @@ a + kc &  b + kd \\ c & d
 For multiplied matrices:
 
 $$\det{A}\det{B} =\det{(AB)}
+\end{matrix}\right|
 \end{matrix}\right|
 \end{matrix}\right|
 \end{matrix}\right|$$

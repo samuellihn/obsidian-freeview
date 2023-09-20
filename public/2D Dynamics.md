@@ -14,6 +14,7 @@ $$
 $$
 
 ## Friction
+
 Normal force changes, so friction changes as well
 
 Make sure to calculate normal force correctly in a 2D context 

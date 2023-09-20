@@ -1,8 +1,8 @@
 
 #APPhysicsEM #Electrostatics 
 
-
 # Charging
+
 An object gains charge if there are more positive (protons) or negative (electrrons) elements in its chemical composition
 
 However, **charge is conserved**. Electrons taken out of one object will transfer onto other electrons
@@ -10,9 +10,9 @@ However, **charge is conserved**. Electrons taken out of one object will transfe
 Electrons can be transferred:
 
 - Frictionally, by rubbing
-- Contact, when a positively charged object touches another and takes electrons wtih it
+- Contact, when a positively charged object touches another and takes electrons with it
 
-Sometimes, negatively charged objects can be attracted to neutral objects. Molecules reorient themselves, and the closer postiive particles will exbibit more attractive force than the farther negative particles
+Sometimes, negatively charged objects can be attracted to neutral objects. Molecules reorient themselves, and the closer positive particles will exbibit more attractive force than the farther negative particles
 
 ![[Pasted image 20220130184852.png]]
 
@@ -30,7 +30,7 @@ Electrons are forced away by a negatively charged object
 
 A **ground** is attached, so those electrons will flow into the ground due to repulsive force
 
-After both the ground and the negatively charged object are taken away, the object is left with a postiive (opposite) net charge because it lose all its electrons
+After both the ground and the negatively charged object are taken away, the object is left with a positive (opposite) net charge because it lose all its electrons
 
 **Only happens with conductors**, the electrons must be able to move freely!
 Initial negatively charged object **cannot touch anything**
@@ -41,4 +41,3 @@ Can also happen with a positively charged object, instead the electrons will att
 **Conservation of Charge dictates that those electrons will be transferred between the two contacting objects**
 
 If the object is touching, it is not induction. It is contact charging!
-

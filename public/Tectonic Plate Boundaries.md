@@ -35,5 +35,4 @@ Plates are not [[#Divergent (constructive) boundary|constructed]] or [[#Divergen
 
 Causes pressure to build up as edges of tectonic plates lock and catch on each other
 
-Eventually, the pressure overcomes the locked fault, releasing the stored energy and allowing the plates to slide past eachother
-
+Eventually, the pressure overcomes the locked fault, releasing the stored energy and allowing the plates to slide past each other

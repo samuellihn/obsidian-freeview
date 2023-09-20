@@ -19,4 +19,3 @@ Uses the [[Half-Life]] of a radioactive isotope found in the organism to determi
 > Comparison of how much stable vs. how much radioactive chemicals are in the organisms, 
 
 Old fossils have very little radioactive isotopes, as most of it has decayed into stable elements
-

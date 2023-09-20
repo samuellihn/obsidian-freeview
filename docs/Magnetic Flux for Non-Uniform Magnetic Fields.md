@@ -29,6 +29,3 @@ $$
 $$
 
 Integrating and manipulating logarithms, we end up with:
-
-
-

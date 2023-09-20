@@ -21,7 +21,3 @@ f(x) = \ln(x+2)
 ```
 
 > **A function can still be defined at a vertical asymptote!**
-
-
-
-

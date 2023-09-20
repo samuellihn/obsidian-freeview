@@ -22,4 +22,3 @@ Past classes:
 > You can also visit my personal website at [https://samuellihn.me](https://samuellihn.me), where you'll find my contact information and projects I've been working on.
 
 All notes (use `Ctrl + F` to find specific documents):
-

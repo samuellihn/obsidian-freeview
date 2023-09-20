@@ -35,4 +35,3 @@ u = \frac{1}{|a|} \vec{a} = \frac{\vec{a}}{|a|}
 $$
 
 > This works because $|u| = |ca|$, meaning a vector's unit vector is simply a scalar multiple of itself. This scalar multiple is the vector's own magnitude.
-

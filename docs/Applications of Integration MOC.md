@@ -1,4 +1,5 @@
 #APCalcBC 
+
 # Applications of Integration
 
 - 8.1 [[Average Value of Functions]]
@@ -9,4 +10,3 @@
 - 8.9, 8.10 [[Solids of Revolution (Disc Method)]]
 - 8.11, 8.12 [[Washer Method]]
 - 8.13 [[Arc Length of a Rectangular Equation]]
-

@@ -11,7 +11,7 @@ Two types of photoresist - positive and negative resist
 Positive resist - light causes the photoresist to become more soluble, so metal will be deposited where light hits
 Negative resist - light causes photoresist to become less soluble, metal deposited where light doesn't hit (masked)
 
-Defects - dust infering with patterns in the mask
+Defects - dust inferring with patterns in the mask
 
 The smaller the mask features are, the more dust is a problem - Dust can also mask light, interrupting metal channels and causing chips to not work (broken channels, etc.)
 
@@ -46,7 +46,7 @@ $$
 W = k_1 \frac{\lambda}{NA}
 $$
 
-> $K_1$ is an emperical value that depends of the ability to distinguish between small changes of intensity - typically 0.75
+> $K_1$ is an empirical value that depends of the ability to distinguish between small changes of intensity - typically 0.75
 
 As feature sizes decrease, numerical aperture $NA$ gets larger (better lenses) and $\lambda$ gets smaller (shorter wavelength light)
 
@@ -104,7 +104,7 @@ Also ion beam, nuclei of ion are focused onto substrates. Scans linearly, suffer
 
 Proximal probes - can scribe across surface like pen writes in paper
 
-- Scannign tunelling microscope
+- Scannign tunneling microscope
 - Atomic force microscope
 
 Still suffers from low throughput, since linear scan
@@ -114,4 +114,3 @@ Still suffers from low throughput, since linear scan
 Atomic force microscope - cantilever with thin probe tip, used to scan the topology of the surface
 
 Dip-pen nanolithography - Deposits "ink" onto AFM tip that is dragged over substrate, where it leaves the tip and is covalently bonded to the structure
-

@@ -1,4 +1,5 @@
 # Watergate
+
 18.6.6
 
 Burglars had tried to break in to the Democratic Party Headquarters at the Watergate complex

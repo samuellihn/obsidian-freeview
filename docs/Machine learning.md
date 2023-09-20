@@ -8,8 +8,8 @@ Types of problems
 - Classification - discrete outputs (finite # of output states)
 - Regression  - continuous outputs (infinite # of output states), creates equation
 
-
 # Regression models
+
 "Line of best fit" given data points
 
 $$
@@ -60,4 +60,3 @@ Artificial neurons, using logistic regression
 ![[Pasted image 20220702124336.png]]
 
 Weights between hidden layers
-

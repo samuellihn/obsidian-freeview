@@ -22,7 +22,7 @@ This way, we can clearly define a line in three dimensions wtihout needing to re
 
 ![[Pasted image 20220925205425.png]]
 > Effectively (vastly oversimplified), 
->
+> 
 > $$
 > P_0 + \vec{a} = P_1
 > $$
@@ -60,6 +60,3 @@ Two lines in $R^3$ are parallel when the **direction numbers** must be proportio
 To find the intersection of lines, solve for $s$ and $t$ (the two parameters in the parametric form of two lines). They **must** agree at **all three points** for ONE given value of $s$ and $t$ for the line to intersect.
 
 **Skew lines** are lines that are **not parallel** and **do not intersect**
-
-
-

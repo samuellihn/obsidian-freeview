@@ -1,6 +1,7 @@
 Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolfram.com/books/profile.cgi?id=7938)
 
 # Chapter 1:
+
 - [[Solving Linear Systems]]
 - [[Representations for Linear Systems]]
 - [[Row Reduced Echelon Form]]
@@ -18,6 +19,7 @@ Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolf
 - [[Linear Dependence]]
 
 # Chapter 2:
+
 - [[Matrix Terms]]
 - [[Matrix Multiplication]]
 - [[Matrix Transpose]]
@@ -35,6 +37,7 @@ Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolf
 - [[Rank of a Matrix]]
 
 # Chapter 3
+
 **Do general notes on determinants**
 - [[Determinant]]
 - [[Cofactor Expansion]]
@@ -49,6 +52,7 @@ Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolf
 - [[Markov Chain]]
 
 # Chapter 5
+
 - [[Eigenvectors and Eigenvalues]]
 - [[Characteristic Equation]]
 	- [[Eigenvalues for Large Matrices]]

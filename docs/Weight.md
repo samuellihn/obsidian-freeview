@@ -16,5 +16,3 @@ $$
 An object at rest has no net force acting on it
 
 > Mass is not weight - mass is the same regardless of gravity (the amount of matter is the same)
-
-

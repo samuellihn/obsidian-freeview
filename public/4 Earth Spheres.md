@@ -27,7 +27,7 @@ Layer of Earth where living organisms are found
 
 Only 12 miles thick - very bottoms of seas to very tops of tallest mountains
 
-**No one species is completely indepenent** - for life to exist, there must be more than one species
+**No one species is completely independent** - for life to exist, there must be more than one species
 
 This is the concept of an [[Ecosystem]] - interdependence among everything
 

@@ -37,12 +37,9 @@ $$
 $$
 
 > Since velocity and electric field are usually perpendicular already, we can simplify to:
->
+> 
 > $$
 > \frac{v}{r} = \frac{qB}{m}
 > $$
 
 If the particle has a velocity component not parallel to the magnetic field, the particle may go in a helical pattern (UCM in two dimensions and constant velocity in the third)
-
-
-

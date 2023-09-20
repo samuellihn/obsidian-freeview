@@ -11,6 +11,7 @@ $$
 # Cycles ($C$)
 
 ![[Pasted image 20230426111155.png]]
+
 # Complete Graphs ($K$)
 
 ![[Pasted image 20230426111216.png]]
@@ -29,12 +30,4 @@ Graphs can be divided into two sets, with no connections between nodes within th
 
 # Cubic Graphs ($Q$)
 
-
-
-
 A cubic graph $Q_n$ has [[Graph Diameter]] $n$
-
-
-
-
-

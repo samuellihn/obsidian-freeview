@@ -8,6 +8,6 @@ Numerator is **not** commutative
 
 $g(x)$ must **not be zero**
 
-Not every function needs the quotient rule - try to bypas it if possible
+Not every function needs the quotient rule - try to bypass it if possible
 
-If dividing by a constant, multply by the reciprocal of the constant and use the [[Derivative Rules#Constant Multiple Rule]] and [[Power Rule]] instead
+If dividing by a constant, multiply by the reciprocal of the constant and use the [[Derivative Rules#Constant Multiple Rule]] and [[Power Rule]] instead

@@ -1,6 +1,7 @@
 #PostwarProsperity #APUSH 
 
 ## Demilitarization
+
 15.5.1
 -   Longest period of economic growth in America’s history, where millions entered the middle class
 -   Many defense workers lose their jobs as contracts were cancelled and war production ended
@@ -18,6 +19,7 @@
 -   Political power shifted to the Sunbelt, North and Midwest decreased, the infrastructure and environment sometimes struggled to keep up with the growth
 
 ## Service Industry
+
 15.5.3
 
 -   Many people employed in the white-collar service sector (healthcare, law, retail, banking, or insurance) than manufacturing - postindustrial society
@@ -29,13 +31,16 @@
 -   Labor movement was also prosperous, AFL and CIO merged to AFL-CIO, but white-collar workers didn’t join unions so they also lost momentum
 
 ## Strikes and Fair Deal
+
 15.5.4
 
 -   Many tradesmen went on strike as wages didn’t keep up with inflation. Congress enacted the Taft-Hartley Act, outlawed union-only workplaces, which took away some labor unions’ rights.
 -   Truman desegregated the military, proposed other civil rights reforms Congress didn’t pass, Democratic party broke apart (Southern Democrats -> States Rights Party, Progressives -> Progressive Party), but Truman still won the election.
 -   Fair Deal: meant to expand new Deal (national health insurance), rejected by Congress, Korean war stalled, so Truman’s popularity fell
   
+
 ## Eisenhower
+
 15.5.5
 
 -   Eisenhower elected, satisfied both Democrats and Republicans (“middle road”), military background and calm

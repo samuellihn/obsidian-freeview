@@ -22,6 +22,3 @@ General projectile motion rules:
 -   45 degree angle produces ideal flight time
 
 **Complementary angles produce the same distance (20 and 70, 35 and 55, etc.)**
-
-
-

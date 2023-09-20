@@ -1,7 +1,9 @@
 There are three types of projectile motion:
 
    
+
 # Falling
+
 Pushed horizontally from higher point and falling in a half-parabola
 Initial velocity has no vertical component
 
@@ -23,10 +25,3 @@ Initial velocity has a vertical and horizontal component, but still starts from 
 Use the [[Quadratic Formula]] along with the [[Kinematics Equations#Third Kinematics Equation]] to analyze the motion of the projectile
 
 Find the roots of the parabola, they are when $y = 0$ (the projectile is on the ground!)
-
-
-
-
-
-
-

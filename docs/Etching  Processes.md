@@ -15,6 +15,7 @@ Anisotropic - etches faster in one direction than other - good for vertical wall
 ![[Pasted image 20220630112859.png]]
 
 ## Wet etchants
+
 Usually a mix of acids, bases, and waters
 
 Can be dilluted
@@ -25,7 +26,6 @@ Typically high amount of selectivity, selectivity can be sensitive to contaminat
 Typically isotropic except for some special cases
 
 Isotropic wet etching - equal etch rate in all directions, can remove sharp edges/corners
-
 
 ## Anisotropic silicon etching
 
@@ -100,5 +100,4 @@ Shapes of etch depends on etching technique, isotrophy (see above)
 
 Capillary electrophoresis
 
-Seperation of molecules based on charge-to-mass ratio
-
+Separation of molecules based on charge-to-mass ratio

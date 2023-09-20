@@ -24,6 +24,7 @@ graph TD
 	C--Condensation & Precipitation-->D[Surface Water]
 	D--Runoff-->A
 ```
+
 It can take ~4000 years for a water molecule to complete a full cycle (groundwater travels **extremely slowly**)
 
 However, disregarding groundwater, the cycle is relatively quick (liquid and gaseous water travels relatively quickly)

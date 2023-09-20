@@ -30,4 +30,3 @@ Remember that a series expressed in summation notation is just the terms added t
 We can also multiply series with other functions, using the distributive property to distribute something among all the terms of the series
 
 > Note that we need to be careful when multiplying two infinite series together
-

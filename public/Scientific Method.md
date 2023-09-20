@@ -1,6 +1,7 @@
 See [[Types of Errors]]
 See [[Types of Experiments]]
 Observations, Hypothesis, Prediction, ... 
+
 # Experiment
 
 **Controlled Experiment** - controlling all variables and factors within the experiment
@@ -13,12 +14,11 @@ Experimental factor -> independent variable
 
 # Results 
 
-Emperical evidence is **observed**
+Empirical evidence is **observed**
 
 Can either be qualitative or quantitative, abstract observations vs. concrete numbers
 
 > One is not "better" than the other - some data can only be observed in one way, different inferences from each
-
 
 # Theory
 

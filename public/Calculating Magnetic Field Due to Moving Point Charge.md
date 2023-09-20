@@ -23,7 +23,3 @@ $$
 This is why there is no magnetic field directly along the velocity path: $\vec{r}$ is parallel to $\vec{v}$ so $\sin{\theta} = 0$
 
 $\mu_0 = 4 \pi \times 10^{-7}$ , so the coefficient for the equation is simply $10^{-7}$
-
-
-
-

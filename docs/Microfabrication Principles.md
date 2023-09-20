@@ -1,6 +1,6 @@
 Microfabrication spans many orders of magnitudes, 100um to microns to nanometers
 
-Some man-made nanostructures (e. g. nanomotors) are getting to the same scale as naturally occuring nanostructures
+Some man-made nanostructures (e. g. nanomotors) are getting to the same scale as naturally occurring nanostructures
 
 Richard Feynman - father of nanotechnology
 
@@ -38,4 +38,3 @@ What is BioMEMS?
 Creates many identical devices 
 
 MIcro-fluidics, important applications will be in medicine and biology. Drug delivery, diagnostics all require fluid delivery systems
-

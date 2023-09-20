@@ -11,4 +11,3 @@ The product rule is commutative
 You may not need to use the product rule if you don't have to: try to "clean up" the original function first
 
 > Example: expand a factored polynomial
-

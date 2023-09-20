@@ -10,4 +10,3 @@ Three main things
 - Natural resources support economy/keep us alive
 - Ecosystems **depend on** biodiversity
 - Ecosystems dispose of wastes and recycle all elements to replenish resources
-

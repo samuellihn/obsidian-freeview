@@ -15,7 +15,7 @@ $$
 $$
 
 > We can indicate that we will plug in $a$ and $b$ throughout the vector function, like this:
->
+> 
 > $$
 > \langle F(t), G(t)\rangle\Bigg|_a^b
 > $$
@@ -27,4 +27,3 @@ If given an initial value, solve for $C_1$ and $C_2$ by plugging in the initial 
 Some problems may require double integration, solve for the constants twice (all initial conditions will be provided)
 
 > When integrating twice, define two more **distinct** constants of integration ($C_3$, $C_4$)
-

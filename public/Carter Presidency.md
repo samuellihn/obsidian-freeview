@@ -29,7 +29,7 @@ Carter tried encouraging Americans to conserve oil and asked Congress to tax cru
 
 Nominated Paul Volcker to lead Federal Reserve Board, who raised federal interest rates and helped end inflation over the long term
 
-Signed **Community Reinvestment Act** which required banks to make loans in teh same neighborhoods they took deposits which gave low/middle income families access to loans which allowed them to buy houses
+Signed **Community Reinvestment Act** which required banks to make loans in the same neighborhoods they took deposits which gave low/middle income families access to loans which allowed them to buy houses
 
 > May have led to the Great Recession (2008)
 
@@ -50,6 +50,6 @@ Tried to improve relations with Cuba, Castro allowed any Cuban to leave for the 
 
 > Caused the **Mariel Boatlift** to be poorly viewed by the public, despite <20% of the people on the boats actually being prisoners, many political prisoners
 
-Negotated the U. S. to return Panama Canal Zone back to Panama, full control of canal was handed to Panama in 1978 
+Negotiated the U. S. to return Panama Canal Zone back to Panama, full control of canal was handed to Panama in 1978 
 
 > Many feared that losing control over the Canal Zone would stifle American security over shipping - most controversial foreign policy

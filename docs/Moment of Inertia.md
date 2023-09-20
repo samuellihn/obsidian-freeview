@@ -30,5 +30,3 @@ Long thin rod | $\frac{1}{12}ML^2$ | Symmetrical about axis of rotation
 Long thin rod | $\frac{1}{3}ML^2$ | Only on one side of axis of rotation
 Solid sphere | $\frac{2}{5}MR^2$ | 
 Spherical Shell | $\frac{2}{5}MR^2$ | Where $R$ is the radius of the inner surface and thickness is negligible
-
-

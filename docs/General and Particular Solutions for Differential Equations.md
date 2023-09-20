@@ -1,6 +1,7 @@
 #APCalcBC #DifferentialEquations 
 
 # General solutions
+
 Function with a constant of integration, not a definite function
 
 **Separation of variables**
@@ -22,6 +23,7 @@ Then, isolate y if needed
 > If you are transforming algebraically, make sure c is the right place
 
 # Particular solution
+
 Given a point, asked to find the exact function by plugging in after splitting the differential equation
 Given an initial solution, solve for c
 

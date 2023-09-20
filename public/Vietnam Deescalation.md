@@ -1,4 +1,5 @@
 # Attempts to withdraw from Vietnam
+
 17.4.1
 
 Nixon promised "peace with honor" as his presidential campaign
@@ -21,6 +22,7 @@ Nixon ordered secret bombing of Ho Chi Minh Trail in Cambodia to reduce flow of 
 - Undermined the neutral government in Cambodia
 
 # Intensification of Antiwar Movement
+
 17.4.2
 
 Nixon's foreign policy wanted 3 things:
@@ -62,6 +64,7 @@ Some counterprotests also started, from people who supported the president. Some
 - Turned even more Americans against the war
 
 # Vietnam War Ends
+
 17.4.3
 
 2/3 of Americans in 1971 wanted withdrawal of American troops, even if that meant the Communists would take S. Vietnam
@@ -81,6 +84,7 @@ In 1973, S. Vietnam, N. Vietnam, and Vietcong signed **Paris Peace Accords**
 ARVN without American support was no match for Soviet-supplied N. Vietnamese army, and N. Vietnamese took Saigon and Vietnam was unified under the communists
 
 # Effects of Vietnam War
+
 17.4.4
 
 ## Death Tolls
@@ -109,6 +113,7 @@ Americans didn't fully honor Vietnam veterans until ~1980s
 - Some veterans given the Congressional Medal of Honor for their heroism
 
 ## Politically
+
 Great Society died because Vietnam War was too expensive
 Undermined America's trust in their leaders
 
@@ -120,6 +125,7 @@ Undermined America's trust in their leaders
 Left Americans with "war fatigue", where the U. S. was discouraged to use force in foreign conflicts fearing "another Vietnam"
 
 ## Economically
+
 US spent $738 billion (2011) to fight the War, and another $270b for veteran benefits, so total cost more than 1 trillion and increasing
 
 War was end of post WWII economic prosperity

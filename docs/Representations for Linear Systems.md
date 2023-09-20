@@ -14,7 +14,7 @@ $$
 
 Graph of everything in the cartesian coordinate system, the resultant graph will have three planes
 
-Solution will either have three planes interesecting at a point or three planes intersecting at a line
+Solution will either have three planes intersecting at a point or three planes intersecting at a line
 
 Or no intersection at all
 
@@ -42,6 +42,3 @@ A linear system is **consistent** when at least one solution exists
 Once we know the value of **one** of the variables, we can assume the system is consistent (substitute into other equations to find answer)
 
 If we end up with something like $0x + 0y + 0z = 3$ $[\begin{matrix}0 & 0 & 0 & 3\end{matrix}]$  in any row then we can assume the system is inconsistent
-
-
-

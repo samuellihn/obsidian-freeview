@@ -13,4 +13,3 @@ How to draw:
 4. Use all forces, including gravity and [[Static Equilibrium#Normal Force|Normal Force]]
 
 Once we use the free body diagram to find the [[Weight]], acceleration can be found using [[Newton's Laws of Motion#Second Law of Motion|Newton's Second Law]]
-

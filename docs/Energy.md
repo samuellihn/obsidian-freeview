@@ -22,4 +22,3 @@ $$
 
 - Zero out the parts that aren't in the problem
 - Solve the equality using given figures
-

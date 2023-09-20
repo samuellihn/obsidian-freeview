@@ -1,4 +1,5 @@
 ## Universal Quantifier
+
 $\forall$ means "for all"
 
 "For any real number $x$, $x^2$ is non-negative"
@@ -36,6 +37,3 @@ $$
 "There exists an imposter among us"
 
 > Verify that everyone among us is not an imposter
-
-
-

@@ -74,4 +74,3 @@ $$
 > - [[Spring Force|Spring constant]] $k \to \frac{1}{C}$
 > - $x \to q$
 > - $\omega \to i$
-

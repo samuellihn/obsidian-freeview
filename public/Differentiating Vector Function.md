@@ -17,4 +17,3 @@ $$
 If taking the derivative of two vectors multiplied together, the [[Product Rule]] can be used, or we can differentiate the resultant function from the [[Dot Product]] of the two vectors (if known)
 
 To take [[Higher Order Derivatives]] take the derivatives of the components as many times as needed
-

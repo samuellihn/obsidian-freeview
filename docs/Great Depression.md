@@ -37,6 +37,3 @@ Effects of the Great Depression
 	- More direct action
 	- Public relief
 	- Deficit spending
-
-
-

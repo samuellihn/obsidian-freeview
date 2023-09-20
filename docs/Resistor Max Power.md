@@ -46,4 +46,3 @@ P_{max} = \frac{V^2 R}{(2R)^2} \rightarrow \frac{V^2 R}{4R^2} \rightarrow \frac{
 $$
 
 In conclusion, maximum power is achieved when external resistance is equal to internal resistance in a DC circuitA
-

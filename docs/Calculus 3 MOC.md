@@ -20,6 +20,7 @@
 - [[Vector Equation of Planes]]
 - [[Angles Between Planes]]
 - [[Distance from Point to Plane]]
+
 # Chapter 3: Derivatives and Limits in 3D
 
 - [[Limit Test in 3 Dimensions]]
@@ -30,6 +31,7 @@
 - [[Implicit Function Theorem]]
 
 # Chapter 4: Applications of Multivariate Derivatives
+
 - [[Directional Derivatives]]
 - [[Critical Points in 3D]]
 - [[Absolute Extrema in 3D]]

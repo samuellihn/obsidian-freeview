@@ -17,4 +17,3 @@ int arr[] = {1, 2, 3, 4, 5};
 > With aggregate initialization, explicit array size can be omitted
 
 Out-of-bounds array access produces **undefined values** beyond the boundary in C! This will lead to undefined behavior, thus always perform bound checks
-

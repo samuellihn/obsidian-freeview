@@ -27,4 +27,3 @@ $$
 $$
 
 This pattern can be used for any relation of $x, y,$ and $z$
-

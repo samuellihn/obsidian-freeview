@@ -5,5 +5,3 @@ $$
 $$
 
 > x is independent and c is a constant
-
-

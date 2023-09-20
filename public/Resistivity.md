@@ -17,4 +17,3 @@ Conductivity = \frac{1}{\rho}
 $$
 
 A material with high resistivity has low conductivity, and vice versa.
-

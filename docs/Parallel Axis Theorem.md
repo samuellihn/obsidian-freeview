@@ -6,9 +6,3 @@ $$
 
 > $I_{cm}$ is the axis of rotation through the center of mas
 > $D$ is the distance between the old axis of rotation and the new axis of rotation
-
-
-
-
-
-

@@ -30,4 +30,3 @@ The cardinality of $\emptyset$ is still 1
 The cardinality of $\mathbb{Z}$ is $\aleph$
 
 Cardinality is not recursive
-

@@ -28,6 +28,3 @@ $$
 $$
 
 > Note that it's the opposite of [[Resistors in Series]]
-
-
-

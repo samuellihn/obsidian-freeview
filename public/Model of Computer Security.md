@@ -12,4 +12,3 @@ Identify > Protect > Detect > Respond > Recover
 [[Confidentiality, Integrity, Availability]]
 
 What protection methods we ues depend on the [[Data States]]
-

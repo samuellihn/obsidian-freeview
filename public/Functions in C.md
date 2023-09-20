@@ -66,4 +66,3 @@ Since arrays are passed by reference, modifying them in the function will modify
 We cannot return an array from a function, as it will cause a **dangling pointer**, where a pointer refers to data that doesn't exist anymore.
 
 > Instead, we can pass in a reference to be modified by the function. 
-

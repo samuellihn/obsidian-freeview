@@ -7,6 +7,7 @@ A function is decreasing if its derivative is negative
 A function is increasing/decreasing at a local max/min, use a square bracket**
 
 # First Derivative Test
+
 When a function's derivative goes through zero, the function has a local minimum or maximum at that point
 
 - Positive to negative -> maximum
@@ -20,7 +21,6 @@ See [[Absolute Extrema]]
 
 Candidates test can justify the location of absolute extrema
 Another existence test, multiple x-values can yield absolute extrema
-
 
 # Second Derivative Test
 

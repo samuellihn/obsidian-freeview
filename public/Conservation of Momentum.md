@@ -38,7 +38,7 @@ $$
 Initial difference in velocities will be same as the final distance, except in the opposite direction, **irrespective of mass**
 
 If two objects are the same mass, they will **exchange** their velocity when they collide
->Some collisions lose so little energy we treat them like elastic colilsions
+> Some collisions lose so little energy we treat them like elastic colilsions
 
 **Explosion:** one or both objects break apart because potential energy in one of the objects turns into kinetic energy
 
@@ -49,9 +49,9 @@ $$
  (m_a+m_b)v =  m_av'_a+m_bv'_b 
 $$
 
->Most of the time, we'll need to zero out the momentum vector by equating both sides
+> Most of the time, we'll need to zero out the momentum vector by equating both sides
 
->Cart with compressed spring (EPE turns into kinetic energy as carts start moving)
->Potential chemical energy turned into light and sound in a firecracker
+> Cart with compressed spring (EPE turns into kinetic energy as carts start moving)
+> Potential chemical energy turned into light and sound in a firecracker
 
 **No matter the type of collision, momentum and energy are conserved**

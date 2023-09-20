@@ -9,7 +9,6 @@ Booleans can be `true` or `false` and are more or less synonymous with integers,
 > Booleans don't really exist in C, so `char`s (or 8-bit `uint`s) are typically used in place of such
 > This is a different mindset that stricter languages like Python and C#/Java.
 
-
 # Character Library
 
 The **C character library** contains many useful character analysis/manipulation functions

@@ -19,7 +19,7 @@ Choose **any** row or column across which to perform the cofactor expansion:
 Find the determinant of the $2 \times 2$ matrix obtained by crossing out the **row and column** the current element lies in
 
 > First, we go to element $a$, so we cross out row 1 and column 1. This leaves us with:
->
+> 
 > $$
 >  \left[ \begin{matrix} e & f \\ h & i  \end{matrix} \right] 
 > $$
@@ -29,7 +29,7 @@ Find the determinant of this $2 \times 2$ matrix
 Multiply this determinant by the value of the current element, and add it to a sum
 
 > Continuing the example:
->
+> 
 > $$
 > \det{A} = a\left|\begin{matrix} e & f \\ h & i \end{matrix}\right| + ... 
 > $$

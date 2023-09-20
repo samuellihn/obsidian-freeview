@@ -27,6 +27,3 @@ The **dereference operator** `*` can then be used to access the value referenced
 // Dereferences, then increments the VALUE - GOOD!
 (*ip)++
 ```
-
-
-

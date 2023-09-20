@@ -16,7 +16,7 @@ See [[Faraday's Law]] for the mathematical representation of this effect
 
 In this problem $l$ is a circle with radius $r$, so our induced voltage is simply $EMF = E 2 \pi r$
 
-Even if there is no wire, we can mock a Faradian loop to meaure the electric field (since a wire doesn't need to be present for a changing magnetic field to induce an electric field)
+Even if there is no wire, we can mock a Faradian loop to measure the electric field (since a wire doesn't need to be present for a changing magnetic field to induce an electric field)
 
 > Model the Faradian loop so it passes through the point which we want to measure
 

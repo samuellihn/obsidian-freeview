@@ -16,6 +16,7 @@ To primary 'veins' of sociology research:
 However, this is false dichotomy - both can, and should, and are usually used:
 
 **Mixed methods**: Both qualitative and quantitative methods to understand a situation
+
 # Methods:
 
 Ethnographic immersion:  Put yourself in a situation and get deep into it

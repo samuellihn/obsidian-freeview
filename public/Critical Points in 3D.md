@@ -34,4 +34,3 @@ If $D>0$, then there is a relative minima or maxima at that point - see the sign
 If $D<0$, the point is a saddle point
 
 If $D = 0$, this test is inconclusive
-

@@ -6,6 +6,7 @@ Ax^2+By^2+Cz^2+Dxy+Exz+Fyz+Gx+Hy+Iz+J=0
 $$
 
 # Summary
+
 Equation | Characteristic | Surface | Orientation
 ---|---|---|---
 $\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$ | No minus signs | Ellipsoid 
@@ -17,6 +18,7 @@ $\frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{z}{c} = 0$ | One linear term and two 
 $\frac{x^2}{a^2} - \frac{y^2}{b^2} - \frac{z}{c} = 0$ | One inear terms, two quadratic terms with opposite signs| Hyperbolic Parabloid | Opens along axis of linear term (both ways, 90 degrees offset from each other)
 
 # Ellipsoid
+
 ![[Pasted image 20220925210351.png]]
 
 $$
@@ -111,9 +113,10 @@ $$
 
 The linear terms determines the axis that the surface opens along
 
-The linear term can also have its sign flipped to flip the surface across the plane (in thsi case, a negative $c$ would make the surface open downwards)
+The linear term can also have its sign flipped to flip the surface across the plane (in this case, a negative $c$ would make the surface open downwards)
 
 # Hyperbolic Parabloid
+
 ![[Pasted image 20220925214429.png]]
 
 $$
@@ -127,4 +130,3 @@ Traces:
 - The trace along the other two planes are parabolas, one negative and one positive (because of the opposite signs of the two quadratic terms)
 
 Note that the parabolas **both** get larger as we go away from the origin, one will be clearer than the other because of the drawing of the surface
-

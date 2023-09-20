@@ -8,10 +8,9 @@ Advances in technology, medicine, increased food supply/clothing/shelter, increa
 
 Consequences of more humans
 
-- Destruction of othe species' habitats
+- Destruction of other species' habitats
 - Changes magnitude/frequency of earth processes
 - increases impact of natural disasters
 	- Increase rate of extinction of other species
 
 Exceed **carrying capacity** of earth
-

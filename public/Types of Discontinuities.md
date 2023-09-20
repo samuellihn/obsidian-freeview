@@ -42,11 +42,3 @@ $$
 ![. ■لا4.wm توولإولإ ■ ■ و -سممم ىش■ ](Unit-1-1.10-Types-of-Discontinuities-image6.png)
 
 When given a table of points, **never** fill in the gaps between the points unless you are given additional information
-
-
-
-
-
-
-
-

@@ -20,7 +20,7 @@ Zero at infinity, just like [[Electric Field]] (always comparative)
 
  ![[Pasted image 20220217203031.png]]
 
-To find the amount of work an electric field does moving a charge from one pont to another,
+To find the amount of work an electric field does moving a charge from one point to another,
 
 $$
 W_{field} = -q(V_f - V_0)
@@ -52,4 +52,3 @@ Electric fields are greatest when potential is changing the most drastically
 > When the equipotential lines are closest together
 
 Electric fields are vectors (they cancel out)
-

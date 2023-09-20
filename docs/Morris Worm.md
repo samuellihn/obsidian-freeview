@@ -1,5 +1,6 @@
 [[Morris Worm Report]]
 --
+
 ## What was the mal-action ? 
 
 A worm that infected 1/10 of the 60000 computers connected to ARPANET within 24 hours
@@ -18,6 +19,7 @@ Spread to every connected computer running BSD
 --
 
 # How did it work?
+
 Exploited a input buffer overrun in the c gets() routine
 
 Page 5 or 41
@@ -34,6 +36,7 @@ No malicious actions, but slowed every computer under the weight of unnecessary 
 --
 
 ## Motivation
+
 Morris later said that he released the worm simply to measure the size of the internet
 
 Design flaw in the program caused the worm to keep replicating until the computer could not hand the load
@@ -41,6 +44,7 @@ Design flaw in the program caused the worm to keep replicating until the compute
 --
 
 ## What was the damage?
+
 Caused computing to slow down for a few days, but caused no lasting harm.
 
 Created processes and temporary files in attempt to replicate itself
@@ -53,6 +57,7 @@ Some systems were disabled because of the processing load involved in the replic
 --
 
 ## How did it work?
+
 Exploited vulnerabilities on VAX and Sun Microsystems systems, and vulnerabilities in the Unix e-mail delivery software. 
 
 Propagated through TCP connections and or SMTP connections. 
@@ -60,6 +65,7 @@ Propagated through TCP connections and or SMTP connections.
 --
 
 ## Do we know who was involved? 
+
 - Robert Tappan Morris
 - 23-year-old Cornell University Graduate
 - Hacked into an MIT terminal to unleash the worm
@@ -69,6 +75,7 @@ Propagated through TCP connections and or SMTP connections.
 --
 
 ## Did they get punished?
+
 - Yes - Computer Fraud and Abuse Act had been passed the year earlier
 - Indicted in 1989, first person indicted under this law
 - $10500 fine, three years of probation, 400 hours of community service

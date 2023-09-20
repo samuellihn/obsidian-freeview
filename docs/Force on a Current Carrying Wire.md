@@ -29,7 +29,7 @@ $$
 $$
 
 > Note that the amount of torque is the same as the area of the rectangle:
->
+> 
 > $$
 > \tau = IAB \sin{\theta}
 > $$

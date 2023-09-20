@@ -1,4 +1,5 @@
 # 17.1.4
+
 **Indochina**: Vietnam, Cambodia, Laos
 
 Indochina was ruled by the French before WWII with an iron fist
@@ -48,4 +49,3 @@ USS Maddox fired on by torpedo boats, a signal of Vietnamese aggression. Johnson
 **Gulf of Tonkin Resolution:** President can take any necessary action to defend American troops from vietnamese aggression
 
 > Effectively gives the President power to use the military, bypassing Congressional allocation of right to declare war
-

@@ -25,6 +25,7 @@ More hierarchical
 Privilege or concession officially bestowed by the master
 
 Closer to [[Legal-rational Authority]]
+
 ## Patrimonialism
 
 Master governs large entity (government) and relies on loyal bureaucracy.
@@ -34,5 +35,3 @@ Power is **still formally arbitrary**
 Expectation and reward for loyalty to master.
 
 For master, "what is the state's is mine."
-
-

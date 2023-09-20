@@ -1,4 +1,5 @@
 # Antiwar Sentiment Grows
+
 17.3.1
 
 More troops were being sent, more soldiers died
@@ -37,11 +38,12 @@ Antiwar sentiment the result of media's coverage, many Americans had TV sets and
 
 > First "Living Room War"
 
-Brutal reality of war broadcast into American homes, messy conflict wtih no objective or progress
+Brutal reality of war broadcast into American homes, messy conflict with no objective or progress
 
 **Credibility Gap**; between what Johnson administration said and what journalists/tv said about it, grew distrust of US government's statements
 
 # Tet Offensive
+
 17.3.2
 
 General Westmoreland said that Vietcong were defining in strength, could no longer mount a major offensive. **He was wrong.**
@@ -65,8 +67,8 @@ Eugene McCarthy (Democratic antiwar candidate), Robert Kennedy also campaigned
 
 **Johnson announced that US would limit bombing of N. Vietnam and seek negotiated sentiment, and also announced he would not run for president**
 
-
 # 1968 Election
+
 17.3.3
 
 Robert Kennedy assassinated, he cannot run for president anymore

@@ -14,7 +14,7 @@ Even though this is all one single wire, we sum the current flowing through each
 
 > If there's 2 amps flowing through the toroid wire, the total current would still be $2 \times number \ of \ wires$, even though it's all one wire
 > Total current:
->
+> 
 > $$
 > I_{total} = NI
 > $$
@@ -33,5 +33,3 @@ However, inside the inner ring of wires or outside the outer ring, there is **no
 
 > Inside: no enclosed current at all, no magnetic field
 > Outside: no enclosed **net** current, since we have an equal amount of + and - wires, so the currents cancel out
-
-

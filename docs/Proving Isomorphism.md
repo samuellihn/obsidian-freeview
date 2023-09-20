@@ -11,4 +11,3 @@ Show a mapping (either using $\rightarrow$ or function notation between distinct
 How to prove that graphs $G$ and $H$ are **not** isomorphics
 
 Show that they differ in some fundamental using [[Graph Invariants]]
-

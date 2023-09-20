@@ -1,6 +1,5 @@
 #APCalcBC #IntegrationIntro
 
-
 # Reverse [[Power Rule|Power Rule]]:
 
 $$

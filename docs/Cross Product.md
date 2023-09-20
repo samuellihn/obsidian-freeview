@@ -125,6 +125,6 @@ If vectors $a$ and $b$ are parallel and nonzero, $a \times b = 0$
 
 If the vectors are perpendicular or orthogonal, $a \times b = |a||b|$ because $\sin\theta = 1$
 
-> Applicatons of the cross product:
+> Applications of the cross product:
 > [[Scalar Triple Product]]
 > [[Torque]]

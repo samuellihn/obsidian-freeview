@@ -18,4 +18,3 @@ $x = x_0 + v_ft - at^2$ | Variation of  [[Kinematics Equations#Second Kinematics
 $\bar{v} = \frac{v_i + v_f}{2}$ | [[Kinematics Equations#Average Velocity Equation]] | Acceleration | $a$
 v^2 = v_0^2 + 2a(\Delta{x}) | [[Kinematics Equations#Third Kinematics Equation]] | Time | $t$
 Choose the correct kinematics equation based on what to solve for, and what key variable is missing 
-

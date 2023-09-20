@@ -39,7 +39,7 @@ Lower quality
 
 Silicon is consumed - some SiO2 is built above the surface, but some digs into the surface
 
-Film does expand from the surface (to accomodate the oxygen atoms that are added)
+Film does expand from the surface (to accommodate the oxygen atoms that are added)
 
 Density of material determines how much the silicon dioxide digs into the surface
 
@@ -69,7 +69,7 @@ $$
 
 # Doping
 
-Doping is adding impurities of atoms wtih more or less valence electrons into a silicon crystal to change the resistance of the silicon
+Doping is adding impurities of atoms with more or less valence electrons into a silicon crystal to change the resistance of the silicon
 
 Electron donors - n-type, electron acceptors - p-type
 
@@ -201,9 +201,10 @@ TWo types of sputtering - non-reactive sputtering
 
 Sputtering gas not incorporated into the flim
 
-Reactive sputtering - sputtering gas incorporated into teh film, filiming alloys with the film
+Reactive sputtering - sputtering gas incorporated into the film, filiming alloys with the film
 
 # Chemical Vapor Deposition
+
 Controlled reactions where reactants are in gaseous/vapor form, then the products are solid form that are deposited on the substrate
 
 Usually (gas) + (gas ) => (solid) + (gas)
@@ -232,6 +233,3 @@ Grain size depends on deposition temp. Hotter deposition -> larger grain structu
 Stresses in film after CVD, since the temperature change is different. Either the film wants to contract (tensile stress) or expand (compressive stress)
 
 Annealing can help to reduce stress
-
-
-

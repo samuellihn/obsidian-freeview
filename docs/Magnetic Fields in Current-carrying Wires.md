@@ -18,4 +18,3 @@ Same thing is observed for a singular moving charge: magnetic field will be a cy
 ![[Pasted image 20220405214251.png]]
 
 **The magnetic field directly on the particle's action of travel is zero**
-

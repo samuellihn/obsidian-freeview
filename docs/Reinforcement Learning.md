@@ -39,4 +39,3 @@ In cart-pole problem, Action 1 would be moving the cart to the left, Action 2 to
 Then the AI can choose which action will result in the best consequence (least penalty or highest reward)
 
 Neural network + reinforment learning = deep reinforcement learning
-

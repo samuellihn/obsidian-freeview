@@ -49,4 +49,3 @@ f_{xxy} = f_{xyx} = f_{yxx}
 $$
 
 > Note that the number of times we differentiate to each variable is important: for example, $f_{xxy} \neq f_{xyy}$!
-

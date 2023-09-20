@@ -5,4 +5,3 @@
 > But not all edges
 
 **Minimum Spanning Tree**: a spanning tree of a [[Weighted Graph]] that has the minimum possible weight (while still hitting all vertices)
-

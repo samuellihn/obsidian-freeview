@@ -13,5 +13,3 @@ The p-series:
 > This method doesn't tell what the p-series **diverges to**
 
 A p-series with $p = 1$ is called the **harmonic series**, and it diverges
-
-

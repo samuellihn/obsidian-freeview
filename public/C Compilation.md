@@ -16,6 +16,3 @@ gcc <source file> -std=c99 -pedantic -Wall -Wextra
 > `.o` file
 
 **Linker**: combines object file(s) (in the case of multi-unit projects) into an runnable executable
-
-
-

@@ -1,4 +1,5 @@
 # Ford
+
 18.6.1
 
 Ford had a very long record of public service, serving in the military, then 25 years in congress, then House Minority Leader
@@ -18,6 +19,7 @@ Pardoned Nixon, under the accusation that it was a corrupt pardon, decreased For
 Republicans lost many seats in the 1974 election because of public disapproval
 
 ## Economy
+
 **Stagflation** continued to plague the nation with inflation hitting double digit numbers
 
 Tried to fight it with a voluntary plan called WIN[^1], failed miserably with factories closing, demand dropping, many people lost jobs

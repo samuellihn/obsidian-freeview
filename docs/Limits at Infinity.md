@@ -22,7 +22,7 @@ $$
 lim_{x \to \infty} f(x) = \frac{6}{2} = 3
 $$
 
-If the two highest-order terms are the same power, we use the ratio of the coefficents to find the limit
+If the two highest-order terms are the same power, we use the ratio of the coefficients to find the limit
 
 > The horizontal asymptote can be crossed through, it only indicates **end behavior**
 
@@ -47,5 +47,3 @@ Remember this with  BOB0 BOSCO BOTNO
 Exponential functions are larger than all powers, and larger bases > smaller bases
 
 End behavior can be used to determine parameters (missing values) in functions
-
-

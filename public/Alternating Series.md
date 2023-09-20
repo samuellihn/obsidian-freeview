@@ -9,7 +9,7 @@ Ways to create an alternating series:
 
 Alternating series can exhibit **three** different types of behavior:
 1. Divergence
-2. **Absolute** convergence (if the absoute values of each term converge)
+2. **Absolute** convergence (if the absolute values of each term converge)
 
 > A series absolutely converges if it still converges after removing the alternating component
 

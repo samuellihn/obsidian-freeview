@@ -3,6 +3,7 @@ To project a vector onto another vector, we are taking the "component" of the ve
 ![[Pasted image 20221027214124.png]]
 
 # Scalar Projection
+
 The **scalar** projection of $a$ **onto** $b$ is known as $comp_ba$
 
 > Note the location of the vectors: $a$ is projected **onto** $b$, therefore $b$ is in the subscript
@@ -39,7 +40,7 @@ $$
 
 The vector projection ($proj_ba$) is colinear to the vector being projected onto $b$ with a magnitude equal to $comp_ba$
 
-To find $proj_ba$, multiply a [[Unit Vectors|Unit Vector]] that is colinear wtih $b$ with $comp_ba$:
+To find $proj_ba$, multiply a [[Unit Vectors|Unit Vector]] that is colinear with $b$ with $comp_ba$:
 
 $$
 proj_ba = (comp_ba)\left(\frac{b}{|b|}\right)

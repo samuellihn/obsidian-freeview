@@ -39,6 +39,3 @@ $$
 Some problems are much simpler to do, like finding the magnetic field at a center of a circle (constant $r$, $\sin\theta = 1$ always) 
 
 Important to model symmetry (like with the circle) and make things constant as much as possible
-
-
-

@@ -15,5 +15,3 @@ An **inflection point** is a point where the concavity changes S
 > $f''(x)=0$ is not sufficient justification because it might be a "bounce"
 
 Concavity is always defined in **open intervals** (with parenthesis)
-
-

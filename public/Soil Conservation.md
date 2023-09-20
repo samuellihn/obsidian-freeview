@@ -4,8 +4,8 @@ Topsoil takes a long time to generate - 1 inch of topsoil can take hundreds of y
 
 US croplands lose 1 inch of topsoil every 15-30 years
 
+# Land degradation
 
-# Land degredation
 Deterioration fo land, diminishes productivity and biodiversity
 
 Caused by:
@@ -26,7 +26,8 @@ Leads to:
 - Reduced levels of potable water
 - Biodiversity loss
 
-# Soil Degredation
+# Soil Degradation
+
 Deterioration of soil quality, which causes a productivity decrease for the land
 
 Caused by:

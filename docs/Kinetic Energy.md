@@ -11,8 +11,3 @@ $$
 From there, the velocity of rolling objects can be derived (msas and radius will cancel)
 
 Most square plates and rods will not roll, so their velocities can be determined with their [[Linear Kinetic Energy]]
-
-
-
-
-

@@ -30,6 +30,7 @@ R = 1
 L = 1
 (1, 0.63)|CROSS
 ```
+
 For the decay graph, for one time constant:
 
 $$

@@ -1,6 +1,5 @@
 # Postwar Era 
 
-
 ## Prosperity
 
 - 15.5 [[Economic Prosperity]]

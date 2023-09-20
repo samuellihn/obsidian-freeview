@@ -18,5 +18,3 @@ Depletes single type of nutrient in soil
 Began to use fertilizers and pesticides to boost yields
 
 **Tilling methods** - drastically increases erosion rates
-
-

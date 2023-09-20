@@ -1,4 +1,5 @@
 # Escalation of forces in Vietnam
+
 **17.2.1**
 
 Operation Rolling Thunder (1965): Bombing campaign against North Vietnam, caused widespread destruction
@@ -21,6 +22,7 @@ More than 500k US troops in Vietnam by 1968, almost no success
 South Vietnamese government had very little support, little progress in defeating North Vietnamese
 
 # Sinking Morale
+
 **17.2.2**
 
 Vietnam War was not about territorial acquisition - no invasion of North Vietnam
@@ -35,6 +37,7 @@ Many began to question US involvement as many had been drafted into service
 Vietnam was also unwilling to defend themselves
 
 # Doubt on the Home Front
+
 **17.2.3**
 
 Lack of progress led to doubt among the US population, losing to a county as small as Vietnam
@@ -57,4 +60,3 @@ Strongly anticommunist | Did not think Vietnam was a vital anticommunist battleg
 Conservative men | Liberals, pacifists, students, civil rights leaders
 
 J. William Fulbright emerged as leader of Doves, initially supported Gulf of Tonkin but soon thought Vietnam was a localized Civil War
-

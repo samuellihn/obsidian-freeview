@@ -11,7 +11,7 @@ Christian scribes wrote down story, injected bits of Christianity in the story
 
 > Told verbally then written down, additions are not completely representative of Norse culture
 
-Grendel's Familiy Tree
+Grendel's Family Tree
 | Adam           | Eve            |     |             |
 | -------------- | -------------- | --- | ----------- |
 | Cain           | Somone         |     | Abel (Dead) |
@@ -29,4 +29,3 @@ Monster may have been symbolic of something else
 Juxtaposition of high (Hrothgar) and low (Grendel)
 
 Hrothgar appears benevolent, but may be living close to the edge of his exploitation
-

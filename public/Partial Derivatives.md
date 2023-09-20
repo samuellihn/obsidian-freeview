@@ -18,4 +18,3 @@ $f_x$ means the derivative of $z$ **with respect to** $x$
 To take partial derivatives over a general range (not at a point) with respect to $x$, treat $y$ as a constant (in the derivative)
 
 > Don't apply the derivative rules such as the [[Power Rule]] to $y$ - the derivative of a constant is zero
-

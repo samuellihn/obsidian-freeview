@@ -21,12 +21,12 @@ Because of this, $A\vec{x} = \vec{b}$ has a solution only if $\vec{b}$ is a line
 
 You can take the matrix [[Dot Product]] to obtain the matrix form of the system of equations
 
->The equation $A\vec{x}=\vec{b}$ also exhibits other properties:
->
+> The equation $A\vec{x}=\vec{b}$ also exhibits other properties:
+> 
 > $$
 > A(\vec{u} + \vec{v}) = Au + Av
 > $$
->
+> 
 > $$
 > A(c\vec{u}) = c(A\vec{u})
 > $$

@@ -1,6 +1,7 @@
 1980 - back to conversation about economic systems
 
 # Liberals and Conservatives Diverge
+
 19.1.1
 
 Liberals favored government intervention to help the needy, where conservatives favored free market, private organizations, and individual goodwill to help the needy
@@ -27,6 +28,7 @@ Cooperation with int'l organizations like UN | Strong anti-communist stance, fig
 **Anticommunist conservatives** focused on the dangers of Soviet Union, did not agree with Ford/Nixon's detente policy, fought against SALT II (from Carter)
 
 # "New Right" becomes popular
+
 19.1.2
 
 Republicans and Democrats were starting to become divided again now that the Cold War was less prevalent and the world wasn't going to blow up 
@@ -55,6 +57,7 @@ Argued federal welfare programs rewarded lack of effort, made poverty worse, bad
 > Moral Majority touched Americans who normally didn't vote, registered 2m new voters in 1980, boosted Republican chances of winning
 
 ## Demographic Changes
+
 Many Americans moved to suburbs, taking away from the urban Democrat strongholds, also struggled financially so (expensive) liberalism was getting less popular
 
 Migration from Rust Belt to Sunbelt helped Republicans, (racist) conservatives in Deep South now aligned with Republican views (party switch). Mostly white southerners, right after civil rights legislation was enacted
@@ -72,4 +75,3 @@ Became Goldwater conservative, failed to make Goldwater win but brought the atte
 Election was close until presidential debate, where his communication gifts (incl. from his previous life) showed and he won 50.7% of popular vote and most electoral votes
 
 Republicans also captured Senate, first time since 1955
-

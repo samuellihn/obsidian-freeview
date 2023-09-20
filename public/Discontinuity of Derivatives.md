@@ -27,4 +27,3 @@ In summary, the derivative of a function will not exist at:
 - Continuous points where the function has a **vertical tangent**
 
 Continuity does not guarantee differentiability; however, differentiability implies and needs continuity
-

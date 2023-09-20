@@ -29,8 +29,3 @@ Depending on the long-term behavior of the system, the origin can be an **attrac
 | Attractor | All values approach $0$ ($statevector \to \vec{0}$)                      | $\lambda_1 < 1, \lambda_2 < 1$                                   |
 | Repeller  | All values approach $\infty$ ($statevector \to \vec{\infty}$)            | $\lambda_1 < 1, \lambda_2 < 1$                                   |
 | Saddle    | Values do both (attraction then repulsion, or repulsion then attraction) | $\lambda_1 < 1, \lambda_2 > 1$ or $\lambda_1 > 1, \lambda_2 < 1$ |
-
-
-
-
-

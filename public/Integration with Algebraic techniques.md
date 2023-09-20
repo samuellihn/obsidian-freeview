@@ -25,4 +25,3 @@ Then, we can set $x + \frac{b}{2a}$ to $u$ and u-substitute to get the final ans
  Transform a rational integral with a factorable denominator into the sum of rational functions with a constant-term numerator, so we can turn them into natural logs with [[u Substitution]]
  
 Algebraically solve for new numerators by zeroing terms or using a system of equations
-

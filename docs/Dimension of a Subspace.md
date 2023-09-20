@@ -5,6 +5,3 @@ The dimension of a subspace $H$, denoted as $dim \  H$, is the number of vectors
 The space $R^n$ has dimension $n$, as each basis of $R^n$ consists of $n$ vectors
 
 > For example, a basis for $R^3$ is $\{e_1, e_2, e_3\}$
-
-
-

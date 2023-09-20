@@ -27,12 +27,3 @@ v^2 = v_0^2 + 2a(\Delta{x})
 $$
 
 > Especially useful when time is unknown
-
-
-
-
-
-
-
-
-

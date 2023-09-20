@@ -37,4 +37,3 @@ Coulomb's law is very similar to the Law of Universal Gravitation, $-|\frac{Gmm}
 Gravity dominates on **massive** masses, and is also always attractve (mass is always positive)
 
 However, electrostatic forces dominate on a smaller scale, like holding molecules together
-

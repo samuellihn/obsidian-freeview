@@ -34,14 +34,3 @@ $y = \sec^{-1}{u}$ | $\frac{dy}{dx} = \frac{u'}{\|u\|\sqrt{u^2 - 1}}$| $y = \csc
 > Note that the complement of each function is simply the negation of the derivative
 > $u$ is what is contained inside inside of the original trig function (already accounts for [[Chain Rule]]). 
 > If $u = x$, then $u' = 1$
-
-
-
-
-
-
-
-
-
-
-

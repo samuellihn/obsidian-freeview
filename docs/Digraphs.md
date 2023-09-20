@@ -14,4 +14,3 @@ Total in-degrees and out-degrees will equal each other
 [[Isomorphism]] can still be found with directed graphs
 
 In- and out-degree sequences/maxes can also count as new [[Graph Invariants]] that we can use
-

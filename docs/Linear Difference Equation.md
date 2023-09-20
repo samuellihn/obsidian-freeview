@@ -2,6 +2,7 @@ A difference equation is a discrete time series that produces vectors $$
 A difference equation is a discrete time series that produces vectors x_0, x_1, ... x_k
 A difference equation is a discrete time series that produces vectors 
 A difference equation is a discrete time series that produces vectors 
+A difference equation is a discrete time series that produces vectors 
 A difference equation is a discrete time series that produces vectors $$
 
 Such that $x_1 = Ax_0$, and $x_2 = Ax_1$, and so on

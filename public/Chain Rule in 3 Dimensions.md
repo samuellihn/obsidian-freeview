@@ -86,6 +86,7 @@ graph TD
 ```
 
 And to find $\frac{\partial f}{\partial t}$:
+
 ```mermaid
 
 graph TD
@@ -96,6 +97,7 @@ graph TD
 	x ==> t1
 	y ==> t2
 ```
+
 So
 
 $$

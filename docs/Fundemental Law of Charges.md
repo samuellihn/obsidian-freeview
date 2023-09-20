@@ -1,5 +1,5 @@
 
-Fundemental Unit of Charge: Smallest unit of charge, the amount of charge in 1 proton (+) or electron (-). 
+Fundamental Unit of Charge: Smallest unit of charge, the amount of charge in 1 proton (+) or electron (-). 
 
 $$
 e = 1.6 * 10^{-19} C

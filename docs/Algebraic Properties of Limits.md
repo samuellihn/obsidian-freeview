@@ -35,27 +35,3 @@ $\lim_{x \to 2}{[f(x) + g(x)]} = 1$
 Evaluating from both sides applies to all types of compound limits, as the [[Limit Theorems]] can be applied to all
 
 > **Don't ever assume a limit (especially a compound limit) does not exists because one of its components does not exist!**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

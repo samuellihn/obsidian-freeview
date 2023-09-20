@@ -40,8 +40,8 @@ FLSA | Falr Labor Standards Act
 SSA | Social Security Act
 NLRA | National Labor Relations Act
 
-
 #### Criticism
+
 Left: Thought New Deal was a handout to businesses
 Right: Thought New Deal was giving government too much power, communism
 Self-imposed: Court Packing Scheme

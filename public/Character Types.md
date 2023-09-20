@@ -10,6 +10,3 @@ Protagonist | Goes through most change throughout story
 Foil | Brings out and reflects personalities of other characters
 Archetypal Character | Embodies typical archetypes in literature
 Deuteragonist | Almost protagonist - secondary protagonist (due - second), or cooperative challenge to protagonist
-
-
-

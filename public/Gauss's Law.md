@@ -20,7 +20,7 @@ $$
 E \oint{dA} = EA
 $$
 
-Then subsitute $A$ with whatever the surface area of the object is (for a sphere, $4\pi r^2$)
+Then substitute $A$ with whatever the surface area of the object is (for a sphere, $4\pi r^2$)
 
 We can connect this back to the equation for the [[Electric Field]] at a point mocking a sphere at that point so $A = 4\pi r^2$:
 

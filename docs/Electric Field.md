@@ -23,7 +23,7 @@ $$
 > As long as $q$ is positive, the electric field at that point will be the same direction as $\hat{r}$
 
 However, the value from this equation will only be a magnitude. The vector must be written as a **sum of two x and y components**, in the form $\vec{E} = a \hat{x} + b \hat{y}$
-Or, in the cosine and sine ratios, $magnitude * (\frac{adj}{|r|} \hat{x} + \frac{opp}{|r|} \hat{y})$ (avoids having to deal wtih angles)
+Or, in the cosine and sine ratios, $magnitude * (\frac{adj}{|r|} \hat{x} + \frac{opp}{|r|} \hat{y})$ (avoids having to deal with angles)
 
 # Field Lines
 
@@ -45,4 +45,3 @@ $$
 $$
 
 Usually, these problems will involve [[Static Equilibrium#Equilibrium|static equilibrium]] states, which will involve zeroeing/cancelling vectors.
-

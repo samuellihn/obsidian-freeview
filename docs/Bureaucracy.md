@@ -21,6 +21,6 @@ To Weber, bureaucracy is the quintessentially modern and most efficient way to o
 - Overspecialization
 - "Iron cage" - people become trapped inside - basic humanity stifled
 
-[[Legal-rational Authority]] and beauracracy has a dark side
+[[Legal-rational Authority]] and bureaucracy has a dark side
 
 Bauman argues the Holocaust is the other, ugly face of bureaucracy and modernity

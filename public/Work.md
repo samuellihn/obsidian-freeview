@@ -7,11 +7,11 @@ W = F * d_{parallel}
 $$
 
 > **Dot product** of force and distance
->
+> 
 > $$
 > W = F \cdot d
 > $$
->
+> 
 > The displacement and force need to be in the same direction (incl. decomposed components)
 
 > Although [[Energy]] is unsigned, work is a vector and should be added as such when calculating net work
@@ -21,5 +21,3 @@ Work requires [[Energy]]
 > Units of work: $J = N \cdot m$
 
 For vertical movement $W = mg * \Delta  y$
-
-

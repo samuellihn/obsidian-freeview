@@ -21,6 +21,3 @@ $$
  > Where $r_g$ is the radius of the Gaussian cylinder
 
   
-
-
-

@@ -1,6 +1,7 @@
 #APUSH #ModernCivilRights 
 
 ## Voting Rights
+
 16.3.1
 
 - SNCC organized Freedom Summer, many students who went to Mississippi to register blacks to vote. Formed Mississippi Freedom Democratic Party to give African Americans a voice in state politics.
@@ -13,16 +14,18 @@
 - in Deep South (Mississippi), percentage of African Americans registered to vote jumped from 7 to 70 percent, many African American elected officials as well
 
 ## Violence
+
 16.3.2
 
 - Not much legitimate change, anger and frustration because minorities were still poor and discrimination continued
-- Many race riots erupted, including Watts Loss Angeles where the National Guard had to resotre order. Also in Newark and Detroit, major property damage and deaths. 
+- Many race riots erupted, including Watts Loss Angeles where the National Guard had to restore order. Also in Newark and Detroit, major property damage and deaths. 
 - Frightened many white Americans, blacks were being violent against whites and police
 - Kerner Commission: concluded that long-term discrimination was the leading cause of violence, recommended establishing programs to overcome urban ghettos, where many minorities lived
 - Findings controversial, said federal spending would reward rioters, ignored other minorities. Ultimately never followed up on because of Vietnam and white backlash
 - Private sector created economic opportunities for minorities: low income housing, job-creating enterprises in poor urban districts
 
 ## New Civil Rights Groups
+
 16.3.3
 
 - Many African Americans were radicalized, especially young and urban. Disagreed with nonvoilence and integration
@@ -34,6 +37,7 @@
 - Celebrated African American heritage, referred to themselves as "black".
 
 ## MLK Assassinated
+
  16.3.4
 
 - MLK disagreed with "black power", still sought a nonviolent way to combat economic injustice
@@ -43,6 +47,7 @@
 - Robert F. Kennedy: presidential candidate, plead to maintain peace after assassination. Riots broke out in many cities after MLK assassinated. RFK also assassinated months later. 
 
 ## Results
+
 16.3.5
 
 - Eliminated legal segregation and broke barriers to African American voting

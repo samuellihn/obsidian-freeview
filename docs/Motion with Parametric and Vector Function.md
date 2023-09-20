@@ -27,4 +27,3 @@ $$
 $$
 
 > Usually, this will not need to be integrated by hand
-

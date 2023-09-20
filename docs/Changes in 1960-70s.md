@@ -24,4 +24,3 @@ Religious conservatives started protesting the changes, like legalized abortion,
 Rise of televangelists who used media to gain a broad reach among followers, also protested the social change of the era
 
 Religious conservatives started to ally with economic conservatives and also "America first" conservatives who wanted more defense spending. Eventually won Reagan the election in 1980.
-

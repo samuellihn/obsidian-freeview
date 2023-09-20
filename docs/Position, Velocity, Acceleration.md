@@ -16,7 +16,7 @@ d = \int{|v(t)|dt}
 $$
 
 > Whereas the **displacement $\Delta{x}$** is the integral of the velocity of the object
->
+> 
 > $$
 > \Delta x = \int{v(t)}dt
 > $$

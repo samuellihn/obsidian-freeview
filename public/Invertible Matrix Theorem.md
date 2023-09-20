@@ -1,4 +1,4 @@
-These statements are either all true or all false, in the case of an $n \times n$ **square** matix
+These statements are either all true or all false, in the case of an $n \times n$ **square** matrix
 
 a. **$A$ Is an invertible matrix**
 

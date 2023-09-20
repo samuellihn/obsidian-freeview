@@ -44,4 +44,3 @@ Therefore, to maximize the EMF when turning a generator:
 However, whatever we do, the EMF will **always be a sine wave** (alternating current)
 
 The power we are generating is not constant [[Direct Current]], but rather [[Alternating Current]], there are ways to turn AC to DC though
-

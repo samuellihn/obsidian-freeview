@@ -14,4 +14,3 @@ Closed loop controllers have a feedback mechanism that acts as another input for
 > Air conditioner - monitors the room temperature to determine whether to turn on or off
 
 **Open loop controllers aren't always bad - simpler, can be used in simple applications**
-

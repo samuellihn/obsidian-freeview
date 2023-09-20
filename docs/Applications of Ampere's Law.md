@@ -32,4 +32,3 @@ However, if we encompass the entire Amperian membrane, there is no net current (
 
 > Less magnetic field is good for electronics
 > This only works because of the radial symmetry of the two conductors—putting two wires next to each other does not achieve this same effect
-

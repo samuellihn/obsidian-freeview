@@ -18,6 +18,7 @@ height=480;width=480;
 ---
 r = \sin{3\\theta}|0 < \\theta < 3.14
 ```
+
 ```desmos-graph
 left=-2;right=2;top=2;bottom=-2;
 height=480;width=480;

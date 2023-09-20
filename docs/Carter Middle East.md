@@ -16,4 +16,3 @@ Many Iranian radical students invaded U. S. embassy as a result, took 66 America
 Carter failed to release the hostages, showed American weakness and that Carter's foreign policy was weak
 
 Also showed that Middle Eastern conflicts also posed a very large threat to the United States, even more so than the Soviets
-

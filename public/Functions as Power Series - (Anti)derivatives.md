@@ -8,4 +8,3 @@ Remember that we are taking the derivative/integral with respect to x, so anythi
 > Especially useful to avoid the [[Quotient Rule]]
 
 Mostly will use the [[Power Rule]], since the factorials are usually constants with respect to x
-

@@ -25,5 +25,3 @@ $$
 > Note this isn't an inverse square relationship like [[Electric Field]]s or [[Gravitational Field]]s
 
 Same thing works for moving charges, consider [[Law of Biot-Savart]] when calculating $\vec{B}$
-
-

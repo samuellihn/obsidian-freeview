@@ -17,7 +17,6 @@
 - Compelled federal government and JFK to act- the Black vote caused Kennedy to win the election
 - Showed that intimidation would not stop the movement
 
-
 ## 16.2.3 Public Institutions
 
 - James Meredith: tried to enroll in all-white University of MIssissippi, aided by NAACP win a court case that forced the university to integrate, helped by Medgar Evers. 

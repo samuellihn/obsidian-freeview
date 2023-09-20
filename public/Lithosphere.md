@@ -9,4 +9,3 @@ Form Earth's continents, 28% of surface
 Made of rigid plates that float on top of magma
 
 See [[Layers of Earth#Crust]] for information about the crust
-

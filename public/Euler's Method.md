@@ -11,4 +11,3 @@ Finer resolution gives more accurate answer
 Make sure to properly define $\Delta{x}$
 
 Euler's method gives different answers depending on whether we are working backwards or forwards
-

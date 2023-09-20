@@ -22,10 +22,3 @@ unzip zipped_files.zip
 Must create `gitlog.txt` file for homework using `git log > gitlog.txt`
 
 **`commit` early, `commit` often**
-
-
-
-
-
-
-

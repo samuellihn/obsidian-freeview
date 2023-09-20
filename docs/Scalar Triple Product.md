@@ -35,14 +35,12 @@ $$
 
 > See [[Cross Product]] for more details
 
-You can also calculate the [[Cross Product]] and [[Dot Product]] seperately (easier imo)
+You can also calculate the [[Cross Product]] and [[Dot Product]] separately (easier imo)
 
 > Make sure you calculate the [[Cross Product]] first, then the [[Dot Product]]
 
-The scalar triple product is equivalent to the volume of a parallelepiped, a rectangular-prism-like object where every face is a parellelogram and pairs of faces are parallel:
+The scalar triple product is equivalent to the volume of a parallelepiped, a rectangular-prism-like object where every face is a parallelogram and pairs of faces are parallel:
 
 ![[Pasted image 20221027230009.png]]
 
 > $|b \times c|$ generates the area of the bottom face. Then the dot product of $a$ with $b \times c$ generates $|b \times c| * comp_{b \times c} a$, which is equivalent to the volume
-
-

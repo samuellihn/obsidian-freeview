@@ -43,7 +43,7 @@ $$
 
 Not a property, but note the **chain rule** in the [[Fundemental Theorem of Calculus]]
 
-If the we are taking the definite integral of is underfined at **any point** in that interval the interval is also nonexistence
+If the we are taking the definite integral of is undefined at **any point** in that interval the interval is also nonexistence
 > Must be "well-behaved" (cannot integrate asymptote/hole, etc)
 
 

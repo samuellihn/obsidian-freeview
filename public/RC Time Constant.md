@@ -34,4 +34,3 @@ q = Q_f\Big(1 - \frac{1}{e}\Big)
 $$
 
 The time it takes for a capacitor to charge to around 0.63 of its final charge
-

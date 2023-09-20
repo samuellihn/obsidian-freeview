@@ -33,6 +33,3 @@ $$
 > In the product $AB$, we can say that $A$ is right-multiplied **by** $B$, or that $B$ is **left-multiplied** by $A$
 
 Cancellation is not generally true for matrix multiplication. It **cannot  be concluded** that $AB = AC$ means that $B=C$
-
-
-

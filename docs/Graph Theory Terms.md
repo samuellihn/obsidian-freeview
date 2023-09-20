@@ -37,7 +37,3 @@ Distance between two nodes: The length of the shortest walk between two nodes
 Connected graph: A graph where there is a path between any two vertices in the graph. Otherwise, disconnected
 
 Component: Each "island" of a disconnected graph
-
-
-
-

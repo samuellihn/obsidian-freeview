@@ -10,7 +10,7 @@ International Investment
 
 False sense of security
 - Conferences and treaties, disarment and minimize potential for war
-	- Unenforcable
+	- Unenforceable
 - Military interventions in Latin America
 
 Timeline
@@ -34,4 +34,4 @@ Facism: authoritarian and nationalistic
 Totalitarianism: centralized, dictatorial system
 - Nation > individual
 	
-Americans were also isolationist during Japanese Agression
+Americans were also isolationist during Japanese Aggression

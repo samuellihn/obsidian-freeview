@@ -19,6 +19,3 @@ $2\pi$ is a scaling factor to scale the period to one second
 $f$ is the frequency of the wave
 $\theta$ is the phase shift
 $v$ is the resultant voltage
-
-
-

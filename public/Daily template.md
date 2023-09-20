@@ -1,5 +1,3 @@
 ![[Tasks]]
 
 # New Tasks
-
-

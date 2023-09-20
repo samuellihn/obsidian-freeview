@@ -19,6 +19,3 @@ $$
 > Example: rate of change of temperature varies directly to the temperature
 
 **Be careful of what the rate of change is proportional to! Sometimes it's the function itself, sometimes it's the independent variable **
-
-
-

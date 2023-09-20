@@ -12,7 +12,7 @@ Vector functions and [[Parametric Equation]]s are synonymous - accept a $t$, get
 
 Like a [[Vector Field]], but with only one independent variable
 
-To find the domain of a vector function, find the intersection $\cap$ of the two sets of numbers of the two components (where the two domans **overlap**)
+To find the domain of a vector function, find the intersection $\cap$ of the two sets of numbers of the two components (where the two domains **overlap**)
 
 The limit of a vector function $r(t) = \langle x(t), y(t) \rangle$ is simply:
 
@@ -32,7 +32,3 @@ LIkewise, a vector function is continuous at $a$ if
 
 > Same criteria as for [[Continuity at a Point]] for rectangular functions
 > If any of the components are not continuous, the vector function will not be either
-
-
-
-

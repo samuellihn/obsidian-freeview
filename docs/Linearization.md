@@ -23,7 +23,3 @@ $$
 > This is simply a rearrangement of the point-slope form of a given tangent line
 
 The further away we get from the point where we found the line, the worse our estimate becomes
-
-
-
-

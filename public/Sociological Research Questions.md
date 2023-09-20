@@ -6,7 +6,7 @@ What concepts and words need to be defined?
 
 > **Who in the U. S. is most and least concerned about the environment and why?**
 > Concerned: how? social media? votes?
-> Envrionment: what kind of? local? atmosphere? forest? domestic? international?
+> Environment: what kind of? local? atmosphere? forest? domestic? international?
 
 How might people understand the question?
 

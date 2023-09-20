@@ -8,4 +8,3 @@
 | Addition             | Distributive by Scalars | $(k+l)a = ka + la$ where $k$ and $l$ are scalars |
 | Multiplication       | Associative by Scalars  | $k(la) = (kl)a$ where $k$ and $l$ are scalars    |
 | Multiplication       | Identity                | $1a = a$                                         |
-

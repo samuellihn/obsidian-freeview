@@ -9,7 +9,3 @@ To ways to get a password:
 
 > Brute force attack: try all possible combinations
 > Stupid user: password isn't strong and easy to guess in if you know the user
-
-
-
-

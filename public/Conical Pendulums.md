@@ -2,7 +2,7 @@
 
 
 
-Conical pendulums sweep out a ciruclar path
+Conical pendulums sweep out a circular path
 The string sweeps out a cone among one revolution
 
 Tension force on string has two components, the centripital force and the complement to the gravitational force

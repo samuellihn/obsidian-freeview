@@ -24,4 +24,3 @@ If we apply force upward, the normal force will decrease
 If we apply force downward, the normal force will increase
 
 Normal force is **not** a force pair with gravitational force
-

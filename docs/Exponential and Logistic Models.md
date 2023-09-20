@@ -10,7 +10,7 @@ $$
 
 > This is, by definition, exponential growth
 
-And an initial condiiton:
+And an initial condition:
 
 $$
 y(0) = A

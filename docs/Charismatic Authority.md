@@ -8,5 +8,3 @@ Highly individual quality → non-transferrable
 > Succession problems
 > Unstable
 > Disruptive, revolutionary force
-
-

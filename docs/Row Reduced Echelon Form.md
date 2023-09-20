@@ -11,4 +11,3 @@ Go in order, or you may undo previous steps and have to redo things (right to le
 ![[Pasted image 20220907121215.png]]
 Infinitely many solutions:
 ![[Pasted image 20220907121832.png]]
-

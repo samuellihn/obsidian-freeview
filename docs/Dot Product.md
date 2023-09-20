@@ -7,7 +7,7 @@ a \cdot b = a_1b_1 + a_2b_2 + a_3b_3
 $$
 
 > This is an example in 2-dimensional space:
->
+> 
 > $$
 > \langle 5, 4 \rangle \cdot \langle 7, 3 \rangle = 3 \times 5 + 4 \times 7 = 15 + 28 = 43
 > $$
@@ -25,11 +25,11 @@ $$
 | Zero Vector          | $\vec{0} \cdot a = a \cdot \vec{0} = 0$      |
 
 > Proof of the square property:
->
+> 
 > $$
 > a \cdot a = (a_1)(a_1) + (a_2)(a_2) + (a_3)(a_3) = a_1^2 + a_2^2 + a_3^2 = |a|^2
 > $$
->
+> 
 > Since $|a| = \sqrt{a_1^2 + a_2^2 + a_3^2}$, therefore $|a|^2 = a_1^2 + a_2^2 + a_3^2$
 
 Due to the [[Law of Cosines]], the dot product can be used to find the angle between two vectors

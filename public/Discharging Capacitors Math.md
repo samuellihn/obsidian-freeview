@@ -16,6 +16,7 @@ To get a single variable, $i = \frac{dq_c}{dt}$. However, since $i$ is decreasin
  \frac{q_C}{C} + \frac{dq}{dt}R = 0
  
  
+ 
  $$  
 
  From there, we can turn this into something we can [[Integrals|Integrate]]:  
@@ -24,12 +25,14 @@ To get a single variable, $i = \frac{dq_c}{dt}$. However, since $i$ is decreasin
  \int_{0}^{t}{\frac{-dt}{RC}} = \int_{Q_0}^q{\frac{dq}{q_C}}
  
  
+ 
  $$  
 
  Turns into:  
 
  $$
  \frac{-t}{RC} = \ln{q} - \ln{Q_0} \rightarrow \frac{-t}{RC} = \ln{\frac{q}{Q_0}} 
+ 
  
  
  $$

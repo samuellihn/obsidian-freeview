@@ -3,4 +3,3 @@ P(event) = \frac{\text{Number of favorable outcomes}}{\text{Number of unfavorabl
 $$
 
 > All outcomes need to be **equally likely**
-

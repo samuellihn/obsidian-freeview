@@ -27,4 +27,3 @@ a^{-1}(y -b) = x \mod{27}
 $$
 
 > Note that this is the **modular inverse** of $a$
-
