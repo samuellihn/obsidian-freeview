@@ -1,0 +1,1 @@
+{"pageProps":{"mdContent":"<p>The <code>assert</code> function is a debugging function included in <code>&#x3C;assert.h></code> that checks whether a boolean value is true; if it is not, it prints a debug message</p>\n<blockquote>\n<p>Not for conventional error handling, but for debugging the program</p>\n</blockquote>\n<p>A</p>","pageTitle":"Debugging in C"},"__N_SSG":true}

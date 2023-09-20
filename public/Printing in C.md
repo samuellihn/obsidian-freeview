@@ -21,7 +21,7 @@ Data Type Placeholders
 > For all printf specifiers and modifiers, refer to https://cplusplus.com/reference/cstdio/printf/
 
 
-> To print a `%` character without it being confused for a format string, use two `%` characters:
+> To print a `%` character without it being confused for a format string, use two `%` characters as the escape sequence: 
 
 ```c
 printf("100%%\n")

@@ -10,6 +10,13 @@ Booleans can be `true` or `false` and are more or less synonymous with integers,
 > This is a different mindset that stricter languages like Python and C#/Java.
 
 
+# Character Library
 
+The **C character library** contains many useful character analysis/manipulation functions
 
+```c
+#include <ctype.h>
+```
 
+- Boolean analysis functions (`isalpha`, `isdigit`), etc.
+- Conversion functions (`toupper`, `tolower`)
