@@ -62,7 +62,8 @@ If the output sequence $z_k$ is the zero sequence $\set{..., \ 0, 0, 0, 0, \ ...
 
 A linear difference equation can also be represented as a matrix equation of the form $\vec{x_{k+1}} = A\vec{x_k}$.
 
-$$ 
+$$
+ 
 \vec{x} = 
 \begin{bmatrix}
 y_k\\
@@ -91,11 +92,11 @@ A linear filter can be represented as a linear difference equation. Although a m
 
 Consider the second-order linear filter represented by:
 
-$$\begin{equation}
+$$
+\begin{equation}
 \tfrac{\sqrt{2}}{4}y_{k+2} + \tfrac{1}{2}y_{k+1} + \tfrac{\sqrt{2}}{4}y_{k} = z_k
 \end{equation}
 $$\$$
-
 Here, the coefficients $\set{\frac{\sqrt{2}}{4}, \frac{1}{2}, \frac{\sqrt{2}}{4}}$ are called the filter coefficients of the matrix. These determine the behavior of the filter and the effects it has on incoming signals. Although observing the exact behavior of the filter at every frequency (generating the so-called "frequency response" curve) requires techniques far beyond the scope of this paper, it can be helpful to observe what happens to signals of various frequencies.
 
 Inputting the function $\cos{\frac{t\pi}{4}}$ sampled every $1$ second into the linear filter above, the resultant waveform is:
@@ -119,7 +120,6 @@ As mentioned previously, predicting the frequency response curve of a linear fil
 Consider the second-order linear filter from the previous section with filter coefficients $\set{\frac{\sqrt{2}}{4}, \frac{1}{2}, \frac{\sqrt{2}}{4}}$. 
 
 To determine which frequencies are eliminated, consider the case where $T(\set{y_k}) \rightarrow \set{0}$Set the resultant sequence to the zero sequence, forming a homogenous linear difference equation:
-
 $$
 
 \begin{equation}
@@ -142,45 +142,51 @@ $$
 
 Therefore, the auxiliary polynomial for the linear filter shown above is:
 
-$$\begin{equation}
+$$
+\begin{equation}
 \tfrac{\sqrt{2}}{4}r^2 + \tfrac{1}{2}r + \tfrac{\sqrt{2}}{4} = 0
-\end{equation}$$
-This is a quadratic equation, which we can see has two complex roots:
+\end{equation}
 $$
 
+This is a quadratic equation, which we can see has two complex roots:
+
+$$
 \frac{
 -\frac{1}{2} \pm \sqrt{\frac{1}{2}^2-4(\frac{\sqrt{2}}{2})(\frac{\sqrt{2}}{2})}
 }{
 2(\frac{\sqrt{2}}{{2}})
 }
 \rightarrow -\tfrac{\sqrt{2}}{2}\pm i\tfrac{\sqrt{2}}{2}
+$$
 
 $$
-$$r_1 = -\tfrac{\sqrt{2}}{2}+  i\tfrac{\sqrt{2}}{2}, \ r_2 = -\tfrac{\sqrt{2}}{2}- i\tfrac{\sqrt{2}}{2}$$
+r_1 = -\tfrac{\sqrt{2}}{2}+  i\tfrac{\sqrt{2}}{2}, \ r_2 = -\tfrac{\sqrt{2}}{2}- i\tfrac{\sqrt{2}}{2}
+$$
+
 These complex roots can be thought of as points in the complex plane:
 
 ![[Pasted image 20230117204203.png]]
 Since the two roots are complex numbers, we can write them as polar coordinates. If $R$ is the magnitude of the complex number and $\theta$ is the direction, then the complex root $r$ can be written as $R\left[\cos{\theta} + i\sin{\theta}\right]$. Applying this to the two complex roots(note that $R = 1$):
-$$
 
+$$
 r_1 = \cos{\tfrac{3\pi}{4}} + i\sin{\tfrac{3\pi}{4}}, \ 
 r_2 = \cos{\tfrac{5\pi}{4}} + i\sin{\tfrac{5\pi}{4}}
-
 $$
+
 A theorem called De Moivre's rule of complex numbers states that for a complex number written as $r= R\left[\cos{\theta} + i\sin{\theta}\right]$, subsequent powers of that complex number can be written as $r^k = R\left[\cos{k\theta} + i\sin{k\theta}\right]$. This allows for the roots $r_1$ and $r_2$ to be generalized into sequences $\set{{r_1}^k}$ and $\set{{r_2}^k}$.
-$$
 
+$$
 {r_1}^k = \cos{\tfrac{k3\pi}{4}} + i\sin{\tfrac{k3\pi}{4}}, \ 
 {r_2}^k = \cos{\tfrac{k5\pi}{4}} + i\sin{\tfrac{k5\pi}{4}}
-
 $$
+
 It is stated that if an auxiliary equation to a linear difference equation has a complex root $r$, then the sequences $\operatorname{Re} \set{r^k}$ and $\operatorname{Im} \set{r^k}$ are solutions to the linear difference equation. Since $\set{r^k}$ has been found above, the solutions of the linear filter are:
-$$
 
+$$
 \set{\cos{\tfrac{k3\pi}{4}}}, \ \set{\sin{\tfrac{k3\pi}{4}}}, \ 
 \set{\cos{\tfrac{k5\pi}{4}}}, \ \set{\sin{\tfrac{k5\pi}{4}}}
-
 $$
+
 Recall that $\set{\cos{\tfrac{k3\pi}{4}}}$ was one of the frequencies completely eliminated by the linear filter. Applying the filter to $\set{\cos{\tfrac{k5\pi}{4}}}$, that frequency is filtered out completely as well:
 
 ![[Pasted image 20230117213200.png]]
@@ -200,7 +206,9 @@ Applying linear filters to compositions of waves shows the practical application
 As mentioned above, a linear difference equation can be rewritten in the matrix form $\vec{x_{k+1}} = A\vec{x_k}$. Modern views of digital signal processing may prefer to view linear filters in this form, as matrix operations can have performance advantages on modern computer hardware, especially for higher-order filters with many terms. 
 
 Using the general form described previously, our second-order linear filter can be written as a $3 \times 3$ matrix:
-$$ 
+
+$$
+ 
 
 \vec{x_k} = 
 \begin{bmatrix}
@@ -214,9 +222,8 @@ y_{k+2}\\
 0 & 0 & 1\\
 \tfrac{\sqrt{2}}{4} & \tfrac{1}{2} & \tfrac{\sqrt{2}}{4}
 \end{bmatrix}
-
 $$
 
 # Conclusion
 
-The rapid evolution of computer hardware has enabled numerous applications of linear algebra in various fields. This necessitates that engineers view problems in a fundamentally different perspective, as seen in this paper with the discretization of signals and signal processing techniques. By investigating one device used in digital signal processing, the linear lowpass filter, we have shown that the linear difference equation, as fundamental as it seems, can be applied to perform complex manipulations on periodic signals such as those found in sound waves. Furthermore, we have seen that solutions to homogenous systems can exhibit special behaviors in a real-world context, as seen with frequencies that are completely eliminated by linear filters. This has shown that a complete understanding of seemingly simple topics can allow for in-depth investigation of complicated real-world problems.
+The rapid evolution of computer hardware has enabled numerous applications of linear algebra in various fields. This necessitates that engineers view problems in a fundamentally different perspective, as seen in this paper with the discretization of signals and signal processing techniques. By investigating one device used in digital signal processing, the linear lowpass filter, we have shown that the linear difference equation, as fundamental as it seems, can be applied to perform complex manipulations on periodic signals such as those found in sound waves. Furthermore, we have seen that solutions to homogeneous systems can exhibit special behaviors in a real-world context, as seen with frequencies that are completely eliminated by linear filters. This has shown that a complete understanding of seemingly simple topics can allow for in-depth investigation of complicated real-world problems.

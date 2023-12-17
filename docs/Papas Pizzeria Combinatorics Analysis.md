@@ -11,7 +11,11 @@ $ | $$
 $\frac{1}{3}$$ | \frac{2}{3}
 
 | $
-$\frac{1}{3}$$ | $$
+
+$\frac{1}{3}$$
+$\frac{1}{3} | 
+$\frac{1}{3}$$
+
  |                    |
 | Correct Topping | Incorrect Topping |
 
@@ -25,13 +29,37 @@ $ | $$
 $\frac{1}{18}$$ | \frac{1}{2}
 
 | $
-$\frac{1}{18}$$ | $$ | $$
+
+$\frac{1}{18}$$
+$\frac{1}{18} | 
+$\frac{1}{18}$$
+ | 
+$\frac{1}{18}$$
 
 | $
-$\frac{1}{18}$$ | $$\frac{1}{2}$$ | \frac{4}{9}
+
+$\frac{1}{18}$$
+$\frac{1}{18} | 
+$\frac{1}{18}$$
+\frac{1}{2}
+$\frac{1}{18}$$ | \frac{4}{9}
 
 | $
-$\frac{1}{18}$$ | $$\frac{1}{2}$$ | $$
+
+$\frac{1}{18}$$
+$\frac{1}{18} | 
+
+$\frac{1}{18}$
+$\frac{1}{2}$$
+
+$\frac{1}{18}$
+$ | $$\frac{1}{2} | 
+
+$\frac{1}{18}$
+$ | $$
+$ | \frac{1}{2}
+$ | $$
+
  |
 |  Correctly sliced | Incorrectly sliced |
 
@@ -45,7 +73,11 @@ $ | $$
 $\frac{1}{4}$$ | \frac{3}{4}
 
 | $
-$\frac{1}{4}$$ | $$
+
+$\frac{1}{4}$$
+$\frac{1}{4} | 
+$\frac{1}{4}$$
+
  |                    |
 
 # Position Analysis

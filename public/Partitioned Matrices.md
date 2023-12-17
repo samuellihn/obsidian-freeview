@@ -79,6 +79,6 @@ You can perform any [[Matrix Multiplication]] and [[Inverses of Matrices|Matrix 
 
 # Special Cases
 
-Partitioned matrices can be upper/lower **block** triangular (see [[Matrix Terms]])
+Partitioned matrices can be upper/lower **block** triangular (see [[Special Matrices]])
 
 **A partitioned matrix with nonzero matrices only on the main diagonal is invertible if those nonzero entries are also invertible**

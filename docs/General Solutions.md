@@ -1,6 +1,12 @@
-Once a system's augmented matrix is in [[Row Reduced Echelon Form]], a **general solution** can be generated.
+Once a system's augmented matrix is in [[Reduced Echelon Form]], a **general solution** can be generated.
 
 However, some variables can still be **free variables**, where they act as parameters and defining them (as arbitrary numbers) will define the rest of the variables
+
+> Free variables can be expressed as:
+> 
+> $$
+> x_{k} = x_{k}, x \in \mathbb{R}
+> $$
 
 With free variables, there will be infinitely many solutions. Take this system, in row reduced echelon form:
 

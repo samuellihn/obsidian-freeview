@@ -23,7 +23,7 @@ Matrices are can be inverted are **invertible matrices**, or **nonsingular matri
 
 Non-invertible matrices are called **singular matrices**
 
-The columns of a non-invertible matrix are [[Linear Dependence|Linearly Dependent]] (see [[Invertible Matrix Theorem]])
+The columns of a non-invertible matrix are [[Linear Independence|Linearly Dependent]] (see [[Invertible Matrix Theorem]])
 
 > Linearly Independent matrices are always invertible
 

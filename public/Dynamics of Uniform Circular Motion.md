@@ -29,6 +29,9 @@ The net force that causes acceleration should **always be towards the center of 
  
  
  
+ 
+ 
+ 
  $$
 
 When the tension $<0$ and there is no tension force, the object will not conitnue in circular motion

@@ -35,13 +35,8 @@ $$
 
 Row additions **do not change the determinant**
 
-$$\det A  = \left|\begin{matrix}
+$$
+\det A  = \left|\begin{matrix}
 a + kc &  b + kd \\ c & d
-\end{matrix}\right|$$
-For multiplied matrices:
-
-$$\det{A}\det{B} =\det{(AB)}
 \end{matrix}\right|
-\end{matrix}\right|
-\end{matrix}\right|
-\end{matrix}\right|$$
+$$

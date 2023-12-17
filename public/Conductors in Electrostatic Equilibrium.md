@@ -33,6 +33,9 @@ All points on and inside the metal will be at the same [[Electrical Potential]]
  
  
  
+ 
+ 
+ 
  $$
 
 > Even though there is more charge for a larger (smoother) piece of metal, the surface charge density will still be higher if the potentials are the same, **since area is squared and charge isn't** 

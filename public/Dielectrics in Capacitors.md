@@ -12,6 +12,9 @@ The factor a certain dielectric increases the [[Capacitance]] of a capacitor is 
  
  
  
+ 
+ 
+ 
  $$
 
 Capacitance with dielectric over capacitance without dielectric

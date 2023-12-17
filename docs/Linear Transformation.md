@@ -70,6 +70,9 @@ $$
  
  
  
+ 
+ 
+ 
  $$
 
 - **Must obey vector addition and scalar multiplication**
@@ -89,6 +92,6 @@ A linear transformation is **one-to-one** if each vector  if each vector $b$ in 
 > Similar to one-to-one function - passes horizontal and vertical line test, each solution has a **unique** input. 
 > If $T(x) = 0$ only has the trivial system (see [[Homogenous System]]), $T(x)$ is one-to-one (and vice versa)
 
-A linear transformation with matrix $A$ is one-to-one if the columns of $A$ are [[Linear Dependence|Linearly Independent]]
+A linear transformation with matrix $A$ is one-to-one if the columns of $A$ are [[Linear Independence|Linearly Independent]]
 
-> A linear transformation where $m < n$ (reduces dimensionality) cannot be one-to-one (see [[Linear Dependence#Automatic Cases]])
+> A linear transformation where $m < n$ (reduces dimensionality) cannot be one-to-one (see [[Linear Independence#Automatic Cases]])

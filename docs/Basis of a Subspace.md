@@ -1,4 +1,4 @@
-A **basis** for a subspace (a [[Column Space]] or [[Null Space]] $b$ of $R^n$ is a [[Linear Dependence|linearly independent]] set of $H$ that spans $H$
+A **basis** for a subspace (a [[Column Space]] or [[Null Space]] $b$ of $R^n$ is a [[Linear Independence|linearly independent]] set of $H$ that spans $H$
 
 The **standard basis** for $R^3$ are are the three columns of the $3 \times 3$ identity matrix: $\{e_1, e_2, e_3\}$
 
@@ -41,7 +41,7 @@ $$
 \right\}
 $$
 
-To find the basis of a column space given a matrix, find the pivot columns of the matrix in the echelon form (or the [[Row Reduced Echelon Form]] - those are the basis of the subset
+To find the basis of a column space given a matrix, find the pivot columns of the matrix in the echelon form (or the [[Reduced Echelon Form]] - those are the basis of the subset
 
 > We do this because the non-pivot columns in a matrix are redundant - they can be written as linear combinations of the pivot columns
 

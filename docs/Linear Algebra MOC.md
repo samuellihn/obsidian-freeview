@@ -4,7 +4,7 @@ Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolf
 
 - [[Solving Linear Systems]]
 - [[Representations for Linear Systems]]
-- [[Row Reduced Echelon Form]]
+- [[Reduced Echelon Form]]
 - [[General Solutions]]
 - [[Properties of Matrix Forms]]
 - [[Vectors MOC]] 
@@ -16,11 +16,11 @@ Textbook: [Linear Algebra and Its Applications, fourth edition](https://www.wolf
 	- [[Shear Transformation]]
 	- [[Rotation as Linear Transformation]]
 - [[Matrix of a Linear Transformation]]
-- [[Linear Dependence]]
+- [[Linear Independence]]
 
 # Chapter 2:
 
-- [[Matrix Terms]]
+- [[Special Matrices]]
 - [[Matrix Multiplication]]
 - [[Matrix Transpose]]
 - [[Elementary Matrices]]

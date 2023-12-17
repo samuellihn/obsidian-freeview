@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"4bbf984863adc41e","type":"text","text":"# What order is it?","x":-120,"y":-340,"width":250,"height":116},
+		{"id":"9696d28acaff0361","type":"text","text":"# Is it homogenous?","x":580,"y":0,"width":300,"height":120},
+		{"id":"4e1cfe91f186516f","type":"file","file":"First-order Linear DE.md","x":-740,"y":0,"width":400,"height":240},
+		{"id":"5d0e3626719cbf80","type":"file","file":"Method of Variation of Parameters.md","x":-480,"y":650,"width":420,"height":300},
+		{"id":"4d68a4f0803f3095","type":"file","file":"Separable Differential Equation.md","x":-1000,"y":650,"width":420,"height":300},
+		{"id":"13f020864ed5c24e","type":"text","text":"# Is it homogenous?","x":-690,"y":340,"width":300,"height":120},
+		{"id":"f9ab270e31eab828","type":"file","file":"Characteristic Polynomial Method.md","x":0,"y":650,"width":400,"height":300},
+		{"id":"fef22c534baf18d1","type":"text","text":"# Can we solve it?","x":-120,"y":-560,"width":250,"height":116},
+		{"id":"40bbd9f50492380c","type":"file","file":"Euler's Method.md","x":400,"y":-612,"width":400,"height":220},
+		{"id":"ea7ab365d3e79e4f","type":"text","text":"# Is $b(x)$ in a \"nice family?\"","x":880,"y":330,"width":354,"height":130},
+		{"id":"f537c02a04b8c3e6","x":1140,"y":650,"width":400,"height":300,"type":"file","file":"Method of Variation of Parameters (n-th order).md"},
+		{"id":"c36edd5ba56d71e8","type":"file","file":"Method of Undetermined Coefficients.md","x":560,"y":650,"width":400,"height":300}
+	],
+	"edges":[
+		{"id":"817a1c2f4818e25b","fromNode":"13f020864ed5c24e","fromSide":"bottom","toNode":"4d68a4f0803f3095","toSide":"top","label":"homogeneous"},
+		{"id":"cd2255ff2156334f","fromNode":"13f020864ed5c24e","fromSide":"bottom","toNode":"5d0e3626719cbf80","toSide":"top","label":"non-homogeneous"},
+		{"id":"41de7661cca6762c","fromNode":"4bbf984863adc41e","fromSide":"bottom","toNode":"4e1cfe91f186516f","toSide":"top","label":"first-order"},
+		{"id":"3179e5ca8028d2d3","fromNode":"4bbf984863adc41e","fromSide":"bottom","toNode":"9696d28acaff0361","toSide":"top","label":"nth-order"},
+		{"id":"ad44842243e9463d","fromNode":"9696d28acaff0361","fromSide":"bottom","toNode":"f9ab270e31eab828","toSide":"top","label":"homogenous"},
+		{"id":"1cf5c92ebbb0ef84","fromNode":"9696d28acaff0361","fromSide":"bottom","toNode":"ea7ab365d3e79e4f","toSide":"top","label":"non-homogenous"},
+		{"id":"fcd9dba8d5fdc1e2","fromNode":"4e1cfe91f186516f","fromSide":"bottom","toNode":"13f020864ed5c24e","toSide":"top"},
+		{"id":"092553c6b1fb213d","fromNode":"fef22c534baf18d1","fromSide":"bottom","toNode":"4bbf984863adc41e","toSide":"top","label":"Yes"},
+		{"id":"8eaea9528bb27891","fromNode":"fef22c534baf18d1","fromSide":"right","toNode":"40bbd9f50492380c","toSide":"left","label":"No"},
+		{"id":"bb1b02b040dc3793","fromNode":"ea7ab365d3e79e4f","fromSide":"bottom","toNode":"c36edd5ba56d71e8","toSide":"top","label":"yes"},
+		{"id":"c0e8484796c388b6","fromNode":"ea7ab365d3e79e4f","fromSide":"bottom","toNode":"f537c02a04b8c3e6","toSide":"top","label":"no"}
+	]
+}

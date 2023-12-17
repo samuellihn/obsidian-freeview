@@ -3,6 +3,9 @@
  
  
  
+ 
+ 
+ 
  $$
 
 > $\vec{E}$ is different at every single $dr$, as we move closer to/farther from charges

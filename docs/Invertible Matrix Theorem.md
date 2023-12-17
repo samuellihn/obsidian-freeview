@@ -14,7 +14,7 @@ d. **The [[Matrix Ax=b|equation]] $Ax=0$ has only the [[Homogenous System|trivia
 
 > Because there is no free variable, because there are $n$ pivots
 
-e. **The columns of $A$ form a [[Linear Dependence| linearly independent]] set** 
+e. **The columns of $A$ form a [[Linear Independence| linearly independent]] set** 
 
 > Because $Ax=0$ has only trivial solution 
 

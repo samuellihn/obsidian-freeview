@@ -1,6 +1,6 @@
-Elementary matrices are the identity matrix with **a single elementary row operation** 
+lementary matrices are the identity matrix with **a single elementary row operation** 
 
-> Columns are always [[Linear Dependence|Linearly Independent]]
+> Columns are always [[Linear Independence|Linearly Independent]]
 
 Multiplying any elementary matrix (that has had an elementary row operation done to it) by an equivalently sized matrix $A$ is equivalent to doing that elementary row operation directly on $A$
 

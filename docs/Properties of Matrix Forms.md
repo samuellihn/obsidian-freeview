@@ -1,4 +1,3 @@
-
 Three properties of **echelon form**:
 1. Nonzero rows above rows of zeroes
 2. "Triangular" - leading entries are succisively to the right

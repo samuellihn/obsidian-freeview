@@ -17,6 +17,9 @@ To get a single variable, $i = \frac{dq_c}{dt}$. However, since $i$ is decreasin
  
  
  
+ 
+ 
+ 
  $$  
 
  From there, we can turn this into something we can [[Integrals|Integrate]]:  
@@ -26,12 +29,18 @@ To get a single variable, $i = \frac{dq_c}{dt}$. However, since $i$ is decreasin
  
  
  
+ 
+ 
+ 
  $$  
 
  Turns into:  
 
  $$
  \frac{-t}{RC} = \ln{q} - \ln{Q_0} \rightarrow \frac{-t}{RC} = \ln{\frac{q}{Q_0}} 
+ 
+ 
+ 
  
  
  

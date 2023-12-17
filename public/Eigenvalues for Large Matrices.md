@@ -1,4 +1,4 @@
-If a matrix is in triangular form (see [[Matrix Terms]]), the eigenvalues for the matrix are its entries on its main diagonal
+If a matrix is in triangular form (see [[Special Matrices]]), the eigenvalues for the matrix are its entries on its main diagonal
 
 > Closely related to [[Properties of Determinants]]
 > If the matrix is not **originally** in triangular form, we cannot use this

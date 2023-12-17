@@ -2,7 +2,7 @@ LU (lower-upper) factorization is a method of [[Solving Linear Systems]] that br
 
 $A$ is an $m \times n$ rectangular or square matrix that can be reduced to row echelon form **without row interchanges**
 
-L, an $m \times m$ **square, invertible** matrix, takes the form of a **unit** lower triangular matrix (see [[Matrix Terms]]):
+L, an $m \times m$ **square, invertible** matrix, takes the form of a **unit** lower triangular matrix (see [[Special Matrices]]):
 
 $$
 \left[

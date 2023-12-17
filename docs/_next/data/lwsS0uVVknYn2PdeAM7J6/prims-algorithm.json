@@ -1,1 +1,0 @@
-{"pageProps":{"mdContent":"<p>For a <a href=\"spanning-tree\">Minimum spanning tree</a></p>\n<p>To choose minimum weight edges connected to the set of minimum weight edges already chosen without forming a cycle</p>\n<p>Is an optimal algorithm - guarantees the best solution</p>","pageTitle":"Prim's Algorithm"},"__N_SSG":true}

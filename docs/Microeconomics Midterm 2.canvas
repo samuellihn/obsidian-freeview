@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"79f4834cff5c74bd","x":-60,"y":-2840,"width":1720,"height":1860,"type":"group","label":"Production"},
+		{"id":"8b7ff9f2f997112a","type":"group","x":-60,"y":-840,"width":1720,"height":1460,"label":"Tax"},
+		{"id":"4c00b0597756013a","type":"group","x":1740,"y":-840,"width":1400,"height":1460,"label":"Utility"},
+		{"id":"fe8455c70cf616f8","type":"file","file":"Excise Tax and Elasticity.md","x":536,"y":-240,"width":528,"height":840},
+		{"id":"65eed5e5838aca69","type":"file","file":"Deadweight Loss.md","x":1112,"y":-240,"width":528,"height":840},
+		{"id":"b016406158d55aec","type":"file","file":"Excise Tax Revenue.md","x":-40,"y":-240,"width":528,"height":840},
+		{"id":"031af98ae0627fc6","type":"file","file":"Excise Tax.md","x":536,"y":-800,"width":528,"height":400},
+		{"id":"52a03794a1090ca4","type":"file","file":"Tax.md","x":-40,"y":-800,"width":528,"height":400},
+		{"id":"a69200ebfdae3ec7","type":"file","file":"Budget Line.md","x":1760,"y":-240,"width":425,"height":840},
+		{"id":"df82b41507b185da","type":"file","file":"Optimal Choice.md","x":2228,"y":-240,"width":425,"height":840},
+		{"id":"37a7addc2bf4f198","type":"file","file":"Indifference Curve.md","x":2472,"y":-800,"width":648,"height":400},
+		{"id":"e471e5f6f58736bf","type":"file","file":"Extreme Indifference Curves.md","x":2695,"y":-240,"width":425,"height":840},
+		{"id":"f0f7b7da98d7cc15","type":"file","file":"Utility.md","x":1760,"y":-800,"width":648,"height":400},
+		{"id":"a7e7ae79c32c14a2","x":24,"y":-2761,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e141482be2a6ea74","type":"file","file":"Production Function.md","x":-20,"y":-2289,"width":528,"height":1289},
+		{"id":"ed441de23dd70a3a","type":"file","file":"Average and Marginal Cost.md","x":556,"y":-2289,"width":528,"height":1289},
+		{"id":"27a55addbb3c3620","type":"file","file":"Production Costs.md","x":-20,"y":-2800,"width":746,"height":440},
+		{"id":"e1afc5cdb94ebf45","type":"file","file":"Short and Long Run Production.md","x":820,"y":-2800,"width":800,"height":440},
+		{"id":"8546502906006cf2","type":"file","file":"Marginal Cost and Supply Curve.md","x":1220,"y":-2289,"width":400,"height":400},
+		{"id":"531e2377c37191c6","type":"file","file":"Fixed and Variable Cost.md","x":1220,"y":-1720,"width":400,"height":360}
+	],
+	"edges":[
+		{"id":"bae41e8d4c30cbf5","fromNode":"031af98ae0627fc6","fromSide":"bottom","toNode":"fe8455c70cf616f8","toSide":"top","color":"6"},
+		{"id":"aa936d80eb2f2ae4","fromNode":"031af98ae0627fc6","fromSide":"bottom","toNode":"b016406158d55aec","toSide":"top","color":"6"},
+		{"id":"e7fe9523d9c57e7a","fromNode":"031af98ae0627fc6","fromSide":"bottom","toNode":"65eed5e5838aca69","toSide":"top","color":"6"},
+		{"id":"de77aa44842b9f94","fromNode":"52a03794a1090ca4","fromSide":"right","toNode":"031af98ae0627fc6","toSide":"left"},
+		{"id":"467769d6971412d8","fromNode":"f0f7b7da98d7cc15","fromSide":"right","toNode":"37a7addc2bf4f198","toSide":"left"},
+		{"id":"54aec803a2cf1114","fromNode":"a69200ebfdae3ec7","fromSide":"right","toNode":"df82b41507b185da","toSide":"left"},
+		{"id":"714b19c0bb1bb675","fromNode":"37a7addc2bf4f198","fromSide":"bottom","toNode":"df82b41507b185da","toSide":"top"},
+		{"id":"27e95831ceb608c8","fromNode":"ed441de23dd70a3a","fromSide":"right","toNode":"8546502906006cf2","toSide":"left"},
+		{"id":"5b11aad334ec4ed2","fromNode":"27a55addbb3c3620","fromSide":"bottom","toNode":"e141482be2a6ea74","toSide":"top"},
+		{"id":"fa56fcc2cce10d45","fromNode":"ed441de23dd70a3a","fromSide":"right","toNode":"531e2377c37191c6","toSide":"left"},
+		{"id":"1909733df9ea0750","fromNode":"27a55addbb3c3620","fromSide":"right","toNode":"e1afc5cdb94ebf45","toSide":"left"}
+	]
+}
